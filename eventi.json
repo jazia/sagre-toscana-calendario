@@ -4,1898 +4,54 @@
   "pages": [
     {
       "page": 1,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=1",
       "count": 10
     },
     {
       "page": 2,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=2",
       "count": 10
     },
     {
       "page": 3,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=3",
       "count": 10
     },
     {
       "page": 4,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=4",
       "count": 10
     },
     {
       "page": 5,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=5",
       "count": 10
     },
     {
       "page": 6,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=6",
       "count": 10
     },
     {
       "page": 7,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=7",
       "count": 10
     },
     {
       "page": 8,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=8",
       "count": 10
     },
     {
       "page": 9,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=9",
       "count": 10
     },
     {
       "page": 10,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=10",
       "count": 10
     },
     {
       "page": 11,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=11",
       "count": 10
     },
     {
       "page": 12,
-      "url": "https://www.sagretoscane.com/cerca?q=&category=&tag=&area=&city=&date=&page=12",
       "count": 5
     }
   ],
   "events": [
-    {
-      "id": 1,
-      "name": "Festa del Contadino",
-      "location": "Torre, Fucecchio (FI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/fi/fucecchio/festa-di-contadino.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 2,
-      "name": "Sagra del Fungo Porcino e Tortello",
-      "location": "Stadio Comunale, Pontassieve (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-fungo-porcino-e-del-tortello-pontassieve.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-09-25",
-          "2026-09-27"
-        ],
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 3,
-      "name": "Festa dello Stringozzo e Funghi Porcini",
-      "location": "Campo sportivo, Cascine di Buti, Buti (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/buti/festa-dello-stringozzo-e-funghi-porcini.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 4,
-      "name": "Sagra del Fritto Misto",
-      "location": "SMS Croce Azzurra, Piazza Sergio Chiari 5, Le Sieci, Pontassieve (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-fritto.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 5,
-      "name": "Il Palio del Papero",
-      "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/pi/san-miniato/palio-del-papero.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 6,
-      "name": "Mostra Mercato Scambio di Fumetti e Dintorni",
-      "location": "Maremonti Shopping Center, Via Massa Avenza 32, Massa (MS), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/ms/massa/mostra-mercato-scambio.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 7,
-      "name": "Sagra del Porcino e della Chianina",
-      "location": "Via Enrico Fermi 1, Castelfranco di Sotto (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/castelfranco-di-sotto/sagra-del-porcino-e-della-chianina.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ],
-        [
-          "2026-10-31",
-          "2026-11-01"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 8,
-      "name": "Sagra del Tortello, Fungo Porcino e Marrone del Mugello",
-      "location": "Campo Sportivo Le Cortine, Via Giacomo Matteotti 52, Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tortello-fungo-porcino-e-marrone-del-mugello.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ],
-        [
-          "2026-10-31",
-          "2026-11-01"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 9,
-      "name": "Sagra del Fungo Porcino e della Bistecca",
-      "location": "Noceta, Castiglion Fiorentino (AR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ar/castiglion-fiorentino/sagra-del-fungo-porcino-e-della-bistecca.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 10,
-      "name": "Festa degli Antichi Mestieri e Sagra del Panello con l'Uva",
-      "location": "Pieve di Gaville, Figline Valdarno (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/figline-valdarno/sagra-degli-antichi-mestieri-e-del-panello-con-l-uva.html",
-      "source_page": 1,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 11,
-      "name": "Sagra delle Focaccette",
-      "location": "Piazza della Pieve, Monti, Licciana Nardi (MS), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ms/licciana-nardi/sagra-delle-focaccette-monti.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-09-19",
-          "2026-09-20"
-        ],
-        [
-          "2026-09-26",
-          "2026-09-27"
-        ],
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 12,
-      "name": "Sagra del Fungo",
-      "location": "Casa del Popolo, Sorgnano, Carrara (MS), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ms/carrara/sagra-del-fungo-e-della-polenta-fritta.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-01",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 13,
-      "name": "Festa della Castagna",
-      "location": "Lupinaia, Fosciandora (LU), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/lu/fosciandora/festa-della-castagna-lupinaia.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 14,
-      "name": "Festa d'Ottobre",
-      "location": "Vallerona, Roccalbegna (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/roccalbegna/festa-d-ottobre-vallerona.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 15,
-      "name": "Bada che gota",
-      "location": "Colle Alta, Colle di Val d'Elsa (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/colle-val-d-elsa/bada-che-gota.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 16,
-      "name": "Festa della Zucca",
-      "location": "Piegaio e Trebbio, Pescaglia (LU), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/lu/pescaglia/festa-della-zucca-piegaio-trebbio.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 17,
-      "name": "Tuscany Medieval Festival",
-      "location": "Castello di Monteriggioni, Monteriggioni (SI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/si/monteriggioni/tuscany-medieval-festival.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 18,
-      "name": "Il Pigio",
-      "location": "Poggibonsi (SI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/si/poggibonsi/il-pigio-poggibonsi.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 19,
-      "name": "Casole Vintage",
-      "location": "Centro storico, Casole dʼElsa (SI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/casole-delsa/casole-vintage.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 20,
-      "name": "Mostra Mercato Autunnale di Piante e Fiori",
-      "location": "Giardino dell'Orticoltura, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mostra-autunnale-di-piante-e-fiori-orticoltura.html",
-      "source_page": 2,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 21,
-      "name": "Fashion in Flair",
-      "location": "Real Collegio, Lucca (LU), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/lucca/fashion-in-flair-lucca.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 22,
-      "name": "Fiera Internazionale della Ceramica",
-      "location": "Piazza Santa Croce, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-internazionale-della-ceramica.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 23,
-      "name": "Fiera d’Autunno e della Castagna",
-      "location": "Parco Fiera, Barbarasco, Tresana (MS), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/ms/tresana/fiera-d-autunno-barbarasco.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 24,
-      "name": "Mercatini dell’usato e baratto",
-      "location": "Piazzale Don Baroni, Lucca (LU), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usato-e-baratto.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 25,
-      "name": "Collezionare in Dalmazia",
-      "location": "Piazza Dalmazia, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-dalmazia.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 26,
-      "name": "Aprilante",
-      "location": "Panzano in Chianti, Greve in Chianti (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/greve/aprilante-panzano-in-chianti.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 27,
-      "name": "Festival del Riuso a Viareggio",
-      "location": "Piazza Papa Paolo VI, Viareggio (LU), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/viareggio/festival-del-riuso-viareggio.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 28,
-      "name": "Mercatino di Porsenna",
-      "location": "Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 29,
-      "name": "L'Angolo del Collezionista a Gaiole in Chianti",
-      "location": "Via Roma, Gaiole in Chianti (SI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/gaiole-in-chianti/angolo-del-collezionista-gaiole-in-chianti.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 30,
-      "name": "L’Angolo del Tempo",
-      "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-tempo-castelfiorentino.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 31,
-      "name": "Fiera Nazionale degli Uccelli da Richiamo",
-      "location": "Pian di Scò, Castelfranco Piandiscò (AR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/ar/castelfranco-piandisco/fiera-nazionale-degli-uccelli-da-richiamo-a-pian-di-sco.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 32,
-      "name": "Festa dell'Uva",
-      "location": "Cinigiano (GR), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/gr/cinigiano/festa-dell-uva-cinigiano.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 33,
-      "name": "Festa del Vino",
-      "location": "Montescudaio (PI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/pi/montescudaio/festa-del-vino-montescudaio.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 34,
-      "name": "Lucca Chocolate Festival",
-      "location": "Piazza San Frediano, Lucca (LU), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/lu/lucca/chocomoments.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 35,
-      "name": "Panigalonga",
-      "location": "Podenzana (MS), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/ms/podenzana/panigalonga-podenzana.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 36,
-      "name": "Mercatino Regionale Piemontese a Prato",
-      "location": "Piazza San Francesco, Prato (PO), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/po/prato/mercatino-regionale-piemontese-prato.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 37,
-      "name": "Chocomoments Portoferraio",
-      "location": "Piazza della Repubblica, Portoferraio (LI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/li/portoferraio/choco-moments-portoferraio.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 38,
-      "name": "Firenze Sake Days",
-      "location": "Firenze (FI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/fi/firenze/firenze-sake-days.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 39,
-      "name": "Festa d'Autunno",
-      "location": "Tiro di Orzaglia, San Romano in Garfagnana (LU), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/lu/san-romano-in-garfagnana/festa-d-autunno-san-romano-garfagnana.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 40,
-      "name": "Collezionisti in Piazza",
-      "location": "Centro storico di Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/collezionisti-in-piazza.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 41,
-      "name": "Antica Fiera di Antella",
-      "location": "Antella, Bagno a Ripoli (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/antica-fiera-di-antella.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-05"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 42,
-      "name": "Oktober Fuego",
-      "location": "Via Duca d'Aosta, Palazzuolo sul Senio (FI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/fi/palazzuolo-sul-senio/oktober-fuego-palazzuolo-sul-senio.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-10"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 43,
-      "name": "Sagra della Polenta",
-      "location": "Piazzale delle Feste, Guardistallo (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/guardistallo/sagra-della-polenta-guardistallo.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 44,
-      "name": "Sagra delle Frugiate",
-      "location": "Vellano, Pescia (PT), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pt/pescia/sagra-delle-frugiate.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 45,
-      "name": "Sagra del Porcino",
-      "location": "Casale di Pari, Civitella Paganico (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/civitella-paganico/sagra-del-porcino-casale-di-pari.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 46,
-      "name": "Sagra della Lepre e del Cinghiale",
-      "location": "Selvatelle, Terricciola (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/terricciola/sagra-della-lepre-selvatelle.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-09-26",
-          "2026-09-27"
-        ],
-        [
-          "2026-10-02",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 47,
-      "name": "Sagra della Lepre",
-      "location": "Casa del Popolo di Palaie, Pelago (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/pelago/sagra-della-lepre-pelago.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 48,
-      "name": "Festa della Castagna",
-      "location": "Monticello Amiata, Cinigiano (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/cinigiano/festa-della-castagna-monticello.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 49,
-      "name": "Festa d'Autunno",
-      "location": "Caldana, Gavorrano (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/gavorrano/festa-d-autunno-caldana.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 50,
-      "name": "Sagra della Polenta e della Castagna",
-      "location": "Parco Fiera, Barbarasco, Tresana (MS), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ms/tresana/sagra-della-polenta-e-della-castagna.html",
-      "source_page": 5,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 51,
-      "name": "Festa della Montagnola",
-      "location": "Ancaiano, Sovicille (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/sovicille/festa-della-montagnola.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 52,
-      "name": "Festa Contadina e Sagra della Ribollita",
-      "location": "Asciano (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/asciano/festa-contadina-e-sagra-della-ribollita.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 53,
-      "name": "Festa dell'Uva",
-      "location": "Capoliveri (LI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/li/capoliveri/festa-dell-uva-capoliveri.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 54,
-      "name": "Festa del Tordello e del Cavolo Nero con i Ritagli di Maiale",
-      "location": "Spazio Sagre, Cascine di Buti, Buti (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/buti/festa-del-tordello-e-del-cavolo-nero-con-i-ritagli-di-maiale-buti.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 55,
-      "name": "Fiera alla Pieve",
-      "location": "Sinalunga (SI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/si/sinalunga/fiera-alla-pieve.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 56,
-      "name": "Mostra del Carro Agricolo",
-      "location": "Fratticciola, Cortona (AR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/ar/cortona/mostra-del-carro-agricolo.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 57,
-      "name": "Fiera d'Ottobre",
-      "location": "Dicomano (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/dicomano/fiera-di-ottobre-festa-dell-uva-e-del-marrone.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 58,
-      "name": "Festa Pic",
-      "location": "Camaiore (LU), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/festa-pic.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 59,
-      "name": "Mercato Internazionale",
-      "location": "Arezzo (AR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/ar/arezzo/mercato-internazionale-arezzo.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 60,
-      "name": "Scandicci Fiera",
-      "location": "Piazza Resistenza e area fieristica, Scandicci (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scandicci/scandicci-fiera.html",
-      "source_page": 6,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 61,
-      "name": "Artigianato d'Autore",
-      "location": "25 Hours Hotel, Piazza San Paolino, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/artigianato-d-autore-firenze-san-paolino.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 62,
-      "name": "Rassegna Micologica",
-      "location": "Cutigliano, Cutigliano (PT), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-micologica-della-montagna-pistoiese.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 63,
-      "name": "Mostra mercato del Tartufo di Forcoli",
-      "location": "Centro Nuova Primavera, Forcoli, Palaia (PI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/pi/palaia/mostra-mercato-del-tartufo-e-del-fungo-porcino.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 64,
-      "name": "Fiera d'Ottobre",
-      "location": "Castiglione di Garfagnana (LU), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/lu/castiglione-di-garfagnana/fiera-d-ottobre.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 65,
-      "name": "ChocoMoments Cortona",
-      "location": "Piazza della Repubblica, Cortona (AR), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/ar/cortona/choco-cortona.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-08",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 66,
-      "name": "Dit'unto – Festival del Mangiar con le Mani",
-      "location": "Villa a Sesta, Castelnuovo Berardenga (SI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/si/castelnuovo-berardenga/festival-del-mangiar-con-le-mani-dit-unto.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 67,
-      "name": "Il risveglio delle cantine",
-      "location": "Semproniano (GR), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/gr/semproniano/il-risveglio-delle-cantine.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 68,
-      "name": "Sagra della Castagna a Montorsaio",
-      "location": "Montorsaio, Campagnatico (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/campagnatico/sagra-della-castagna-e-festa-patronale-s-cerbone.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 69,
-      "name": "Sagra della Castagna",
-      "location": "Mozzano, Fivizzano (MS), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ms/fivizzano/sagra-della-castagna-mozzano.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 70,
-      "name": "Sagra della Polenta",
-      "location": "Bivio di Ravi, Gavorrano (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/gavorrano/sagra-della-polenta-bivio-di-ravi.html",
-      "source_page": 7,
-      "periods": [
-        [
-          "2026-09-26",
-          "2026-09-27"
-        ],
-        [
-          "2026-10-03",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 71,
-      "name": "La Festa del Paese",
-      "location": "Saline di Volterra, Volterra (PI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/pi/volterra/la-festa-del-paese.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-03",
-          "2026-10-11"
-        ]
-      ],
-      "note": "Intervallo dei festeggiamenti patronali; stand gastronomico aperto il sabato e la domenica. Consultare il programma per le singole iniziative."
-    },
-    {
-      "id": 72,
-      "name": "Mangiawalking d'Autunno",
-      "location": "Piazza della Torre, Casola in Lunigiana (MS), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/ms/casola-in-lunigiana/mangiawalking-d-autunno.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "note": "In caso di maltempo la scheda indica il rinvio al 18 ottobre: questa data alternativa non è aggiunta come appuntamento confermato."
-    },
-    {
-      "id": 73,
-      "name": "Sagra del Fungo e della Castagna – Palio del Boscaiolo",
-      "location": "Vivo d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/castiglione-dorcia/sagra-del-fungo-e-della-castagna.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 74,
-      "name": "Festa del Marrone",
-      "location": "Parco Antonio Berti, San Piero a Sieve, Scarperia e San Piero (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/festa-del-marrone-e-dei-prodotti-tipici.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": "Date verificate sulla locandina 2026: 4, 11 e 18 ottobre. Il testo della scheda riporta per errore il 19.",
-      "verification_url": "https://www.sagretoscane.com/_data/upload/festa-del-marrone-e-dei-prodotti-tipici.jpg"
-    },
-    {
-      "id": 75,
-      "name": "Sagra del Polliglio",
-      "location": "Baccaiano, Montespertoli (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/montespertoli/sagra-del-polliglio.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 76,
-      "name": "Festa dell'Olio Novo",
-      "location": "Trequanda (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/trequanda/festa-dell-olio-novo.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ]
-      ],
-      "note": "",
-      "period_locations": [
-        "Castelmuzio, Trequanda (SI), Toscana, Italia",
-        "Trequanda (SI), Toscana, Italia"
-      ]
-    },
-    {
-      "id": 77,
-      "name": "Sagra del Tartufo Bianco e del Fungo",
-      "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-e-del-fungo.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 78,
-      "name": "Festa d'Autunno",
-      "location": "Abbadia San Salvatore (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/abbadia-san-salvatore/festa-d-autunno-abbadia-san-salvatore.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-09",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 79,
-      "name": "La Castagna racconta",
-      "location": "Licciana Nardi (MS), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ms/licciana-nardi/la-castagna-racconta.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 80,
-      "name": "Sagra della Ficattola",
-      "location": "Circolo MCL, San Vincenzo a Torri, Scandicci (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/scandicci/sagra-della-ficattola-san-vincenzo-a-torri.html",
-      "source_page": 8,
-      "periods": [
-        [
-          "2026-09-06",
-          "2026-09-06"
-        ],
-        [
-          "2026-09-20",
-          "2026-09-20"
-        ],
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 81,
-      "name": "Sagra della Castagna",
-      "location": "Montecchio Vesponi, Castiglion Fiorentino (AR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ar/castiglion-fiorentino/sagra-della-castagna-montecchio-vesponi.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 82,
-      "name": "Festa della castagna",
-      "location": "San Giovanni alla Vena, Vicopisano (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/vicopisano/festa-della-castagna-vicopisano.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 83,
-      "name": "Festa della Castagna e del Porcino",
-      "location": "Lucignano (AR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ar/lucignano/festa-della-castagna-e-del-porcino.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 84,
-      "name": "Mondinata in Piazza",
-      "location": "Piazza della Stazione, Mologno, Barga (LU), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/lu/barga/mondinata-in-piazza-mologno.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 85,
-      "name": "Calenzano 1325",
-      "location": "Calenzano (FI), Toscana, Italia",
-      "category": "Feste e Folclore",
-      "url": "https://www.sagretoscane.com/feste/fi/calenzano/calenzano-1325.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 86,
-      "name": "Galluzzo in fiera",
-      "location": "Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 87,
-      "name": "L'Angolo del Collezionista a Siena",
-      "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 88,
-      "name": "Piazza Bartali Shopping",
-      "location": "Piazza Gino Bartali, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/piazza-bartali-shopping.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 89,
-      "name": "My Stufato",
-      "location": "San Giovanni Valdarno (AR), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/ar/san-giovanni-valdarno/my-stufato.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 90,
-      "name": "Borgo diVino in tour a Montaione",
-      "location": "Montaione (FI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/fi/montaione/borgo-divino-in-tour-a-montaione.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 91,
-      "name": "Mangialonga al Tartufo Bianco",
-      "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/pi/san-miniato/mangialonga-al-tartufo-bianco-balconevisi.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 92,
-      "name": "Festa delle Castagne",
-      "location": "Lucolena, Greve in Chianti (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/greve/festa-delle-castagne.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-15",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 93,
-      "name": "Terre di Pisa Food & Wine Festival",
-      "location": "Piazza Vittorio Emanuele II, Pisa (PI), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/pi/pisa/pisa-food-wine-festival.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 94,
-      "name": "L'Angolo del Collezionista a Grosseto",
-      "location": "Grosseto (GR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-24",
-          "2026-10-24"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 95,
-      "name": "Sagra delle Castagne – Mostra Mercato del Marron buono",
-      "location": "Marradi (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/marradi/sagra-delle-castagne.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 96,
-      "name": "La Castagnata",
-      "location": "Filetto, Villafranca in Lunigiana (MS), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ms/villafranca-in-lunigiana/la-castagnata.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 97,
-      "name": "Feste di ottobre a Sassetta",
-      "location": "Sassetta (LI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/li/sassetta/tordata-e-feste-d-ottobre.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": "",
-      "period_titles": [
-        "Sagra della Zuppa",
-        "Tordata e Sagra della Castagna",
-        "Sagra della Polenta e Palio dei Carretti"
-      ]
-    },
-    {
-      "id": 98,
-      "name": "Sagra del Marrone e dei Frutti del Sottobosco",
-      "location": "Palazzuolo sul Senio (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/palazzuolo-sul-senio/sagra-del-marrone-e-dei-frutti-del-sottobosco.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 99,
-      "name": "La Castagna in Festa",
-      "location": "Arcidosso (GR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/gr/arcidosso/la-castagna-in-festa.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-16",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-23",
-          "2026-10-25"
-        ]
-      ],
-      "note": "Date verificate sulla locandina 2026: 16–18 e 23–25 ottobre; corretto il refuso «167» nel testo.",
-      "verification_url": "https://www.sagretoscane.com/_data/upload/la-castagna-in-festa.jpg"
-    },
-    {
-      "id": 100,
-      "name": "Festa del Marrone",
-      "location": "Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marrone.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 101,
-      "name": "Sagra della Castagna",
-      "location": "Parco Danielli, Buti (PI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/buti/sagra-della-castagna-buti.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 102,
-      "name": "Festa della Castagna e del Marrone DOP di Caprese",
-      "location": "Caprese Michelangelo (AR), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/ar/caprese-michelangelo/festa-della-castagna-caprese-michelangelo.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 103,
-      "name": "Sagra dì Bollito",
-      "location": "Centro Pastorale Giorgio La Pira, Via Vallombrosana 4, Pelago (FI), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/fi/pelago/sagra-di-bollito.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 104,
-      "name": "Sagra sul Sagrato in autunno",
-      "location": "Sagrato della chiesa, Migliarina, Viareggio (LU), Toscana, Italia",
-      "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/lu/viareggio/sagra-sul-sagrato-in-autunno.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-17",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 105,
-      "name": "Mostra delle Camelie d'Autunno",
-      "location": "Pieve e Sant'Andrea di Compito, Capannori (LU), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/capannori/le-camelie-d-autunno.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ],
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 106,
-      "name": "Sagra della castagna",
-      "location": "Montieri (GR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/gr/montieri/sagra-della-castagna-montieri-2.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ],
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 107,
-      "name": "Rassegna della Castanicoltura",
-      "location": "Cutigliano, Cutigliano (PT), Toscana, Italia",
-      "category": "Eventi enogastronomici",
-      "url": "https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-della-castanicoltura.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
     {
       "id": 108,
       "name": "Corona Summer",
@@ -1983,49 +139,80 @@
         "Oktoberfest",
         "Festa di Halloween"
       ],
-      "verification_url": "https://www.sagretoscane.com/_data/upload/corona-summer.jpg"
+      "verification_url": "https://www.sagretoscane.com/_data/upload/corona-summer.jpg",
+      "source_hash": "8d503b49930b8020a54674bff69627162759cb971717fe1a9191963404726020"
     },
     {
-      "id": 109,
-      "name": "Santo Spirito in Fiera",
-      "location": "Piazza Santo Spirito, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": ""
-    },
-    {
-      "id": 110,
-      "name": "Festa della Polenta a palle ai Funghi porcini",
-      "location": "Campo sportivo, Bientina (PI), Toscana, Italia",
+      "id": 80,
+      "name": "Sagra della Ficattola",
+      "location": "Circolo MCL, San Vincenzo a Torri, Scandicci (FI), Toscana, Italia",
       "category": "Sagre gastronomiche",
-      "url": "https://www.sagretoscane.com/sagre/pi/bientina/festa-della-polenta-a-palle-ai-funghi-porcini.html",
-      "source_page": 11,
+      "url": "https://www.sagretoscane.com/sagre/fi/scandicci/sagra-della-ficattola-san-vincenzo-a-torri.html",
+      "source_page": 8,
       "periods": [
         [
-          "2026-10-11",
-          "2026-10-11"
+          "2026-09-06",
+          "2026-09-06"
+        ],
+        [
+          "2026-09-20",
+          "2026-09-20"
+        ],
+        [
+          "2026-10-04",
+          "2026-10-04"
         ],
         [
           "2026-10-18",
           "2026-10-18"
-        ],
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ],
-        [
-          "2026-11-01",
-          "2026-11-01"
         ]
       ],
-      "note": ""
+      "note": "",
+      "source_hash": "e005192aaa125ed6524b0d80b858e7336408b44b255779068bdd431ae91da33d"
+    },
+    {
+      "id": 11,
+      "name": "Sagra delle Focaccette",
+      "location": "Piazza della Pieve, Monti, Licciana Nardi (MS), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ms/licciana-nardi/sagra-delle-focaccette-monti.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-09-19",
+          "2026-09-20"
+        ],
+        [
+          "2026-09-26",
+          "2026-09-27"
+        ],
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "481f901b9216343f307a9b6d1e811538edf623cbc00640e7ae6b8992335926ba"
+    },
+    {
+      "id": 2,
+      "name": "Sagra del Fungo Porcino e Tortello",
+      "location": "Stadio Comunale, Pontassieve (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-fungo-porcino-e-del-tortello-pontassieve.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-09-25",
+          "2026-09-27"
+        ],
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "4ed4346801341103425d68d221ab09e72929e980aa17f657219daef43f8428b2"
     },
     {
       "id": 111,
@@ -2060,22 +247,1923 @@
           "2026-11-01"
         ]
       ],
-      "note": ""
+      "note": "",
+      "source_hash": "2341673e7bf00b401feeed6e222d5af05e917aadbe872d146c4277b5c9eed784"
     },
     {
-      "id": 112,
-      "name": "Fiera di Ognissanti al Parco delle Cascine",
-      "location": "Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html",
-      "source_page": 12,
+      "id": 70,
+      "name": "Sagra della Polenta",
+      "location": "Bivio di Ravi, Gavorrano (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/gavorrano/sagra-della-polenta-bivio-di-ravi.html",
+      "source_page": 7,
       "periods": [
+        [
+          "2026-09-26",
+          "2026-09-27"
+        ],
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "4eed93c69f85282d286fe535b61b913aab9a29c917c08b8d9fbad00e23a71c18"
+    },
+    {
+      "id": 46,
+      "name": "Sagra della Lepre e del Cinghiale",
+      "location": "Selvatelle, Terricciola (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/terricciola/sagra-della-lepre-selvatelle.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-09-26",
+          "2026-09-27"
+        ],
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "925001a65db3c3c25b59096f76fdafa4910a5ac7f24bdf6c868575c1b2b758be"
+    },
+    {
+      "id": 12,
+      "name": "Sagra del Fungo",
+      "location": "Casa del Popolo, Sorgnano, Carrara (MS), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ms/carrara/sagra-del-fungo-e-della-polenta-fritta.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-01",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "eedc974b3d18523d3a4a6004dd730a1cf3ed19b1fffc6070c9ee637a526681b9"
+    },
+    {
+      "id": 17,
+      "name": "Tuscany Medieval Festival",
+      "location": "Castello di Monteriggioni, Monteriggioni (SI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/si/monteriggioni/tuscany-medieval-festival.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "c6b86fdac27c57a896402ef3138b40c0a86f61e11e0788635cc57a5efa4b10b3"
+    },
+    {
+      "id": 20,
+      "name": "Mostra Mercato Autunnale di Piante e Fiori",
+      "location": "Giardino dell'Orticoltura, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mostra-autunnale-di-piante-e-fiori-orticoltura.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "52f1ebe4a1bd02d8afa218c9a2faba55d994ea738d5e26b75e5c4f0bb7d43b77"
+    },
+    {
+      "id": 21,
+      "name": "Fashion in Flair",
+      "location": "Real Collegio, Lucca (LU), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/lucca/fashion-in-flair-lucca.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "184e1a46c8fbfe586775484de6ef0f67781f4967f0adeb9604625559626b067d"
+    },
+    {
+      "id": 32,
+      "name": "Festa dell'Uva",
+      "location": "Cinigiano (GR), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/gr/cinigiano/festa-dell-uva-cinigiano.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "03b2e309e81d65887fbe0c9a3e39123c9094c2519ce00407bc68b15bb916740d"
+    },
+    {
+      "id": 37,
+      "name": "Chocomoments Portoferraio",
+      "location": "Piazza della Repubblica, Portoferraio (LI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/li/portoferraio/choco-moments-portoferraio.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "ae32240a2ffd83c38f6de37c28152251d04f11ee230f1bc1f0755550f0ca7c75"
+    },
+    {
+      "id": 34,
+      "name": "Lucca Chocolate Festival",
+      "location": "Piazza San Frediano, Lucca (LU), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/lu/lucca/chocomoments.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "a55b90cd0b03cc7561e565a675fc23c46ca9fca9b338f365404db87cfe460ccb"
+    },
+    {
+      "id": 9,
+      "name": "Sagra del Fungo Porcino e della Bistecca",
+      "location": "Noceta, Castiglion Fiorentino (AR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ar/castiglion-fiorentino/sagra-del-fungo-porcino-e-della-bistecca.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "3e225ddf3e33f909721efcd1808c06541fc0172c1b9f5b1492cae56d2b649280"
+    },
+    {
+      "id": 45,
+      "name": "Sagra del Porcino",
+      "location": "Casale di Pari, Civitella Paganico (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/civitella-paganico/sagra-del-porcino-casale-di-pari.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "924db4a7d01602bc2d9b51081b16a595c7fb0b4e935d7dca320506ca2968e7eb"
+    },
+    {
+      "id": 14,
+      "name": "Festa d'Ottobre",
+      "location": "Vallerona, Roccalbegna (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/roccalbegna/festa-d-ottobre-vallerona.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "241f007626818dd2084d057befae1cf3be4569233748a621b7364eecf51b30b3"
+    },
+    {
+      "id": 3,
+      "name": "Festa dello Stringozzo e Funghi Porcini",
+      "location": "Campo sportivo, Cascine di Buti, Buti (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/buti/festa-dello-stringozzo-e-funghi-porcini.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-02",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "818ffdf86600a6c3f7254972a8853faaf3b5f8b0d8bcc329b30805e353b53f2e"
+    },
+    {
+      "id": 71,
+      "name": "La Festa del Paese",
+      "location": "Saline di Volterra, Volterra (PI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/pi/volterra/la-festa-del-paese.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-11"
+        ]
+      ],
+      "note": "Intervallo dei festeggiamenti patronali; stand gastronomico aperto il sabato e la domenica. Consultare il programma per le singole iniziative.",
+      "source_hash": "27f0279013f929e7850b150485dcfd394f6fa170f29bf429778a21b224e1256a"
+    },
+    {
+      "id": 18,
+      "name": "Il Pigio",
+      "location": "Poggibonsi (SI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/si/poggibonsi/il-pigio-poggibonsi.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "817f86d9406f7eb5a2c640b01bae6719b5146203d13d2763b785fa4b31af9472"
+    },
+    {
+      "id": 55,
+      "name": "Fiera alla Pieve",
+      "location": "Sinalunga (SI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/si/sinalunga/fiera-alla-pieve.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "20c8334bc976ca522042e8e462ecc6f1f9e320a92841656d8addb609c5e8828a"
+    },
+    {
+      "id": 41,
+      "name": "Antica Fiera di Antella",
+      "location": "Antella, Bagno a Ripoli (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/antica-fiera-di-antella.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-05"
+        ]
+      ],
+      "note": "",
+      "source_hash": "c210325e697215eb4b32b699906a04f22bf1919b1b62063e3bd4c8b47d2e3857"
+    },
+    {
+      "id": 22,
+      "name": "Fiera Internazionale della Ceramica",
+      "location": "Piazza Santa Croce, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-internazionale-della-ceramica.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "0d74808b71918e0254dbfc26e96ada3df6933641aa39ff3619dc2857f60ac2d1"
+    },
+    {
+      "id": 60,
+      "name": "Scandicci Fiera",
+      "location": "Piazza Resistenza e area fieristica, Scandicci (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scandicci/scandicci-fiera.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "c34969c5e5a36c149e8dae7006e5605216b197bc848cc086c620117d8666e11f"
+    },
+    {
+      "id": 24,
+      "name": "Mercatini dell’usato e baratto",
+      "location": "Piazzale Don Baroni, Lucca (LU), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usato-e-baratto.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "e55fd23c6bb4b8960e9389516c7d82372637ad8b6961e3d7d9576e37175cd2ce"
+    },
+    {
+      "id": 29,
+      "name": "L'Angolo del Collezionista a Gaiole in Chianti",
+      "location": "Via Roma, Gaiole in Chianti (SI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/gaiole-in-chianti/angolo-del-collezionista-gaiole-in-chianti.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "fdd4bab6fc91f19242f0b8c569294b97bb3bacd5b6e51d8d05c0f43ad55f235c"
+    },
+    {
+      "id": 38,
+      "name": "Firenze Sake Days",
+      "location": "Firenze (FI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/fi/firenze/firenze-sake-days.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f479b1f4b9cbccf63f9d7c9030c7f449f9750b5f01058590d17e09875c5053b5"
+    },
+    {
+      "id": 33,
+      "name": "Festa del Vino",
+      "location": "Montescudaio (PI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/pi/montescudaio/festa-del-vino-montescudaio.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "18d08f491180929ce32f0f7b9181715ece924e5793eb1ce9f098528072b6f192"
+    },
+    {
+      "id": 36,
+      "name": "Mercatino Regionale Piemontese a Prato",
+      "location": "Piazza San Francesco, Prato (PO), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/po/prato/mercatino-regionale-piemontese-prato.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "0f2018837834563ae3ece657a210d69137bac6d937c19465be89d1e6447df58d"
+    },
+    {
+      "id": 47,
+      "name": "Sagra della Lepre",
+      "location": "Casa del Popolo di Palaie, Pelago (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/pelago/sagra-della-lepre-pelago.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "10c75630c5a992b3cf0f5a8b4792ded7932adc60bca6927e35255f8875411c9d"
+    },
+    {
+      "id": 4,
+      "name": "Sagra del Fritto Misto",
+      "location": "SMS Croce Azzurra, Piazza Sergio Chiari 5, Le Sieci, Pontassieve (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-fritto.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "0b0740122e4d20098721ad0870ab54d18daefb1370b57e9f4aa6e4d133141356"
+    },
+    {
+      "id": 49,
+      "name": "Festa d'Autunno",
+      "location": "Caldana, Gavorrano (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/gavorrano/festa-d-autunno-caldana.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "68f151a733b9550b9217b49509e1c64298f6f4cc05d3000a1dfb309c36387072"
+    },
+    {
+      "id": 7,
+      "name": "Sagra del Porcino e della Chianina",
+      "location": "Via Enrico Fermi 1, Castelfranco di Sotto (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/castelfranco-di-sotto/sagra-del-porcino-e-della-chianina.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-03",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ],
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "059ee91a529742f4e89b88627219308d7ef66166ac06ed440986372b49800c59"
+    },
+    {
+      "id": 1,
+      "name": "Festa del Contadino",
+      "location": "Torre, Fucecchio (FI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/fi/fucecchio/festa-di-contadino.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "dc42c952fcea73b2e5020ebe3d26ca0c5b0118772825384b8d7c6365cb76569a"
+    },
+    {
+      "id": 31,
+      "name": "Fiera Nazionale degli Uccelli da Richiamo",
+      "location": "Pian di Scò, Castelfranco Piandiscò (AR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/castelfranco-piandisco/fiera-nazionale-degli-uccelli-da-richiamo-a-pian-di-sco.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "70df1d50c0cfa4c20f411367614c4b60405a4eafac6e2f8730059c8dd1af55cb"
+    },
+    {
+      "id": 30,
+      "name": "L’Angolo del Tempo",
+      "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-tempo-castelfiorentino.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "53ef4cb09fdaacdacc7876ffacc2dc02b55dc796e6713793638fb1554445ffd1"
+    },
+    {
+      "id": 25,
+      "name": "Collezionare in Dalmazia",
+      "location": "Piazza Dalmazia, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-dalmazia.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "0207afd9d304083beb84ac86fc773a1ebef562390693bf9f055cb25ee7f1b381"
+    },
+    {
+      "id": 26,
+      "name": "Aprilante",
+      "location": "Panzano in Chianti, Greve in Chianti (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/greve/aprilante-panzano-in-chianti.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "3d053a0e703c08ff5c0f07464a2cb5b9a81d9455c37b1766ecf34cdbf93f98bb"
+    },
+    {
+      "id": 40,
+      "name": "Collezionisti in Piazza",
+      "location": "Centro storico di Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/collezionisti-in-piazza.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "63be841c4f06f79befa6601071bbd89d7cd910c5907fb5ded267567c2a26c7d9"
+    },
+    {
+      "id": 105,
+      "name": "Mostra delle Camelie d'Autunno",
+      "location": "Pieve e Sant'Andrea di Compito, Capannori (LU), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/capannori/le-camelie-d-autunno.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "317b625659b447f599cc09d82828ae3db8780af30401f4d8878ed91d26250f82"
+    },
+    {
+      "id": 27,
+      "name": "Festival del Riuso a Viareggio",
+      "location": "Piazza Papa Paolo VI, Viareggio (LU), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/viareggio/festival-del-riuso-viareggio.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "dc84ddfa0d8785e2a85590e28131bf8db043f58c4dcc1d030c1780937780c46e"
+    },
+    {
+      "id": 23,
+      "name": "Fiera d’Autunno e della Castagna",
+      "location": "Parco Fiera, Barbarasco, Tresana (MS), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ms/tresana/fiera-d-autunno-barbarasco.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "7b99680ecf0a07e354df7519852d367353d9098b903dcac0b0d1c3e402644680"
+    },
+    {
+      "id": 19,
+      "name": "Casole Vintage",
+      "location": "Centro storico, Casole dʼElsa (SI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/casole-delsa/casole-vintage.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "140927fbab8dd8751053fd4f90d4df4e9dc152b7180694456c4ba2172e323188"
+    },
+    {
+      "id": 28,
+      "name": "Mercatino di Porsenna",
+      "location": "Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "6c3516b495bc5b4bcbb2167497ed4084c06a069dce253673a66539d223da1867"
+    },
+    {
+      "id": 39,
+      "name": "Festa d'Autunno",
+      "location": "Tiro di Orzaglia, San Romano in Garfagnana (LU), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/lu/san-romano-in-garfagnana/festa-d-autunno-san-romano-garfagnana.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "9cdb3f7bb264607492851a46b2a6dfe9f52ee901ae232592d2becf5a64e807dd"
+    },
+    {
+      "id": 35,
+      "name": "Panigalonga",
+      "location": "Podenzana (MS), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/ms/podenzana/panigalonga-podenzana.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "59503abc8b3d3a9f0793f2041fb5e22c837ea4137aaa0728a12afcfb48a8a568"
+    },
+    {
+      "id": 10,
+      "name": "Festa degli Antichi Mestieri e Sagra del Panello con l'Uva",
+      "location": "Pieve di Gaville, Figline Valdarno (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/figline-valdarno/sagra-degli-antichi-mestieri-e-del-panello-con-l-uva.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "5a5ba0674f917a95b2dadd363a8e31f762021f92744c06ddf2f0c89bc3954593"
+    },
+    {
+      "id": 95,
+      "name": "Sagra delle Castagne – Mostra Mercato del Marron buono",
+      "location": "Marradi (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/marradi/sagra-delle-castagne.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8514ae2ba3b5a8036a5cf74f87d2dfe43b7265396e06a74e99763d7d8a5a372b",
+      "modified_at": "20261004T183340Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "id": 98,
+      "name": "Sagra del Marrone e dei Frutti del Sottobosco",
+      "location": "Palazzuolo sul Senio (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/palazzuolo-sul-senio/sagra-del-marrone-e-dei-frutti-del-sottobosco.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "eacd179df2421b3c530bfe29cb158507a1a2993adb5fac2877feac4f1e7626bf"
+    },
+    {
+      "id": 74,
+      "name": "Festa del Marrone",
+      "location": "Parco Antonio Berti, San Piero a Sieve, Scarperia e San Piero (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/festa-del-marrone-e-dei-prodotti-tipici.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "Date verificate sulla locandina 2026: 4, 11 e 18 ottobre. Il testo della scheda riporta per errore il 19.",
+      "verification_url": "https://www.sagretoscane.com/_data/upload/festa-del-marrone-e-dei-prodotti-tipici.jpg",
+      "source_hash": "5969eb41c338b4aea8020bf64f913cc30d011f280d3ad22b6a79357de3aa34fd"
+    },
+    {
+      "id": 13,
+      "name": "Festa della Castagna",
+      "location": "Lupinaia, Fosciandora (LU), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/lu/fosciandora/festa-della-castagna-lupinaia.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "512cddd93614e81e241e8afa5c01ef198a58372a4256b0c63427e0efd9f3ff2e"
+    },
+    {
+      "id": 16,
+      "name": "Festa della Zucca",
+      "location": "Piegaio e Trebbio, Pescaglia (LU), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/lu/pescaglia/festa-della-zucca-piegaio-trebbio.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8a18ada451fd6e33439482fa4a95394ab0929d9198dd2fbaccb74a66554198c9"
+    },
+    {
+      "id": 50,
+      "name": "Sagra della Polenta e della Castagna",
+      "location": "Parco Fiera, Barbarasco, Tresana (MS), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ms/tresana/sagra-della-polenta-e-della-castagna.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "723b59ad8c136ab6e3d50892fd053d9e22489105073b357746c62959b65fbb8b"
+    },
+    {
+      "id": 96,
+      "name": "La Castagnata",
+      "location": "Filetto, Villafranca in Lunigiana (MS), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ms/villafranca-in-lunigiana/la-castagnata.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "23da060270bb6ea05aed381d04df976f8a56023622cca4d161b30abdc6246981"
+    },
+    {
+      "id": 44,
+      "name": "Sagra delle Frugiate",
+      "location": "Vellano, Pescia (PT), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pt/pescia/sagra-delle-frugiate.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ],
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "7b19c305f58a30b45b2133139b3a9e69d59be04fb9da79b094cdb993651a4c69"
+    },
+    {
+      "id": 15,
+      "name": "Bada che gota",
+      "location": "Colle Alta, Colle di Val d'Elsa (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/colle-val-d-elsa/bada-che-gota.html",
+      "source_page": 2,
+      "periods": [
+        [
+          "2026-10-04",
+          "2026-10-04"
+        ]
+      ],
+      "note": "",
+      "source_hash": "5bcc3785342b13a17050d9417b077c4016fd52dfbc8ba3d8d85f426d1479cd26"
+    },
+    {
+      "id": 65,
+      "name": "ChocoMoments Cortona",
+      "location": "Piazza della Repubblica, Cortona (AR), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/ar/cortona/choco-cortona.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-08",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "fd4a2bc05b8f37c6daffbc8c2dab5ea03bf16cf94a781fa320bfa79a58d182a8"
+    },
+    {
+      "id": 59,
+      "name": "Mercato Internazionale",
+      "location": "Arezzo (AR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/arezzo/mercato-internazionale-arezzo.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "a28ff011ddad0bdb1558536496278671302cd0d6309466f909438fbe4b6e43e4"
+    },
+    {
+      "id": 56,
+      "name": "Mostra del Carro Agricolo",
+      "location": "Fratticciola, Cortona (AR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/cortona/mostra-del-carro-agricolo.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8d1233bc848ca50f56b4ab3d76f8fd20296c5ec2f7698adfba0fd2382b7980d9"
+    },
+    {
+      "id": 57,
+      "name": "Fiera d'Ottobre",
+      "location": "Dicomano (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/dicomano/fiera-di-ottobre-festa-dell-uva-e-del-marrone.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "ff20cd60a03caa2852dc80a225bda15189ab9fbe84377946754c9c83c155a966"
+    },
+    {
+      "id": 6,
+      "name": "Mostra Mercato Scambio di Fumetti e Dintorni",
+      "location": "Maremonti Shopping Center, Via Massa Avenza 32, Massa (MS), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ms/massa/mostra-mercato-scambio.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "c7454d0c1a51adc37cda69c0428baaa92a20b084cb66fb51ee6fb26f762255ac"
+    },
+    {
+      "id": 67,
+      "name": "Il risveglio delle cantine",
+      "location": "Semproniano (GR), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/gr/semproniano/il-risveglio-delle-cantine.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "2215a5cb0a049f4eb0ed8533f3a4c28ecd0f4588274fd6691a1d035329ddfb70"
+    },
+    {
+      "id": 63,
+      "name": "Mostra mercato del Tartufo di Forcoli",
+      "location": "Centro Nuova Primavera, Forcoli, Palaia (PI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/pi/palaia/mostra-mercato-del-tartufo-e-del-fungo-porcino.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "fb926cd409b9ec9af60eb08d62444cfeb80a1fb9684a869e3f8f1f734803ba09"
+    },
+    {
+      "id": 75,
+      "name": "Sagra del Polliglio",
+      "location": "Baccaiano, Montespertoli (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/montespertoli/sagra-del-polliglio.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "e7d4417869fbe9c79d620197e603c98f4ba2c6c91f944a1e77315ac8aea36019"
+    },
+    {
+      "id": 68,
+      "name": "Sagra della Castagna a Montorsaio",
+      "location": "Montorsaio, Campagnatico (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/campagnatico/sagra-della-castagna-e-festa-patronale-s-cerbone.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "a74a6a94a3e1210dada983ccef0d7aff61f75fb535fe017cb02c0e7954f9affe"
+    },
+    {
+      "id": 48,
+      "name": "Festa della Castagna",
+      "location": "Monticello Amiata, Cinigiano (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/cinigiano/festa-della-castagna-monticello.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "742e760fc73604a9429035a5a31f0aa1bdca1210595e1e5a6281ead32b60ef53"
+    },
+    {
+      "id": 53,
+      "name": "Festa dell'Uva",
+      "location": "Capoliveri (LI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/li/capoliveri/festa-dell-uva-capoliveri.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f3db6bd52770f91735f6e105d9254ebe9f9865248e0fa8e01807b31bba90144d"
+    },
+    {
+      "id": 54,
+      "name": "Festa del Tordello e del Cavolo Nero con i Ritagli di Maiale",
+      "location": "Spazio Sagre, Cascine di Buti, Buti (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/buti/festa-del-tordello-e-del-cavolo-nero-con-i-ritagli-di-maiale-buti.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "3e9840b2027f4526b6fd32b9ed35abbb6b710544db704a7506e7151c8b3e0b4c"
+    },
+    {
+      "id": 78,
+      "name": "Festa d'Autunno",
+      "location": "Abbadia San Salvatore (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/abbadia-san-salvatore/festa-d-autunno-abbadia-san-salvatore.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "4f548d2b4428568333f30fb88f5451b502a1472474830f5fa966a1413a64ece1"
+    },
+    {
+      "id": 52,
+      "name": "Festa Contadina e Sagra della Ribollita",
+      "location": "Asciano (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/asciano/festa-contadina-e-sagra-della-ribollita.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "aa77d925bd8f5b713b4720b2a8c07a76dba308320dbafeb84a47879930033af7"
+    },
+    {
+      "id": 5,
+      "name": "Il Palio del Papero",
+      "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/pi/san-miniato/palio-del-papero.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "664b5553d2cbe5bef9224e6d2dd781eca092ed60f756f0fd11805beff1845e3c"
+    },
+    {
+      "id": 61,
+      "name": "Artigianato d'Autore",
+      "location": "25 Hours Hotel, Piazza San Paolino, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/artigianato-d-autore-firenze-san-paolino.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "c10d800838e84f5458e9cfbbe4e477aec443799e69d1c56e06c506bf5bb8369c"
+    },
+    {
+      "id": 58,
+      "name": "Festa Pic",
+      "location": "Camaiore (LU), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/festa-pic.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8eb7aa4dba2cb296c28cd808a75678febb1541eea4de0b0d2a0ae747f60902d8"
+    },
+    {
+      "id": 42,
+      "name": "Oktober Fuego",
+      "location": "Via Duca d'Aosta, Palazzuolo sul Senio (FI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/fi/palazzuolo-sul-senio/oktober-fuego-palazzuolo-sul-senio.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-10"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f35b360b0f4c994ed5bae16ac4650ad29694b03ebc4d272a04bdb675d0950a96"
+    },
+    {
+      "id": 62,
+      "name": "Rassegna Micologica",
+      "location": "Cutigliano, Cutigliano (PT), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-micologica-della-montagna-pistoiese.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "eeb827c1973af9c8c54968bdb5932e4f850a8bd65d15d2b197925e3fa7b1bea6"
+    },
+    {
+      "id": 8,
+      "name": "Sagra del Tortello, Fungo Porcino e Marrone del Mugello",
+      "location": "Campo Sportivo Le Cortine, Via Giacomo Matteotti 52, Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tortello-fungo-porcino-e-marrone-del-mugello.html",
+      "source_page": 1,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ],
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "2a3fa4aca1e40ae01749cfe88c3f2be2db54b610112fb19177e96cb20ebc65b2"
+    },
+    {
+      "id": 104,
+      "name": "Sagra sul Sagrato in autunno",
+      "location": "Sagrato della chiesa, Migliarina, Viareggio (LU), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/lu/viareggio/sagra-sul-sagrato-in-autunno.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "223544b4787b10659c0a758e7e6a958edb8a551a3e654d4f0d7860d07875ffe0"
+    },
+    {
+      "id": 79,
+      "name": "La Castagna racconta",
+      "location": "Licciana Nardi (MS), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ms/licciana-nardi/la-castagna-racconta.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f5ede9da4b57c331f40dd11f8fd8ccd2ffa73c0e54f93a739b090ce83ad31cb7"
+    },
+    {
+      "id": 101,
+      "name": "Sagra della Castagna",
+      "location": "Parco Danielli, Buti (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/buti/sagra-della-castagna-buti.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "3602abb1761842e91a793e850d0a846dcb0d269e4fad82c0f6792b332b491a86"
+    },
+    {
+      "id": 43,
+      "name": "Sagra della Polenta",
+      "location": "Piazzale delle Feste, Guardistallo (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/guardistallo/sagra-della-polenta-guardistallo.html",
+      "source_page": 5,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "fb0d899e8b9a109cb0b43cbbfd28343e7a2e7e93088602fdf0f9c23cf5f2d612"
+    },
+    {
+      "id": 76,
+      "name": "Festa dell'Olio Novo",
+      "location": "Trequanda (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/trequanda/festa-dell-olio-novo.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "period_locations": [
+        "Castelmuzio, Trequanda (SI), Toscana, Italia",
+        "Trequanda (SI), Toscana, Italia"
+      ],
+      "source_hash": "92f9347ef4775590b2d626a3e11cd12782958e09ee098af3b0bbb9723509bfb9"
+    },
+    {
+      "id": 106,
+      "name": "Sagra della castagna",
+      "location": "Montieri (GR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/gr/montieri/sagra-della-castagna-montieri-2.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "c801f3c798bf03fe23d4a37a971eb9e437408531b82b9272a3ed30ea9e9c0d3c"
+    },
+    {
+      "id": 64,
+      "name": "Fiera d'Ottobre",
+      "location": "Castiglione di Garfagnana (LU), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/lu/castiglione-di-garfagnana/fiera-d-ottobre.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "a9b85e1ef16c6392a046ad9e78a2904d8b6b4c9c62f2e09e45f79ee823e9e756"
+    },
+    {
+      "id": 72,
+      "name": "Mangiawalking d'Autunno",
+      "location": "Piazza della Torre, Casola in Lunigiana (MS), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/ms/casola-in-lunigiana/mangiawalking-d-autunno.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "In caso di maltempo la scheda indica il rinvio al 18 ottobre: questa data alternativa non è aggiunta come appuntamento confermato.",
+      "source_hash": "704ea6112ef4b0e5b6ff70b7f56b54922ed1bf245d2cd90bd3ec2eb4b4908715"
+    },
+    {
+      "id": 66,
+      "name": "Dit'unto – Festival del Mangiar con le Mani",
+      "location": "Villa a Sesta, Castelnuovo Berardenga (SI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/si/castelnuovo-berardenga/festival-del-mangiar-con-le-mani-dit-unto.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f21cd3a0e29e48aa155b6213e2f733d1099856cba544956429dd6866acd441a6"
+    },
+    {
+      "id": 97,
+      "name": "Feste di ottobre a Sassetta",
+      "location": "Sassetta (LI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/li/sassetta/tordata-e-feste-d-ottobre.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "period_titles": [
+        "Sagra della Zuppa",
+        "Tordata e Sagra della Castagna",
+        "Sagra della Polenta e Palio dei Carretti"
+      ],
+      "source_hash": "138385e9719f121e79789293cc0ae0e8bde4c94e091a3b736a486ff59950ea6d"
+    },
+    {
+      "id": 69,
+      "name": "Sagra della Castagna",
+      "location": "Mozzano, Fivizzano (MS), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ms/fivizzano/sagra-della-castagna-mozzano.html",
+      "source_page": 7,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "3078ca24f329bee02d2c7ad9c16560a147aec731c0bdc8455ac7454f0a95de88"
+    },
+    {
+      "id": 110,
+      "name": "Festa della Polenta a palle ai Funghi porcini",
+      "location": "Campo sportivo, Bientina (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/bientina/festa-della-polenta-a-palle-ai-funghi-porcini.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ],
         [
           "2026-11-01",
           "2026-11-01"
         ]
       ],
-      "note": ""
+      "note": "",
+      "source_hash": "a8d6b7550c3e208cd825f763d43ded746d8b9fb305eeabed931478b7c5aacd54"
+    },
+    {
+      "id": 82,
+      "name": "Festa della castagna",
+      "location": "San Giovanni alla Vena, Vicopisano (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/vicopisano/festa-della-castagna-vicopisano.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "0c926b206615126d30a2f553899c83481553d1e143b8fc841a7dcffce527a769"
+    },
+    {
+      "id": 73,
+      "name": "Sagra del Fungo e della Castagna – Palio del Boscaiolo",
+      "location": "Vivo d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/castiglione-dorcia/sagra-del-fungo-e-della-castagna.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "95c86e9320cc75fe0ea6d0bc1fb1826152e80e263f41ace9b3a82edd5da23111",
+      "modified_at": "20261004T183340Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "id": 51,
+      "name": "Festa della Montagnola",
+      "location": "Ancaiano, Sovicille (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/sovicille/festa-della-montagnola.html",
+      "source_page": 6,
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "note": "",
+      "source_hash": "889c308daac188ff00236dcf7752cc4e4d56950bddd01971a578df2b084bd1a9"
+    },
+    {
+      "id": 92,
+      "name": "Festa delle Castagne",
+      "location": "Lucolena, Greve in Chianti (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/greve/festa-delle-castagne.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-15",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "01f464f5e28df8846f15580f6f4f42c6c84c9eb9d21b21f561244171a32c1a1a"
+    },
+    {
+      "id": 90,
+      "name": "Borgo diVino in tour a Montaione",
+      "location": "Montaione (FI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/fi/montaione/borgo-divino-in-tour-a-montaione.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "692d22a6bd49c9fc0da7ed88e51af6c3268cbfba95949dfb94ef690959e393d9"
+    },
+    {
+      "id": 93,
+      "name": "Terre di Pisa Food & Wine Festival",
+      "location": "Piazza Vittorio Emanuele II, Pisa (PI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/pi/pisa/pisa-food-wine-festival.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "1120fd22b1e6f7441db6ce04869b8f1d3493b26d114aa24a120056d1798e2313"
+    },
+    {
+      "id": 81,
+      "name": "Sagra della Castagna",
+      "location": "Montecchio Vesponi, Castiglion Fiorentino (AR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ar/castiglion-fiorentino/sagra-della-castagna-montecchio-vesponi.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "6903b19aca16ec69374094184881341f8a105c2a93a5292ca0e461832a217c1f"
+    },
+    {
+      "id": 83,
+      "name": "Festa della Castagna e del Porcino",
+      "location": "Lucignano (AR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ar/lucignano/festa-della-castagna-e-del-porcino.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "621f55073baf46573e9b81820c1ec12b0d8f56c83a4da5d19f405618da4b9490"
+    },
+    {
+      "id": 99,
+      "name": "La Castagna in Festa",
+      "location": "Arcidosso (GR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/gr/arcidosso/la-castagna-in-festa.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-23",
+          "2026-10-25"
+        ]
+      ],
+      "note": "Date verificate sulla locandina 2026: 16–18 e 23–25 ottobre; corretto il refuso «167» nel testo.",
+      "verification_url": "https://www.sagretoscane.com/_data/upload/la-castagna-in-festa.jpg",
+      "source_hash": "c6547c82132d74b73b40f786b319151f4ae409b42ec45b19dc2c08e8e02174a6"
+    },
+    {
+      "id": 89,
+      "name": "My Stufato",
+      "location": "San Giovanni Valdarno (AR), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/ar/san-giovanni-valdarno/my-stufato.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "cf22cdd6fc7916af06e7d8f7fe38937c8ae88f388e37f908c5b493897f6e2b0f"
+    },
+    {
+      "id": 102,
+      "name": "Festa della Castagna e del Marrone DOP di Caprese",
+      "location": "Caprese Michelangelo (AR), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/ar/caprese-michelangelo/festa-della-castagna-caprese-michelangelo.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "d356f74546e6cfb37854cdc61df1ec628c901b562f27be8d9793ee13e8b2ba5d"
+    },
+    {
+      "id": 103,
+      "name": "Sagra dì Bollito",
+      "location": "Centro Pastorale Giorgio La Pira, Via Vallombrosana 4, Pelago (FI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/fi/pelago/sagra-di-bollito.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "68eb6157d0286a4e635400a32721d60e5ab799fa0d5015f3df3542b10d0f7d40"
+    },
+    {
+      "id": 84,
+      "name": "Mondinata in Piazza",
+      "location": "Piazza della Stazione, Mologno, Barga (LU), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/lu/barga/mondinata-in-piazza-mologno.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "6c1d71d83a9d9b78c96398ef49d786d704d87c2126039f9f9398d64a707e0ae0"
+    },
+    {
+      "id": 77,
+      "name": "Sagra del Tartufo Bianco e del Fungo",
+      "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-e-del-fungo.html",
+      "source_page": 8,
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "2873f00b54ecde04de37e8027dc2fa3523027b38a809e4584f92e5c686ba0ec1"
+    },
+    {
+      "id": 85,
+      "name": "Calenzano 1325",
+      "location": "Calenzano (FI), Toscana, Italia",
+      "category": "Feste e Folclore",
+      "url": "https://www.sagretoscane.com/feste/fi/calenzano/calenzano-1325.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "9f29ba8e129ce63af1ce33ed528ae47edcde4cde9f3d8d49cdf485070435c52f"
+    },
+    {
+      "id": 86,
+      "name": "Galluzzo in fiera",
+      "location": "Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "07dfbcbb693a4ac3a6640b37fe7fa2ca84d3ed4136eee594fa2149d10f5a5af8"
+    },
+    {
+      "id": 88,
+      "name": "Piazza Bartali Shopping",
+      "location": "Piazza Gino Bartali, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/piazza-bartali-shopping.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "5d39033fc6fa01b8e77e099cf11d004eb671ba7ceb7e358889f1a034146c41d8"
+    },
+    {
+      "id": 87,
+      "name": "L'Angolo del Collezionista a Siena",
+      "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "b453607963f487860a03110a38f04884c2e792856593e298113dac57ec52707a"
+    },
+    {
+      "id": 91,
+      "name": "Mangialonga al Tartufo Bianco",
+      "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/pi/san-miniato/mangialonga-al-tartufo-bianco-balconevisi.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "note": "",
+      "source_hash": "6f4e8415c30c1ca5a308f6228156db3c98763f58b51e333f251ab04cd0d6f758"
+    },
+    {
+      "id": 94,
+      "name": "L'Angolo del Collezionista a Grosseto",
+      "location": "Grosseto (GR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-24"
+        ]
+      ],
+      "note": "",
+      "source_hash": "fa27a292ceb3a103c4ffd461114983afac6921e449cc584db893e68946a9ba2a"
+    },
+    {
+      "id": 107,
+      "name": "Rassegna della Castanicoltura",
+      "location": "Cutigliano, Cutigliano (PT), Toscana, Italia",
+      "category": "Eventi enogastronomici",
+      "url": "https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-della-castanicoltura.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "3498456865b7a68e2d83932520579978a160b7f20faffbc5eb9519507ec554b5"
+    },
+    {
+      "id": 109,
+      "name": "Santo Spirito in Fiera",
+      "location": "Piazza Santo Spirito, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8cb2725fe42f593ffcf5fab562b7b6354ccd2ab5aa7c4ed6ad7cc1d063ec061e"
+    },
+    {
+      "id": 100,
+      "name": "Festa del Marrone",
+      "location": "Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia",
+      "category": "Sagre gastronomiche",
+      "url": "https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marrone.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "note": "",
+      "source_hash": "a99afb0a385fd5e3e17cfe3680e4cef2b2b5ccaaf861e40fca37a3e9a110d00d"
     },
     {
       "id": 113,
@@ -2090,7 +2178,24 @@
           "2026-11-01"
         ]
       ],
-      "note": ""
+      "note": "",
+      "source_hash": "f13d9a02dbc88d72a55002928caf967fe1d388f65359ac7327720443f99c9009"
+    },
+    {
+      "id": 112,
+      "name": "Fiera di Ognissanti al Parco delle Cascine",
+      "location": "Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html",
+      "source_page": 12,
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "5fe86e272af8cfa6e48a4a08b813d23766919cbf378673d668de2e26a145cdcd"
     },
     {
       "id": 114,
@@ -2105,7 +2210,8 @@
           "2026-11-09"
         ]
       ],
-      "note": ""
+      "note": "",
+      "source_hash": "b4f8bec923e3ff125a6da750025ca1cf024bf8b2deef07e848b4c0500172800e"
     },
     {
       "id": 115,
@@ -2120,7 +2226,9 @@
           "2026-12-08"
         ]
       ],
-      "note": ""
+      "note": "",
+      "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
-  ]
+  ],
+  "updated_at": "20261004T183340Z"
 }

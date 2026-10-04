@@ -1,43 +1,50 @@
 # Eventi in Toscana
 
-Calendario iCalendar **non ufficiale**, preparato da jazia per Stupid Calendar a partire da [SagreToscane.com](https://www.sagretoscane.com/cerca?category=&date=&area=&q=).
+Calendario iCalendar non ufficiale a cura di jazia, basato sui dati pratici di [SagreToscane.com](https://www.sagretoscane.com/cerca?category=&date=&area=&q=). Non affiliato al sito; articoli e immagini non sono ripubblicati.
 
 ## Abbonamento
 
-In Stupid Calendar: **Impostazioni → I miei calendari → Calendari in abbonamento → Aggiungi abbonamento**. Incollare questo URL:
+In Stupid Calendar: **Impostazioni → I miei calendari → Calendari in abbonamento → Aggiungi abbonamento**. L'indirizzo rimane sempre:
 
 https://raw.githubusercontent.com/jazia/sagre-toscana-calendario/main/eventi_toscana.ics
 
-Il collegamento può essere utilizzato anche nelle altre app compatibili con gli abbonamenti iCalendar. Importare il file scaricato crea invece una copia.
+Usare un abbonamento tramite URL per ricevere aggiornamenti: importare un file scaricato crea una copia. Stupid Calendar controlla gli abbonamenti ogni 15 minuti mentre è aperto.
 
-## Copertura
+## Aggiornamento automatico
 
-- Fotografia delle **12 pagine di ricerca al 4 ottobre 2026**: 10 schede per ciascuna delle prime 11 pagine e 5 nell'ultima, per **115 manifestazioni uniche**.
-- **191 appuntamenti/periodi**: le sagre su più weekend sono separate per evitare falsi giorni di apertura; le manifestazioni consecutive mantengono un unico intervallo.
-- Sono incluse anche le giornate già trascorse appartenenti alle manifestazioni elencate. Copertura complessiva: **16 maggio – 8 dicembre 2026**.
-- Tutte le voci sono di giornata intera: rappresentano le date, **non orari di apertura di 24 ore**. Per orari, prenotazioni, biglietti e variazioni si rimanda alla scheda originale, collegata in ogni evento.
-- Non vengono generate ricorrenze future non presenti nelle schede. Le date alternative per maltempo non sono appuntamenti confermati.
-- È un'**estrazione puntuale**, senza aggiornamento automatico dal sito. L'abbonamento rilegge solo eventuali nuove versioni pubblicate in questo repository.
+GitHub Actions esegue il controllo ogni giorno alle **05:23 UTC** (07:23 in Italia con ora legale, 06:23 con ora solare), anche a PC spento. GitHub può avviare il processo con ritardo: non è una scadenza garantita al minuto. È disponibile anche **Actions → Aggiorna calendario Toscana → Run workflow**.
 
-L'[elenco completo](EVENTI.md) permette di controllare tutte le date e i luoghi. I dati pratici revisionati sono in `eventi.json`, con la pagina di provenienza; gli articoli, le fotografie e le locandine non sono ripubblicati. Il calendario non è affiliato a SagreToscane.com.
+Il controllo scopre il numero corrente di pagine, legge le schede, confronta le impronte dei contenuti e aggiorna il file solo dopo il completamento e la validazione. [stato.json](stato.json) riporta l'ultimo controllo riuscito; [EVENTI.md](EVENTI.md) elenca il calendario pubblicato; [DA_VERIFICARE.md](DA_VERIFICARE.md) raccoglie i casi ambigui.
 
-## Verifiche e correzioni
+- Le correzioni dell'edizione iniziale (115 manifestazioni, 191 appuntamenti) restano finché la relativa scheda non cambia.
+- I nuovi eventi con date esplicite interpretabili entrano automaticamente. Weekend e domeniche separate non diventano intervalli continui.
+- Programmi poco chiari, nuove date disponibili solo su immagini o modifiche alle schede con correzioni manuali richiedono revisione: i nuovi eventi incerti non sono pubblicati, per quelli esistenti resta l'ultima versione verificata. Le immagini non vengono interpretate automaticamente.
+- Un annullamento esplicito nella scheda di un evento già pubblicato viene segnalato con `STATUS:CANCELLED`. La semplice scomparsa dai risultati **non** equivale ad annullamento: gli eventi futuri mancanti vengono segnalati per verifica e conservati. Gli appuntamenti passati restano nello storico.
+- Errori di rete, cambiamenti incompatibili nella struttura del sito, elenchi vuoti o dati non validi fanno fallire l'esecuzione e lasciano online l'ultimo calendario valido.
+- Il file di stato documenta ogni esecuzione riuscita; un controllo fallito è visibile nella sezione Actions. Il controllo automatico non sostituisce la conferma dell'organizzatore.
 
-- Controllate tutte le 115 schede di dettaglio; intervalli nelle intestazioni coerenti con l'elenco.
-- Separati i fine settimana e le domeniche esplicitamente elencati nei programmi.
-- **Festa del Marrone, San Piero a Sieve**: usati 4, 11 e **18** ottobre, confermati dalla [locandina 2026](https://www.sagretoscane.com/_data/upload/festa-del-marrone-e-dei-prodotti-tipici.jpg); il testo della scheda scrive erroneamente 19.
-- **La Castagna in Festa, Arcidosso**: usati **16–18 e 23–25 ottobre**, confermati dalla [locandina](https://www.sagretoscane.com/_data/upload/la-castagna-in-festa.jpg), correggendo il refuso «167».
-- **Corona Summer, Asciano**: estratti i singoli appuntamenti dalla [locandina 2026](https://www.sagretoscane.com/_data/upload/corona-summer.jpg), senza trasformare la stagione in un'apertura continua. Per il 16 agosto resta la data numerica: il giorno della settimana stampato è discordante.
-- Per le feste patronali e le fiere articolate su più giorni, l'intervallo descrive la manifestazione complessiva; le singole attività possono avere giorni e orari differenti.
+Le date sono di giornata intera e **non indicano apertura per 24 ore**. Consultare sempre il link della scheda per orari, prenotazioni e variazioni. Non vengono inventate ricorrenze future, né aggiunte come certe le date alternative per maltempo.
 
-## Formato e manutenzione
+## Correzioni iniziali
 
-UTF-8, righe CRLF ripiegate entro 75 ottetti, date `VALUE=DATE`, `DTEND` esclusivo, UID univoci deterministici, nessun allarme, disponibilità trasparente. Non serve un fuso orario per le date di giornata intera.
+- Festa del Marrone a San Piero a Sieve: 4, 11 e 18 ottobre 2026, confermati dalla locandina; il testo riportava erroneamente 19.
+- La Castagna in Festa ad Arcidosso: 16–18 e 23–25 ottobre 2026, correggendo il refuso «167».
+- Corona Summer: singoli appuntamenti della locandina 2026. Per il 16 agosto è mantenuta la data numerica, dato che il giorno della settimana stampato è discordante.
 
-Per rigenerare dai dati già revisionati, con Python 3:
+I collegamenti alle locandine sono nelle rispettive voci di `eventi.json` e nell'ICS. Le date di questa edizione sono state verificate il 4 ottobre 2026.
+
+## Manutenzione
+
+Python 3.13 e le dipendenze fissate in `requirements.txt`:
 
 ```sh
-python genera_calendario.py
+python -m pip install -r requirements.txt
+python -m unittest -v
+python aggiorna.py
 ```
 
-Lo script non scarica nuove schede: per una nuova edizione occorre ricontrollare le fonti, aggiornare `eventi.json`, data di estrazione e `DTSTAMP`, mantenendo gli UID degli appuntamenti invariati. I nomi delle manifestazioni e i dati pratici provengono dalle fonti collegate; i contenuti editoriali restano dei rispettivi titolari.
+`genera_calendario.py` rigenera solo dai dati locali; `aggiorna.py` legge il sito. Gli UID sono deterministici (URL della scheda + data iniziale); eventi invariati mantengono UID e DTSTAMP, mentre una data spostata sostituisce il vecchio appuntamento nel feed. `stato.json` registra i controlli senza cambiare inutilmente le date di modifica dei singoli eventi.
+
+Per risolvere un caso manualmente, correggere periodi, note e luoghi in `eventi.json` dopo aver verificato la fonte e aggiornare `source_hash` usando `details()` sulla nuova scheda e `modified_at` in UTC. Non attribuire a una nuova edizione una vecchia correzione senza verifica.
+
+Il workflow usa esclusivamente il token temporaneo GitHub del repository con permesso di scrittura dei contenuti, senza credenziali personali. Vengono pubblicati solo i cinque file dati indicati nel workflow; nessuna esecuzione di contenuti scaricati. GitHub Actions su esecutori standard è gratuito nei repository pubblici. I workflow pianificati possono essere disattivati da GitHub dopo 60 giorni senza attività nel repository: verificare la data dell'ultimo controllo.
