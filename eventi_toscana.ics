@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-04. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-05. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -2271,6 +2271,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:ef9a326f6ed1d78a098d38601f0fe191@sagre-toscana.jazia
+DTSTAMP:20261005T122239Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+SUMMARY;LANGUAGE=it:Oktober Green Fest
+LOCATION:San Quirico dʼOrcia (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/san-quirico-dorcia/oktober-green-fest.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/rassegne/si/san-quirico-dorcia/oktober-gre
+ en-fest.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:9c7e634bb6803ad2b0a15a58994ed977@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261009
@@ -3216,6 +3235,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:32937fdff9abe7ecbe969d8adae68e82@sagre-toscana.jazia
+DTSTAMP:20261005T122239Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Prato Vintage Market
+LOCATION:Prato (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/po/prato/prato-vintage-market.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/po/prato/prato-vintage-marke
+ t.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:61f7088f7a431ad73b05a7f0818259f3@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261016
@@ -3236,7 +3274,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f1c11d4c8889b54f0e13076d3eaba2@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261005T122239Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Terre di Pisa Food & Wine Festival
@@ -3447,7 +3485,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:415fa12afa4ea382183f7597b8b3f18c@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261005T122239Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco e del Fungo

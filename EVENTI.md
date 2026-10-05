@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-04. 115 manifestazioni, 191 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -120,6 +120,7 @@ Ultima modifica dati: 2026-10-04. 115 manifestazioni, 191 appuntamenti/periodi. 
 | [Mostra Mercato Scambio di Fumetti e Dintorni](https://www.sagretoscane.com/fiere-mercati/ms/massa/mostra-mercato-scambio.html) | 09/10/2026 | 11/10/2026 | Maremonti Shopping Center, Via Massa Avenza 32, Massa (MS), Toscana, Italia |  |
 | [Il risveglio delle cantine](https://www.sagretoscane.com/rassegne/gr/semproniano/il-risveglio-delle-cantine.html) | 09/10/2026 | 11/10/2026 | Semproniano (GR), Toscana, Italia |  |
 | [Mostra mercato del Tartufo di Forcoli](https://www.sagretoscane.com/rassegne/pi/palaia/mostra-mercato-del-tartufo-e-del-fungo-porcino.html) | 09/10/2026 | 11/10/2026 | Centro Nuova Primavera, Forcoli, Palaia (PI), Toscana, Italia |  |
+| [Oktober Green Fest](https://www.sagretoscane.com/rassegne/si/san-quirico-dorcia/oktober-green-fest.html) | 09/10/2026 | 10/10/2026 | San Quirico dʼOrcia (SI), Toscana, Italia |  |
 | [Sagra del Polliglio](https://www.sagretoscane.com/sagre/fi/montespertoli/sagra-del-polliglio.html) | 09/10/2026 | 11/10/2026 | Baccaiano, Montespertoli (FI), Toscana, Italia |  |
 | [Sagra del Polliglio](https://www.sagretoscane.com/sagre/fi/montespertoli/sagra-del-polliglio.html) | 16/10/2026 | 18/10/2026 | Baccaiano, Montespertoli (FI), Toscana, Italia |  |
 | [Sagra della Castagna a Montorsaio](https://www.sagretoscane.com/sagre/gr/campagnatico/sagra-della-castagna-e-festa-patronale-s-cerbone.html) | 09/10/2026 | 11/10/2026 | Montorsaio, Campagnatico (GR), Toscana, Italia |  |
@@ -169,6 +170,7 @@ Ultima modifica dati: 2026-10-04. 115 manifestazioni, 191 appuntamenti/periodi. 
 | [Sagra del Fungo e della Castagna – Palio del Boscaiolo](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/sagra-del-fungo-e-della-castagna.html) | 18/10/2026 | 18/10/2026 | Vivo d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Festa della Montagnola](https://www.sagretoscane.com/sagre/si/sovicille/festa-della-montagnola.html) | 11/10/2026 | 11/10/2026 | Ancaiano, Sovicille (SI), Toscana, Italia |  |
 | [Festa delle Castagne](https://www.sagretoscane.com/sagre/fi/greve/festa-delle-castagne.html) | 15/10/2026 | 18/10/2026 | Lucolena, Greve in Chianti (FI), Toscana, Italia |  |
+| [Prato Vintage Market](https://www.sagretoscane.com/fiere-mercati/po/prato/prato-vintage-market.html) | 16/10/2026 | 18/10/2026 | Prato (PO), Toscana, Italia |  |
 | [Borgo diVino in tour a Montaione](https://www.sagretoscane.com/rassegne/fi/montaione/borgo-divino-in-tour-a-montaione.html) | 16/10/2026 | 18/10/2026 | Montaione (FI), Toscana, Italia |  |
 | [Terre di Pisa Food & Wine Festival](https://www.sagretoscane.com/rassegne/pi/pisa/pisa-food-wine-festival.html) | 16/10/2026 | 18/10/2026 | Piazza Vittorio Emanuele II, Pisa (PI), Toscana, Italia |  |
 | [Sagra della Castagna](https://www.sagretoscane.com/sagre/ar/castiglion-fiorentino/sagra-della-castagna-montecchio-vesponi.html) | 16/10/2026 | 18/10/2026 | Montecchio Vesponi, Castiglion Fiorentino (AR), Toscana, Italia |  |

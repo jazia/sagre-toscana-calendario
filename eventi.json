@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-04",
+  "extracted_at": "2026-10-05",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -36,19 +36,7 @@
     },
     {
       "page": 9,
-      "count": 10
-    },
-    {
-      "page": 10,
-      "count": 10
-    },
-    {
-      "page": 11,
-      "count": 10
-    },
-    {
-      "page": 12,
-      "count": 5
+      "count": 3
     }
   ],
   "events": [
@@ -1294,6 +1282,22 @@
       "source_hash": "fb926cd409b9ec9af60eb08d62444cfeb80a1fb9684a869e3f8f1f734803ba09"
     },
     {
+      "name": "Oktober Green Fest",
+      "url": "https://www.sagretoscane.com/rassegne/si/san-quirico-dorcia/oktober-green-fest.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-10"
+        ]
+      ],
+      "source_hash": "c6e8d6c8cf10a1654c6fb09dad69bf3db62ddf57c2c5519c849d9e43c5cf52f6",
+      "modified_at": "20261005T122239Z",
+      "status": "CONFIRMED",
+      "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 75,
       "name": "Sagra del Polliglio",
       "location": "Baccaiano, Montespertoli (FI), Toscana, Italia",
@@ -1849,6 +1853,22 @@
       "source_hash": "01f464f5e28df8846f15580f6f4f42c6c84c9eb9d21b21f561244171a32c1a1a"
     },
     {
+      "name": "Prato Vintage Market",
+      "url": "https://www.sagretoscane.com/fiere-mercati/po/prato/prato-vintage-market.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "365e4f95b30256550099f3503d9f65a04c9daab10d36f2805edce0b196ac5531",
+      "modified_at": "20261005T122239Z",
+      "status": "CONFIRMED",
+      "location": "Prato (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 90,
       "name": "Borgo diVino in tour a Montaione",
       "location": "Montaione (FI), Toscana, Italia",
@@ -1878,7 +1898,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "1120fd22b1e6f7441db6ce04869b8f1d3493b26d114aa24a120056d1798e2313"
+      "source_hash": "17b793fc37a620642c6f6bf125e9d581c0cbc6b93bc0c0392098b7a47d444f5d",
+      "modified_at": "20261005T122239Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 81,
@@ -2019,7 +2041,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "2873f00b54ecde04de37e8027dc2fa3523027b38a809e4584f92e5c686ba0ec1"
+      "source_hash": "d088346e8add5153d4c79a609774446d83d50e6e01ce2689a4d4f33acfde0b7f",
+      "modified_at": "20261005T122239Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 85,
@@ -2230,5 +2254,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261004T183340Z"
+  "updated_at": "20261005T122239Z"
 }

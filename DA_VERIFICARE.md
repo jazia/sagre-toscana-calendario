@@ -2,4 +2,6 @@
 
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
-Nessuna revisione richiesta.
+- [Sagra del Polliglio](https://www.sagretoscane.com/sagre/fi/montespertoli/sagra-del-polliglio.html): Date del programma discordanti con intestazione.
+- [Festa della castagna](https://www.sagretoscane.com/sagre/pi/vicopisano/festa-della-castagna-vicopisano.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [Boccaccesca - Festa della Cipolla e del Vino di Certaldo](https://www.sagretoscane.com/rassegne/fi/certaldo/boccaccesca.html): Giorni effettivi non ricavabili con certezza dal testo.
