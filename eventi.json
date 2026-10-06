@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-05",
+  "extracted_at": "2026-10-06",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -36,7 +36,11 @@
     },
     {
       "page": 9,
-      "count": 3
+      "count": 10
+    },
+    {
+      "page": 10,
+      "count": 1
     }
   ],
   "events": [
@@ -1431,7 +1435,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "664b5553d2cbe5bef9224e6d2dd781eca092ed60f756f0fd11805beff1845e3c"
+      "source_hash": "f38a745588fe4a804129012ac3508988e3255f682d28e389cbae72331b81168f",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 61,
@@ -1480,6 +1486,26 @@
       ],
       "note": "",
       "source_hash": "f35b360b0f4c994ed5bae16ac4650ad29694b03ebc4d272a04bdb675d0950a96"
+    },
+    {
+      "name": "Sapori d'autunno",
+      "url": "https://www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-del-vino-novello.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-11"
+        ],
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "51a35bb13a55721c6ea4aa25a03826dc5f9c364d6c2f9c07fd3b055702addb7c",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Montecarlo (LU), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 62,
@@ -1634,6 +1660,22 @@
       "source_hash": "92f9347ef4775590b2d626a3e11cd12782958e09ee098af3b0bbb9723509bfb9"
     },
     {
+      "name": "Festa d'Autunno in Piazza del Carmine",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/la-fierucola-in-piazza-del-carmine-2.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "source_hash": "4aae53e4606fc2144b972da60e2fb2cf1cc7a171af8211bde6b62661839f6b4c",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 106,
       "name": "Sagra della castagna",
       "location": "Montieri (GR), Toscana, Italia",
@@ -1776,7 +1818,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "a8d6b7550c3e208cd825f763d43ded746d8b9fb305eeabed931478b7c5aacd54"
+      "source_hash": "564e2b24d2a7b0c51e05966db6e291558dfeaf34b84dd3e512be5944dcfe8301",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 82,
@@ -1835,6 +1879,22 @@
       ],
       "note": "",
       "source_hash": "889c308daac188ff00236dcf7752cc4e4d56950bddd01971a578df2b084bd1a9"
+    },
+    {
+      "name": "Un Prato di Cioccolato",
+      "url": "https://www.sagretoscane.com/rassegne/po/prato/un-prato-di-cioccolato.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-15",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "b8b8f0793fa0e4970a36fd90bbf0bbc8172124b936467db8e799a397ae2e2608",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Prato (PO), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 92,
@@ -1972,6 +2032,26 @@
       "source_hash": "cf22cdd6fc7916af06e7d8f7fe38937c8ae88f388e37f908c5b493897f6e2b0f"
     },
     {
+      "name": "Festa dell'Olio",
+      "url": "https://www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batignano.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "80495a0a719ce18f04db415e69215fc6c3dfd666311e56c62a36f1f897ac7a5c",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Grosseto (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 102,
       "name": "Festa della Castagna e del Marrone DOP di Caprese",
       "location": "Caprese Michelangelo (AR), Toscana, Italia",
@@ -2010,6 +2090,22 @@
       ],
       "note": "",
       "source_hash": "68eb6157d0286a4e635400a32721d60e5ab799fa0d5015f3df3542b10d0f7d40"
+    },
+    {
+      "name": "Festa d'Ottobre",
+      "url": "https://www.sagretoscane.com/sagre/li/rosignano-marittimo/festa-d-ottobre.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-19"
+        ]
+      ],
+      "source_hash": "87db3ac5103d7d4ada8fc6020361f7622517edfb906629285b34b426b976bfa5",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Rosignano Marittimo (LI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 84,
@@ -2126,6 +2222,22 @@
       "source_hash": "6f4e8415c30c1ca5a308f6228156db3c98763f58b51e333f251ab04cd0d6f758"
     },
     {
+      "name": "Sagra delle Bruciate e del Vin Novo",
+      "url": "https://www.sagretoscane.com/sagre/fi/scandicci/sagra-delle-bruciate-e-del-vino-novello.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "b39ed5325d42e43b710cf67cc0fed8503e77bae253e68dd24c748bcbff8e4078",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Scandicci (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 94,
       "name": "L'Angolo del Collezionista a Grosseto",
       "location": "Grosseto (GR), Toscana, Italia",
@@ -2172,6 +2284,22 @@
       ],
       "note": "",
       "source_hash": "8cb2725fe42f593ffcf5fab562b7b6354ccd2ab5aa7c4ed6ad7cc1d063ec061e"
+    },
+    {
+      "name": "Festa dell'olio novo",
+      "url": "https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "a0ceaac0ff084bb60d2b00cb590b61ca3b4b3ed873df9399724092d6f960a75c",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED",
+      "location": "Scandicci (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 100,
@@ -2235,7 +2363,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "b4f8bec923e3ff125a6da750025ca1cf024bf8b2deef07e848b4c0500172800e"
+      "source_hash": "65f788eaecd021db20ebd0322c0b7d509e5f6229f3588add6888377a81ac4986",
+      "modified_at": "20261006T120542Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 115,
@@ -2254,5 +2384,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261005T122239Z"
+  "updated_at": "20261006T120542Z"
 }

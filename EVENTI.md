@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-06. 124 manifestazioni, 202 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -134,6 +134,8 @@ Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. 
 | [Artigianato d'Autore](https://www.sagretoscane.com/fiere-mercati/fi/firenze/artigianato-d-autore-firenze-san-paolino.html) | 10/10/2026 | 11/10/2026 | 25 Hours Hotel, Piazza San Paolino, Firenze (FI), Toscana, Italia |  |
 | [Festa Pic](https://www.sagretoscane.com/fiere-mercati/lu/camaiore/festa-pic.html) | 10/10/2026 | 11/10/2026 | Camaiore (LU), Toscana, Italia |  |
 | [Oktober Fuego](https://www.sagretoscane.com/rassegne/fi/palazzuolo-sul-senio/oktober-fuego-palazzuolo-sul-senio.html) | 10/10/2026 | 10/10/2026 | Via Duca d'Aosta, Palazzuolo sul Senio (FI), Toscana, Italia |  |
+| [Sapori d'autunno](https://www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-del-vino-novello.html) | 10/10/2026 | 11/10/2026 | Montecarlo (LU), Toscana, Italia |  |
+| [Sapori d'autunno](https://www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-del-vino-novello.html) | 17/10/2026 | 18/10/2026 | Montecarlo (LU), Toscana, Italia |  |
 | [Rassegna Micologica](https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-micologica-della-montagna-pistoiese.html) | 10/10/2026 | 11/10/2026 | Cutigliano, Cutigliano (PT), Toscana, Italia |  |
 | [Sagra del Tortello, Fungo Porcino e Marrone del Mugello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tortello-fungo-porcino-e-marrone-del-mugello.html) | 10/10/2026 | 11/10/2026 | Campo Sportivo Le Cortine, Via Giacomo Matteotti 52, Scarperia, Scarperia e San Piero (FI), Toscana, Italia |  |
 | [Sagra del Tortello, Fungo Porcino e Marrone del Mugello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tortello-fungo-porcino-e-marrone-del-mugello.html) | 17/10/2026 | 18/10/2026 | Campo Sportivo Le Cortine, Via Giacomo Matteotti 52, Scarperia, Scarperia e San Piero (FI), Toscana, Italia |  |
@@ -150,6 +152,7 @@ Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. 
 | [Sagra della Polenta](https://www.sagretoscane.com/sagre/pi/guardistallo/sagra-della-polenta-guardistallo.html) | 10/10/2026 | 11/10/2026 | Piazzale delle Feste, Guardistallo (PI), Toscana, Italia |  |
 | [Festa dell'Olio Novo](https://www.sagretoscane.com/sagre/si/trequanda/festa-dell-olio-novo.html) | 10/10/2026 | 11/10/2026 | Castelmuzio, Trequanda (SI), Toscana, Italia |  |
 | [Festa dell'Olio Novo](https://www.sagretoscane.com/sagre/si/trequanda/festa-dell-olio-novo.html) | 17/10/2026 | 18/10/2026 | Trequanda (SI), Toscana, Italia |  |
+| [Festa d'Autunno in Piazza del Carmine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/la-fierucola-in-piazza-del-carmine-2.html) | 11/10/2026 | 11/10/2026 | Firenze (FI), Toscana, Italia |  |
 | [Sagra della castagna](https://www.sagretoscane.com/fiere-mercati/gr/montieri/sagra-della-castagna-montieri-2.html) | 11/10/2026 | 11/10/2026 | Montieri (GR), Toscana, Italia |  |
 | [Sagra della castagna](https://www.sagretoscane.com/fiere-mercati/gr/montieri/sagra-della-castagna-montieri-2.html) | 18/10/2026 | 18/10/2026 | Montieri (GR), Toscana, Italia |  |
 | [Sagra della castagna](https://www.sagretoscane.com/fiere-mercati/gr/montieri/sagra-della-castagna-montieri-2.html) | 25/10/2026 | 25/10/2026 | Montieri (GR), Toscana, Italia |  |
@@ -169,6 +172,7 @@ Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. 
 | [Sagra del Fungo e della Castagna – Palio del Boscaiolo](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/sagra-del-fungo-e-della-castagna.html) | 11/10/2026 | 11/10/2026 | Vivo d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Sagra del Fungo e della Castagna – Palio del Boscaiolo](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/sagra-del-fungo-e-della-castagna.html) | 18/10/2026 | 18/10/2026 | Vivo d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Festa della Montagnola](https://www.sagretoscane.com/sagre/si/sovicille/festa-della-montagnola.html) | 11/10/2026 | 11/10/2026 | Ancaiano, Sovicille (SI), Toscana, Italia |  |
+| [Un Prato di Cioccolato](https://www.sagretoscane.com/rassegne/po/prato/un-prato-di-cioccolato.html) | 15/10/2026 | 18/10/2026 | Prato (PO), Toscana, Italia |  |
 | [Festa delle Castagne](https://www.sagretoscane.com/sagre/fi/greve/festa-delle-castagne.html) | 15/10/2026 | 18/10/2026 | Lucolena, Greve in Chianti (FI), Toscana, Italia |  |
 | [Prato Vintage Market](https://www.sagretoscane.com/fiere-mercati/po/prato/prato-vintage-market.html) | 16/10/2026 | 18/10/2026 | Prato (PO), Toscana, Italia |  |
 | [Borgo diVino in tour a Montaione](https://www.sagretoscane.com/rassegne/fi/montaione/borgo-divino-in-tour-a-montaione.html) | 16/10/2026 | 18/10/2026 | Montaione (FI), Toscana, Italia |  |
@@ -178,10 +182,13 @@ Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. 
 | [La Castagna in Festa](https://www.sagretoscane.com/sagre/gr/arcidosso/la-castagna-in-festa.html) | 16/10/2026 | 18/10/2026 | Arcidosso (GR), Toscana, Italia |  |
 | [La Castagna in Festa](https://www.sagretoscane.com/sagre/gr/arcidosso/la-castagna-in-festa.html) | 23/10/2026 | 25/10/2026 | Arcidosso (GR), Toscana, Italia |  |
 | [My Stufato](https://www.sagretoscane.com/rassegne/ar/san-giovanni-valdarno/my-stufato.html) | 17/10/2026 | 18/10/2026 | San Giovanni Valdarno (AR), Toscana, Italia |  |
+| [Festa dell'Olio](https://www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batignano.html) | 17/10/2026 | 18/10/2026 | Grosseto (GR), Toscana, Italia |  |
+| [Festa dell'Olio](https://www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batignano.html) | 24/10/2026 | 25/10/2026 | Grosseto (GR), Toscana, Italia |  |
 | [Festa della Castagna e del Marrone DOP di Caprese](https://www.sagretoscane.com/sagre/ar/caprese-michelangelo/festa-della-castagna-caprese-michelangelo.html) | 17/10/2026 | 18/10/2026 | Caprese Michelangelo (AR), Toscana, Italia |  |
 | [Festa della Castagna e del Marrone DOP di Caprese](https://www.sagretoscane.com/sagre/ar/caprese-michelangelo/festa-della-castagna-caprese-michelangelo.html) | 24/10/2026 | 25/10/2026 | Caprese Michelangelo (AR), Toscana, Italia |  |
 | [Sagra dì Bollito](https://www.sagretoscane.com/sagre/fi/pelago/sagra-di-bollito.html) | 17/10/2026 | 18/10/2026 | Centro Pastorale Giorgio La Pira, Via Vallombrosana 4, Pelago (FI), Toscana, Italia |  |
 | [Sagra dì Bollito](https://www.sagretoscane.com/sagre/fi/pelago/sagra-di-bollito.html) | 24/10/2026 | 25/10/2026 | Centro Pastorale Giorgio La Pira, Via Vallombrosana 4, Pelago (FI), Toscana, Italia |  |
+| [Festa d'Ottobre](https://www.sagretoscane.com/sagre/li/rosignano-marittimo/festa-d-ottobre.html) | 17/10/2026 | 19/10/2026 | Rosignano Marittimo (LI), Toscana, Italia |  |
 | [Mondinata in Piazza](https://www.sagretoscane.com/sagre/lu/barga/mondinata-in-piazza-mologno.html) | 17/10/2026 | 18/10/2026 | Piazza della Stazione, Mologno, Barga (LU), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco e del Fungo](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-e-del-fungo.html) | 17/10/2026 | 18/10/2026 | Balconevisi, San Miniato (PI), Toscana, Italia |  |
 | [Calenzano 1325](https://www.sagretoscane.com/feste/fi/calenzano/calenzano-1325.html) | 18/10/2026 | 18/10/2026 | Calenzano (FI), Toscana, Italia |  |
@@ -189,9 +196,11 @@ Ultima modifica dati: 2026-10-05. 117 manifestazioni, 193 appuntamenti/periodi. 
 | [Piazza Bartali Shopping](https://www.sagretoscane.com/fiere-mercati/fi/firenze/piazza-bartali-shopping.html) | 18/10/2026 | 18/10/2026 | Piazza Gino Bartali, Firenze (FI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Siena](https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html) | 18/10/2026 | 18/10/2026 | Piazza del Mercato, Siena (SI), Toscana, Italia |  |
 | [Mangialonga al Tartufo Bianco](https://www.sagretoscane.com/rassegne/pi/san-miniato/mangialonga-al-tartufo-bianco-balconevisi.html) | 18/10/2026 | 18/10/2026 | Balconevisi, San Miniato (PI), Toscana, Italia |  |
+| [Sagra delle Bruciate e del Vin Novo](https://www.sagretoscane.com/sagre/fi/scandicci/sagra-delle-bruciate-e-del-vino-novello.html) | 18/10/2026 | 18/10/2026 | Scandicci (FI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 24/10/2026 | 24/10/2026 | Grosseto (GR), Toscana, Italia |  |
 | [Rassegna della Castanicoltura](https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-della-castanicoltura.html) | 24/10/2026 | 25/10/2026 | Cutigliano, Cutigliano (PT), Toscana, Italia |  |
 | [Santo Spirito in Fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html) | 25/10/2026 | 25/10/2026 | Piazza Santo Spirito, Firenze (FI), Toscana, Italia |  |
+| [Festa dell'olio novo](https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html) | 25/10/2026 | 25/10/2026 | Scandicci (FI), Toscana, Italia |  |
 | [Festa del Marrone](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marrone.html) | 25/10/2026 | 25/10/2026 | Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Festa delle Cantine](https://www.sagretoscane.com/rassegne/gr/sorano/festa-delle-cantine-sorano.html) | 30/10/2026 | 01/11/2026 | Sorano (GR), Toscana, Italia |  |
 | [Fiera di Ognissanti al Parco delle Cascine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html) | 01/11/2026 | 01/11/2026 | Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia |  |

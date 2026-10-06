@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-05. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-06. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -2463,7 +2463,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:5702fac234b1f8f6f5a082b82e36206c@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY;LANGUAGE=it:Il Palio del Papero
@@ -2530,6 +2530,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  riazioni nella scheda originale.
 URL:https://www.sagretoscane.com/rassegne/fi/palazzuolo-sul-senio/oktober-f
  uego-palazzuolo-sul-senio.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:77cf49fb281fd8ce61290ecf43e6bf96@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Sapori d'autunno
+LOCATION:Montecarlo (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-del-vino-n
+ ovello.html\nLe date indicano i giorni della manifestazione\, non un’ape
+ rtura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni n
+ ella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-d
+ el-vino-novello.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c108c92e372a4c18f2caf36d10da240a@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sapori d'autunno
+LOCATION:Montecarlo (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-del-vino-n
+ ovello.html\nLe date indicano i giorni della manifestazione\, non un’ape
+ rtura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni n
+ ella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/montecarlo/festa-dell-olio-e-d
+ el-vino-novello.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2851,6 +2889,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:d087f1d36e6f78852f2772076ae92dad@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Festa d'Autunno in Piazza del Carmine
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/la-fierucola-in-piazza-del
+ -carmine-2.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/la-fierucola-in-p
+ iazza-del-carmine-2.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:c09008bfccef11826bd9956a352b45ae@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261011
@@ -3046,7 +3103,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:fd7f6c0f1827753b5023371637ed606c@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY;LANGUAGE=it:Festa della Polenta a palle ai Funghi porcini
@@ -3065,7 +3122,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:7eb7d46ad17edd40722117a3ddf4f7c1@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Festa della Polenta a palle ai Funghi porcini
@@ -3084,7 +3141,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:222663bd46a46be81603df12e582d828@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Festa della Polenta a palle ai Funghi porcini
@@ -3103,7 +3160,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:b80d1bc039a9a9f8131febc36dc8e13c@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY;LANGUAGE=it:Festa della Polenta a palle ai Funghi porcini
@@ -3213,6 +3270,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/si/sovicille/festa-della-montagnola.
  html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:962ad1d2da3e8f2ff9cdeeae0a8e2c32@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Un Prato di Cioccolato
+LOCATION:Prato (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/po/prato/un-prato-di-cioccolato.html\nLe d
+ ate indicano i giorni della manifestazione\, non un’apertura di 24 ore. 
+ Verificare orari\, prenotazioni ed eventuali variazioni nella scheda origi
+ nale.
+URL:https://www.sagretoscane.com/rassegne/po/prato/un-prato-di-cioccolato.h
+ tml
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -3391,6 +3467,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:abf8fc9980e3b6f11f404b50637317f2@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa dell'Olio
+LOCATION:Grosseto (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batignano.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batig
+ nano.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1167636b8dfc13c28bcfa13071f2d7@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa dell'Olio
+LOCATION:Grosseto (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batignano.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batig
+ nano.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:cfdee824ed872212f69b77d64217356f@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261017
@@ -3459,6 +3573,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  cano i giorni della manifestazione\, non un’apertura di 24 ore. Verifica
  re orari\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/fi/pelago/sagra-di-bollito.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c99ffab6a6df0c7bd5d9ce4f819afca9@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261020
+SUMMARY;LANGUAGE=it:Festa d'Ottobre
+LOCATION:Rosignano Marittimo (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/rosignano-marittimo/festa-d-ottobre.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/sagre/li/rosignano-marittimo/festa-d-ottob
+ re.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3597,6 +3730,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:30ab5af47f9ae0c984e441c1bda42d85@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sagra delle Bruciate e del Vin Novo
+LOCATION:Scandicci (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/scandicci/sagra-delle-bruciate-e-del-vino-
+ novello.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/scandicci/sagra-delle-bruciate-e-
+ del-vino-novello.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:b2151369d04e21f8d665db8a8e28c1f1@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261024
@@ -3649,6 +3801,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-
  fiera.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:fd134af29292b7617265b8bb60e9c59e@sagre-toscana.jazia
+DTSTAMP:20261006T120542Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa dell'olio novo
+LOCATION:Scandicci (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicc
+ i.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo
+ -scandicci.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -3713,7 +3884,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:46abd77b40beb0bc55b94359843f382c@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261110
 SUMMARY;LANGUAGE=it:Stravino
