@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-06. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-07. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -1216,7 +1216,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:7fb1e3ff91a381c5f40d5c3929311f21@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY;LANGUAGE=it:Sagra del Fritto Misto
@@ -1235,7 +1235,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4cba37855ba29814ba184e6bd5f4dc3f@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY;LANGUAGE=it:Sagra del Fritto Misto
@@ -1292,7 +1292,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:1f978baf1b8599d77c40980f6d711177@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY;LANGUAGE=it:Sagra del Porcino e della Chianina
@@ -1311,7 +1311,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:1cc6bfc0d6929db11c7ba04ce8dce0ce@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY;LANGUAGE=it:Sagra del Porcino e della Chianina
@@ -1330,7 +1330,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:df61b4d449b5739b811d9b1dadb0f8c3@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Sagra del Porcino e della Chianina
@@ -1349,7 +1349,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ec2b7eafd9c6b0d7e89f0ca337626ecc@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Sagra del Porcino e della Chianina
@@ -1368,7 +1368,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:eae8c745c7ab6df7e6b76a7b9049dd7a@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY;LANGUAGE=it:Sagra del Porcino e della Chianina
@@ -2156,6 +2156,24 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:b6a2c6c80df19cd582d1ccb80d05d508@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Festa della Gnoccata
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/firenze/festa-della-gnoccata.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/sagre/fi/firenze/festa-della-gnoccata.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:bb983cf459ff67d362b797d3a5c3a601@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261009
@@ -2462,6 +2480,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:3e500551925b2335bd55ecc043ab94bf@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Zucca Gigante in Festa
+LOCATION:Gavorrano (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/gr/gavorrano/zucca-gigante-in-festa-casteani.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/feste/gr/gavorrano/zucca-gigante-in-festa-
+ casteani.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:5702fac234b1f8f6f5a082b82e36206c@sagre-toscana.jazia
 DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261010
@@ -2494,6 +2531,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  azioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/artigianato-d-aut
  ore-firenze-san-paolino.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7880b22b37929693aba999bc5ccc47@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY;LANGUAGE=it:Brocantage 3.0
+LOCATION:Livorno (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-port
+ a-a-mare.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4daaaca7522aeb2b6ce53a24d899bdfb@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Vintage Fest Livorno
+LOCATION:Livorno (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/livorno/vintage-fest-livorno.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/livorno/vintage-fest-livo
+ rno.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2671,6 +2746,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-t
  ortello-fungo-porcino-e-marrone-del-mugello.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:73e955b87571bafa40a07e4106153b10@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Festa del Marrone Santafiorese
+LOCATION:Santa Fiora (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/santa-fiora/sagra-del-marrone-santafiorese
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/sagre/gr/santa-fiora/sagra-del-marrone-san
+ tafiorese.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2889,6 +2983,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:aae7f210e1f8ffc0621ea685f1591dd5@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Antiquariandolo
+LOCATION:Foiano della Chiana (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/foiano-della-chiana/antiquariandol
+ o-foiano-della-chiana.html\nLe date indicano i giorni della manifestazione
+ \, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventua
+ li variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/foiano-della-chiana/antiq
+ uariandolo-foiano-della-chiana.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:d087f1d36e6f78852f2772076ae92dad@sagre-toscana.jazia
 DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261011
@@ -2902,6 +3015,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/la-fierucola-in-p
  iazza-del-carmine-2.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7a43e359d213ba98cb7637b60ca06582@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Dal Bosco e dalla Pietra
+LOCATION:Firenzuola (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenzuola/dal-bosco-e-dalla-pietr
+ a.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenzuola/dal-bosco-e-da
+ lla-pietra.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:405724c2e8146def5ceefce0890c4a0d@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Dal Bosco e dalla Pietra
+LOCATION:Firenzuola (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenzuola/dal-bosco-e-dalla-pietr
+ a.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenzuola/dal-bosco-e-da
+ lla-pietra.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3083,6 +3234,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:0ca05418235083aebcd634c4514b008f@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Castagnata in Piazza
+LOCATION:Molazzana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/molazzana/castagnata-in-piazza.html\nLe da
+ te indicano i giorni della manifestazione\, non un’apertura di 24 ore. V
+ erificare orari\, prenotazioni ed eventuali variazioni nella scheda origin
+ ale.
+URL:https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-in-piazza.ht
+ ml
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:2821117086839d741e642907163f3834@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261011
@@ -3216,6 +3386,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:6246093b21a7fec88f70b4d0a3f2cb3f@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Sagra della Castagna\, Cioccolato e Miele
+LOCATION:Vernio (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/po/vernio/sagra-della-castagna-montepiano.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/sagre/po/vernio/sagra-della-castagna-monte
+ piano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:12673fff7e04dfc261614ebe90f7882f@sagre-toscana.jazia
 DTSTAMP:20261004T183340Z
 DTSTART;VALUE=DATE:20261011
@@ -3270,6 +3459,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/si/sovicille/festa-della-montagnola.
  html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:15f4fd8bc49eeb8be69b2bd85f18c1e8@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Urban Food Festival nel Paese dei Balocchi
+LOCATION:Empoli (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/empoli/urban-food-festival-nel-pae
+ se-dei-balocchi-empoli.html\nLe date indicano i giorni della manifestazion
+ e\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventu
+ ali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/empoli/urban-food-festiva
+ l-nel-paese-dei-balocchi-empoli.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -3448,6 +3656,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:b5febe74e11254df7e9caedb763ec51a@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa d'Ottobre - Il Tordo e la Cuccagna
+LOCATION:Murlo (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/murlo/festa-d-ottobre-il-tordo-e-la-cuccag
+ na.html\nLe date indicano i giorni della manifestazione\, non un’apertur
+ a di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella
+  scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/murlo/festa-d-ottobre-il-tordo-e-
+ la-cuccagna.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:59214eddf15d2b2f6b1dd222690b1dd7@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261017
@@ -3499,6 +3726,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
   originale.
 URL:https://www.sagretoscane.com/rassegne/gr/grosseto/festa-dell-olio-batig
  nano.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:fd77ecbb90645b70ca7993d9c54229f1@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa del Bosco
+LOCATION:Monticiano (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/monticiano/festa-del-bosco.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/rassegne/si/monticiano/festa-del-bosco.htm
+ l
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3636,6 +3882,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:ccf7dd727e432af7ae58059b3b780942@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY;LANGUAGE=it:Festa delle Paste Sudice
+LOCATION:Poggibonsi (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/poggibonsi/festa-delle-paste-sudicie.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/sagre/si/poggibonsi/festa-delle-paste-sudi
+ cie.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:a150d53f379807edd0262fbe478d132b@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261018
@@ -3647,6 +3912,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  icano i giorni della manifestazione\, non un’apertura di 24 ore. Verific
  are orari\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/feste/fi/calenzano/calenzano-1325.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:95057bc7e047ba7881fc28a77a631a98@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Zucca a Lamporecchio
+LOCATION:Lamporecchio (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pt/lamporecchio/festa-della-zucca-lamporecchi
+ o.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/feste/pt/lamporecchio/festa-della-zucca-la
+ mporecchio.html
 CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3692,6 +3976,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:d67f7caf77baf458b416b52778340901@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Mercatino d'Autunno
+LOCATION:Montelupo Fiorentino (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/montelupo-fiorentino/mercatino-d-a
+ utunno-montelupo-fiorentino.html\nLe date indicano i giorni della manifest
+ azione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed e
+ ventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/montelupo-fiorentino/merc
+ atino-d-autunno-montelupo-fiorentino.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:07bfdd8fe9136867f49874bf445f416c@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261018
@@ -3706,6 +4009,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
  ionista-siena.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:087ad877d28e8b1fbab750617582eb68@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Settimana delle castagne
+LOCATION:Marciana (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/li/marciana/settimana-delle-castagne.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/rassegne/li/marciana/settimana-delle-casta
+ gne.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7a45fe94d3491acf8bd0f95244039b34@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Pescaglia (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/pescaglia/festa-della-castagna-colognor
+ a-di-pescaglia.html\nLe date indicano i giorni della manifestazione\, non 
+ un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali vari
+ azioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/pescaglia/festa-della-castagna
+ -colognora-di-pescaglia.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -3730,6 +4071,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:a8de91c71d2912a47ea86e40eb2b344a@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Smarronando & Svinando
+LOCATION:Firenzuola (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/firenzuola/smarronando-e-svinando.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/sagre/fi/firenzuola/smarronando-e-svinando
+ .html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ca379c1260152fa0c89aff771037708d@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Smarronando & Svinando
+LOCATION:Firenzuola (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/firenzuola/smarronando-e-svinando.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/sagre/fi/firenzuola/smarronando-e-svinando
+ .html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:30ab5af47f9ae0c984e441c1bda42d85@sagre-toscana.jazia
 DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261018
@@ -3743,6 +4122,120 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/fi/scandicci/sagra-delle-bruciate-e-
  del-vino-novello.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:29e4351de1d28cea9cc604016cd3144e@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Gavorrano (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/gavorrano/festa-della-castagna-gavorrano.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/sagre/gr/gavorrano/festa-della-castagna-ga
+ vorrano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:d507d53a193b249b2114a3d5a3b5e2ca@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Monterotondo Marittimo (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/monterotondo-marittimo/festa-della-castagn
+ a-monterotondo-marittimo.html\nLe date indicano i giorni della manifestazi
+ one\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed even
+ tuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/gr/monterotondo-marittimo/festa-dell
+ a-castagna-monterotondo-marittimo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:0fedf7ad87a304f78c64dde3333c499f@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa d'Autunno
+LOCATION:Marciana (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/marciana/festa-d-autunno-marciana.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/sagre/li/marciana/festa-d-autunno-marciana
+ .html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:230e6efe2c2ecb67bb20546ca87176e1@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Capannori (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/capannori/festa-della-castagna-treponzio.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/sagre/lu/capannori/festa-della-castagna-tr
+ eponzio.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:fad1e4754b10771b5243f0142dca2757@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Careggine (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/careggine/festa-della-castagna-careggine.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/sagre/lu/careggine/festa-della-castagna-ca
+ reggine.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:beaea567c18036496a4fb1c4a25af119@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sagra delle Castagne
+LOCATION:Lajatico (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/lajatico/sagra-delle-castagne-orciatico.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/sagre/pi/lajatico/sagra-delle-castagne-orc
+ iatico.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3825,6 +4318,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:d7467365563b3d3c41953a67e3275855@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Sapori d'Autunno
+LOCATION:Lamporecchio (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/lamporecchio/sapori-d-autunno-cerbaia.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/sagre/pt/lamporecchio/sapori-d-autunno-cer
+ baia.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:e3175ef26a8ff68aed4f3fd65314f16b@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261025
@@ -3838,6 +4350,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  originale.
 URL:https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marr
  one.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:aadbea675f97252edf563bef94790bf0@sagre-toscana.jazia
+DTSTAMP:20261007T115120Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Sagra della Polenta
+LOCATION:Sovicille (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/sovicille/sagra-della-polenta-sovicille.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/sagre/si/sovicille/sagra-della-polenta-sov
+ icille.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
