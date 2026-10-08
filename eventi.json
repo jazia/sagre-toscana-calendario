@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-07",
+  "extracted_at": "2026-10-08",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -48,6 +48,10 @@
     },
     {
       "page": 12,
+      "count": 10
+    },
+    {
+      "page": 13,
       "count": 7
     }
   ],
@@ -1282,6 +1286,22 @@
       "source_hash": "c7454d0c1a51adc37cda69c0428baaa92a20b084cb66fb51ee6fb26f762255ac"
     },
     {
+      "name": "Varchi in Vigna - La Vendemmia",
+      "url": "https://www.sagretoscane.com/rassegne/ar/montevarchi/varchi-in-vigna-la-vendemmia.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-09",
+          "2026-10-11"
+        ]
+      ],
+      "source_hash": "1e39f7d3bd2fde5efb8ca8e339446798b4d3b55ba0bb8d36a9cfd7352128787b",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Montevarchi (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 67,
       "name": "Il risveglio delle cantine",
       "location": "Semproniano (GR), Toscana, Italia",
@@ -1752,6 +1772,22 @@
       "source_hash": "92f9347ef4775590b2d626a3e11cd12782958e09ee098af3b0bbb9723509bfb9"
     },
     {
+      "name": "Ottobrata a Montefalconi",
+      "url": "https://www.sagretoscane.com/feste/pi/castelfranco-di-sotto/ottobrata-a-montefalconi.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "source_hash": "ae4dd91cdc0fcef09fc271ac1698cbb4e76a05229f1c640aebc2496a983a66b6",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Castelfranco di Sotto (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Antiquariandolo",
       "url": "https://www.sagretoscane.com/fiere-mercati/ar/foiano-della-chiana/antiquariandolo-foiano-della-chiana.html",
       "category": "Fiere e Mercati",
@@ -1804,6 +1840,22 @@
       "note": ""
     },
     {
+      "name": "Antiquariato in Borgo",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/montaione/antiquariato-in-borgo-castelfalfi.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "source_hash": "757eb7025ceb5e259e5b6937e4640c7c6e8fcf2ffb35fff90ba8c8e6e023fb54",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Montaione (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 106,
       "name": "Sagra della castagna",
       "location": "Montieri (GR), Toscana, Italia",
@@ -1826,6 +1878,22 @@
       ],
       "note": "",
       "source_hash": "c801f3c798bf03fe23d4a37a971eb9e437408531b82b9272a3ed30ea9e9c0d3c"
+    },
+    {
+      "name": "Prato Antiquaria",
+      "url": "https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "source_hash": "90368374c8cd249f2a2a487cea78d36b3021c2b39e4e9fcef50831e82af0ce5b",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Prato (PO), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 64,
@@ -2446,6 +2514,22 @@
       "note": ""
     },
     {
+      "name": "Il Mercatino da Forte dei Marmi",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/pisa/mercatino-da-forte-dei-marmi-pisa.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "d2e7c6855910fcf5643b5e3d898ab61918a93042148cfcf31fcb4f15c9e89c32",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Pisa (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 87,
       "name": "L'Angolo del Collezionista a Siena",
       "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
@@ -2642,6 +2726,22 @@
       "note": ""
     },
     {
+      "name": "Sagra del Tartufo Bianco delle Colline Sanminiatesi",
+      "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-23",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "a1046e026ee64819c936a7d413a1778460918aed129067bed4d2af4d1a82d91d",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "San Miniato (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 94,
       "name": "L'Angolo del Collezionista a Grosseto",
       "location": "Grosseto (GR), Toscana, Italia",
@@ -2672,6 +2772,22 @@
       ],
       "note": "",
       "source_hash": "3498456865b7a68e2d83932520579978a160b7f20faffbc5eb9519507ec554b5"
+    },
+    {
+      "name": "Castagnalandia",
+      "url": "https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/castagnalandia.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "b5580f93bb185d8aedffdc66ce9776fef29f100a15c03390987ab229e09f6521",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo di Val di Cecina (PI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 109,
@@ -2804,6 +2920,22 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Barga in Cioccolato",
+      "url": "https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-12-07",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "0298ba5d61882b568782a62023e6472bb07783b442eff58a6bf528074287b1e9",
+      "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Barga (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 115,
       "name": "L'Angolo del Collezionista a Buonconvento",
       "location": "Buonconvento (SI), Toscana, Italia",
@@ -2820,5 +2952,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261007T115120Z"
+  "updated_at": "20261008T120630Z"
 }

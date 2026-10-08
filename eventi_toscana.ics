@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-07. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-08. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -2251,6 +2251,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:f75354fed40881c10be090973d741817@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Varchi in Vigna - La Vendemmia
+LOCATION:Montevarchi (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/ar/montevarchi/varchi-in-vigna-la-vendemmi
+ a.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/rassegne/ar/montevarchi/varchi-in-vigna-la
+ -vendemmia.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:910b720867396f44732bf2e6b557d0bb@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261009
@@ -2983,6 +3002,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:77d8b999c823e5ad3576914f8ada66a0@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Ottobrata a Montefalconi
+LOCATION:Castelfranco di Sotto (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pi/castelfranco-di-sotto/ottobrata-a-montefal
+ coni.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/feste/pi/castelfranco-di-sotto/ottobrata-a
+ -montefalconi.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:aae7f210e1f8ffc0621ea685f1591dd5@sagre-toscana.jazia
 DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261011
@@ -3059,6 +3097,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:887b044023177a17b6e1c17dbdb138f0@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Antiquariato in Borgo
+LOCATION:Montaione (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/montaione/antiquariato-in-borgo-ca
+ stelfalfi.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/montaione/antiquariato-in
+ -borgo-castelfalfi.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:c09008bfccef11826bd9956a352b45ae@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261011
@@ -3110,6 +3167,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/gr/montieri/sagra-della-cast
  agna-montieri-2.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4869485cd0c285ce76732c1661cdb9cb@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Prato Antiquaria
+LOCATION:Prato (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html\nLe da
+ te indicano i giorni della manifestazione\, non un’apertura di 24 ore. V
+ erificare orari\, prenotazioni ed eventuali variazioni nella scheda origin
+ ale.
+URL:https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.ht
+ ml
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3995,6 +4071,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:12c675601c488b669f5c68ebea391b4a@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Il Mercatino da Forte dei Marmi
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pi/pisa/mercatino-da-forte-dei-marmi-
+ pisa.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pi/pisa/mercatino-da-forte-d
+ ei-marmi-pisa.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:07bfdd8fe9136867f49874bf445f416c@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261018
@@ -4242,6 +4337,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:23a13777134cb371b3cd082119bc4596@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco delle Colline Sanminiatesi
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bia
+ nco.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:b2151369d04e21f8d665db8a8e28c1f1@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261024
@@ -4275,6 +4389,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-della-cast
  anicoltura.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:caa7c41b14691f145882ad31fc92fe29@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Castagnalandia
+LOCATION:Castelnuovo di Val di Cecina (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/castagnalandi
+ a.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/cast
+ agnalandia.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -4428,6 +4561,24 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  le.
 URL:https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.htm
  l
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:201f760bfde8c181daa88f22a574de60@sagre-toscana.jazia
+DTSTAMP:20261008T120630Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Barga in Cioccolato
+LOCATION:Barga (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
