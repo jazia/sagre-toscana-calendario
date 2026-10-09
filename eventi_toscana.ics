@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-08. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-09. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -2519,7 +2519,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:5702fac234b1f8f6f5a082b82e36206c@sagre-toscana.jazia
-DTSTAMP:20261006T120542Z
+DTSTAMP:20261009T115823Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY;LANGUAGE=it:Il Palio del Papero
@@ -3541,10 +3541,10 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:15f4fd8bc49eeb8be69b2bd85f18c1e8@sagre-toscana.jazia
-DTSTAMP:20261007T115120Z
+DTSTAMP:20261009T115823Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
-SUMMARY;LANGUAGE=it:Urban Food Festival nel Paese dei Balocchi
+SUMMARY;LANGUAGE=it:UFF nel Paese dei Balocchi
 LOCATION:Empoli (FI)\, Toscana\, Italia
 DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  //www.sagretoscane.com/fiere-mercati/fi/empoli/urban-food-festival-nel-pae
@@ -3684,6 +3684,23 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
   scheda originale.
 URL:https://www.sagretoscane.com/sagre/ar/lucignano/festa-della-castagna-e-
  del-porcino.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:d25b77d2f0c5234d3dea7c22b67fbcef@sagre-toscana.jazia
+DTSTAMP:20261009T115823Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sagra di Penco
+LOCATION:Reggello (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/reggello/sagra-di-penco.html\nLe date indi
+ cano i giorni della manifestazione\, non un’apertura di 24 ore. Verifica
+ re orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/reggello/sagra-di-penco.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4090,6 +4107,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:7703dfc8623cdf01a93be07b0154e9f1@sagre-toscana.jazia
+DTSTAMP:20261009T115823Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Autunno in Fiera
+LOCATION:Montepulciano (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/montepulciano/autunno-in-fiera-mon
+ tepulciano.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/montepulciano/autunno-in-
+ fiera-montepulciano.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:07bfdd8fe9136867f49874bf445f416c@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261018
@@ -4141,6 +4177,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  azioni nella scheda originale.
 URL:https://www.sagretoscane.com/rassegne/lu/pescaglia/festa-della-castagna
  -colognora-di-pescaglia.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:f41a61f7577662d68d59ca64cc94bc73@sagre-toscana.jazia
+DTSTAMP:20261009T115823Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sapori d'Autunno
+LOCATION:Pieve Fosciana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/pieve-fosciana/sapori-d-autunno-pieve-f
+ osciana.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/pieve-fosciana/sapori-d-autunn
+ o-pieve-fosciana.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4337,6 +4392,43 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:0dbe638b88c928799e4868c4dd51d545@sagre-toscana.jazia
+DTSTAMP:20261009T115823Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Castagnata a Cecina
+LOCATION:Larciano (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/larciano/castagnata-a-cecina.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/sagre/pt/larciano/castagnata-a-cecina.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe96bbedb216da3e88ac7308ae5089e@sagre-toscana.jazia
+DTSTAMP:20261009T115823Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Monsummano Terme (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/monsummano/festa-della-castagna-monsummano
+ -terme.html\nLe date indicano i giorni della manifestazione\, non un’ape
+ rtura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni n
+ ella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pt/monsummano/festa-della-castagna-m
+ onsummano-terme.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:23a13777134cb371b3cd082119bc4596@sagre-toscana.jazia
 DTSTAMP:20261008T120630Z
 DTSTART;VALUE=DATE:20261023
@@ -4350,6 +4442,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  originale.
 URL:https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bia
  nco.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:31b2dcaedbb1d8ac67a0529e6078ef35@sagre-toscana.jazia
+DTSTAMP:20261009T115823Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Sagra dell'Olio novo e del Fegatello toscano
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/sagra-dell-olio-novo.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-dell-olio-novo.
+ html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

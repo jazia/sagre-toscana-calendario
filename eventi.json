@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-08",
+  "extracted_at": "2026-10-09",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -52,7 +52,11 @@
     },
     {
       "page": 13,
-      "count": 7
+      "count": 10
+    },
+    {
+      "page": 14,
+      "count": 3
     }
   ],
   "events": [
@@ -1499,8 +1503,8 @@
         ]
       ],
       "note": "",
-      "source_hash": "f38a745588fe4a804129012ac3508988e3255f682d28e389cbae72331b81168f",
-      "modified_at": "20261006T120542Z",
+      "source_hash": "bac51361cc4b6f2cf3c1f78ca8d8f4b35a8ecde63fcc43cd7547ca658ff31735",
+      "modified_at": "20261009T115823Z",
       "status": "CONFIRMED"
     },
     {
@@ -2109,7 +2113,7 @@
       "source_hash": "889c308daac188ff00236dcf7752cc4e4d56950bddd01971a578df2b084bd1a9"
     },
     {
-      "name": "Urban Food Festival nel Paese dei Balocchi",
+      "name": "UFF nel Paese dei Balocchi",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/empoli/urban-food-festival-nel-paese-dei-balocchi-empoli.html",
       "category": "Fiere e Mercati",
       "periods": [
@@ -2118,8 +2122,8 @@
           "2026-10-18"
         ]
       ],
-      "source_hash": "4a39c92e2ac5b5eb2dd676f0fbdcf42daf4f0d6235d5d89fcb12fee18e6626bd",
-      "modified_at": "20261007T115120Z",
+      "source_hash": "4b02fa155013b7f711b11cfaf7eb90bd6bfb084269bd9b8f5b0ed675c2dcc3b8",
+      "modified_at": "20261009T115823Z",
       "status": "CONFIRMED",
       "location": "Empoli (FI), Toscana, Italia",
       "note": ""
@@ -2237,6 +2241,22 @@
       ],
       "note": "",
       "source_hash": "621f55073baf46573e9b81820c1ec12b0d8f56c83a4da5d19f405618da4b9490"
+    },
+    {
+      "name": "Sagra di Penco",
+      "url": "https://www.sagretoscane.com/sagre/fi/reggello/sagra-di-penco.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-16",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "b056fbcb061ba6e6ac00fd0f75577fd5344d234a07114e7f1d2dba195cada0ee",
+      "modified_at": "20261009T115823Z",
+      "status": "CONFIRMED",
+      "location": "Reggello (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 99,
@@ -2530,6 +2550,22 @@
       "note": ""
     },
     {
+      "name": "Autunno in Fiera",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/montepulciano/autunno-in-fiera-montepulciano.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "064c8f43a65b0dac667f2500f1520a04d001e0fc9beb757ec4d6cf13f2c4d658",
+      "modified_at": "20261009T115823Z",
+      "status": "CONFIRMED",
+      "location": "Montepulciano (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 87,
       "name": "L'Angolo del Collezionista a Siena",
       "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
@@ -2575,6 +2611,22 @@
       "modified_at": "20261007T115120Z",
       "status": "CONFIRMED",
       "location": "Pescaglia (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sapori d'Autunno",
+      "url": "https://www.sagretoscane.com/rassegne/lu/pieve-fosciana/sapori-d-autunno-pieve-fosciana.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "4b7d4f5fd4e2bd547a7c8503827acfeca26a8e1ababdbe05ad7ad7f60c8db8d6",
+      "modified_at": "20261009T115823Z",
+      "status": "CONFIRMED",
+      "location": "Pieve Fosciana (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -2726,6 +2778,38 @@
       "note": ""
     },
     {
+      "name": "Castagnata a Cecina",
+      "url": "https://www.sagretoscane.com/sagre/pt/larciano/castagnata-a-cecina.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "7aae13fb9dd0599a93018f4c0e7908ae5a8dd140ecbf6d041c72b7a27c4a8f72",
+      "modified_at": "20261009T115823Z",
+      "status": "CONFIRMED",
+      "location": "Larciano (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/pt/monsummano/festa-della-castagna-monsummano-terme.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "35c0699dd08c26106a2d15dd4d6a0e388683fb4ee5678a5a12ea60c5dbee3782",
+      "modified_at": "20261009T115823Z",
+      "status": "CONFIRMED",
+      "location": "Monsummano Terme (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra del Tartufo Bianco delle Colline Sanminiatesi",
       "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco.html",
       "category": "Sagre gastronomiche",
@@ -2737,6 +2821,22 @@
       ],
       "source_hash": "a1046e026ee64819c936a7d413a1778460918aed129067bed4d2af4d1a82d91d",
       "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "San Miniato (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sagra dell'Olio novo e del Fegatello toscano",
+      "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-dell-olio-novo.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-23",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "72cae0ba5abb7b6c4629ff0e5566d8709164512062ecc940ee1ab4964bdac75c",
+      "modified_at": "20261009T115823Z",
       "status": "CONFIRMED",
       "location": "San Miniato (PI), Toscana, Italia",
       "note": ""
@@ -2952,5 +3052,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261008T120630Z"
+  "updated_at": "20261009T115823Z"
 }
