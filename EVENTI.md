@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-09. 164 manifestazioni, 244 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-10. 170 manifestazioni, 251 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -135,6 +135,7 @@ Ultima modifica dati: 2026-10-09. 164 manifestazioni, 244 appuntamenti/periodi. 
 | [Zucca Gigante in Festa](https://www.sagretoscane.com/feste/gr/gavorrano/zucca-gigante-in-festa-casteani.html) | 10/10/2026 | 11/10/2026 | Gavorrano (GR), Toscana, Italia |  |
 | [Il Palio del Papero](https://www.sagretoscane.com/feste/pi/san-miniato/palio-del-papero.html) | 10/10/2026 | 11/10/2026 | Balconevisi, San Miniato (PI), Toscana, Italia |  |
 | [Artigianato d'Autore](https://www.sagretoscane.com/fiere-mercati/fi/firenze/artigianato-d-autore-firenze-san-paolino.html) | 10/10/2026 | 11/10/2026 | 25 Hours Hotel, Piazza San Paolino, Firenze (FI), Toscana, Italia |  |
+| [Svuota Cantine a Tavarnuzze](https://www.sagretoscane.com/fiere-mercati/fi/impruneta/svuota-cantine-a-tavarnuzze.html) | 10/10/2026 | 10/10/2026 | Impruneta (FI), Toscana, Italia |  |
 | [Brocantage 3.0](https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.html) | 10/10/2026 | 10/10/2026 | Livorno (LI), Toscana, Italia |  |
 | [Vintage Fest Livorno](https://www.sagretoscane.com/fiere-mercati/li/livorno/vintage-fest-livorno.html) | 10/10/2026 | 11/10/2026 | Livorno (LI), Toscana, Italia |  |
 | [Festa Pic](https://www.sagretoscane.com/fiere-mercati/lu/camaiore/festa-pic.html) | 10/10/2026 | 11/10/2026 | Camaiore (LU), Toscana, Italia |  |
@@ -236,14 +237,20 @@ Ultima modifica dati: 2026-10-09. 164 manifestazioni, 244 appuntamenti/periodi. 
 | [Sagra del Tartufo Bianco delle Colline Sanminiatesi](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco.html) | 23/10/2026 | 25/10/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Sagra dell'Olio novo e del Fegatello toscano](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-dell-olio-novo.html) | 23/10/2026 | 25/10/2026 | San Miniato (PI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 24/10/2026 | 24/10/2026 | Grosseto (GR), Toscana, Italia |  |
+| [Tartufesta](https://www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html) | 24/10/2026 | 25/10/2026 | Montaione (FI), Toscana, Italia |  |
+| [Volterragusto - Mostra Mercato del Tartufo Bianco e dei Prodotti Tipici dell'Alta Val di Cecina](https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-del-tartufo-bianco-e-dei-prodotti-locali.html) | 24/10/2026 | 25/10/2026 | Volterra (PI), Toscana, Italia |  |
+| [Volterragusto - Mostra Mercato del Tartufo Bianco e dei Prodotti Tipici dell'Alta Val di Cecina](https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-del-tartufo-bianco-e-dei-prodotti-locali.html) | 31/10/2026 | 01/11/2026 | Volterra (PI), Toscana, Italia |  |
 | [Rassegna della Castanicoltura](https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-della-castanicoltura.html) | 24/10/2026 | 25/10/2026 | Cutigliano, Cutigliano (PT), Toscana, Italia |  |
 | [Castagnalandia](https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/castagnalandia.html) | 24/10/2026 | 25/10/2026 | Castelnuovo di Val di Cecina (PI), Toscana, Italia |  |
+| [Festa della Castagna](https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/festa-della-castagna-castelnuovo-di-val-di-cecina.html) | 24/10/2026 | 25/10/2026 | Castelnuovo di Val di Cecina (PI), Toscana, Italia |  |
 | [Santo Spirito in Fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html) | 25/10/2026 | 25/10/2026 | Piazza Santo Spirito, Firenze (FI), Toscana, Italia |  |
 | [Festa dell'olio novo](https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html) | 25/10/2026 | 25/10/2026 | Scandicci (FI), Toscana, Italia |  |
+| [Castagnata in allegria](https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html) | 25/10/2026 | 25/10/2026 | Gallicano (LU), Toscana, Italia |  |
 | [Sapori d'Autunno](https://www.sagretoscane.com/sagre/pt/lamporecchio/sapori-d-autunno-cerbaia.html) | 25/10/2026 | 25/10/2026 | Lamporecchio (PT), Toscana, Italia |  |
 | [Festa del Marrone](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marrone.html) | 25/10/2026 | 25/10/2026 | Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Sagra della Polenta](https://www.sagretoscane.com/sagre/si/sovicille/sagra-della-polenta-sovicille.html) | 25/10/2026 | 25/10/2026 | Sovicille (SI), Toscana, Italia |  |
 | [Festa delle Cantine](https://www.sagretoscane.com/rassegne/gr/sorano/festa-delle-cantine-sorano.html) | 30/10/2026 | 01/11/2026 | Sorano (GR), Toscana, Italia |  |
+| [Sagra del Totano](https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html) | 30/10/2026 | 01/11/2026 | Capraia Isola (LI), Toscana, Italia |  |
 | [Fiera di Ognissanti al Parco delle Cascine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html) | 01/11/2026 | 01/11/2026 | Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia |  |
 | [Stravino](https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.html) | 07/11/2026 | 09/11/2026 | Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia |  |
 | [Barga in Cioccolato](https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html) | 07/12/2026 | 08/12/2026 | Barga (LU), Toscana, Italia |  |

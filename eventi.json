@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-09",
+  "extracted_at": "2026-10-10",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "page": 14,
-      "count": 3
+      "count": 9
     }
   ],
   "events": [
@@ -1524,6 +1524,22 @@
       "source_hash": "c10d800838e84f5458e9cfbbe4e477aec443799e69d1c56e06c506bf5bb8369c"
     },
     {
+      "name": "Svuota Cantine a Tavarnuzze",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/impruneta/svuota-cantine-a-tavarnuzze.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-10",
+          "2026-10-10"
+        ]
+      ],
+      "source_hash": "5b8054bdaddfcf2c7f114b320558f4520512ad8d463ce7e8f9ec6cbdd6bcca8c",
+      "modified_at": "20261010T111452Z",
+      "status": "CONFIRMED",
+      "location": "Impruneta (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Brocantage 3.0",
       "url": "https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.html",
       "category": "Fiere e Mercati",
@@ -2858,6 +2874,42 @@
       "source_hash": "fa27a292ceb3a103c4ffd461114983afac6921e449cc584db893e68946a9ba2a"
     },
     {
+      "name": "Tartufesta",
+      "url": "https://www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "7d5a6d54da360acb2fa3f5941f88d9e9f6b7c065f8b024e018b9037e2686f3d7",
+      "modified_at": "20261010T111452Z",
+      "status": "CONFIRMED",
+      "location": "Montaione (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Volterragusto - Mostra Mercato del Tartufo Bianco e dei Prodotti Tipici dell'Alta Val di Cecina",
+      "url": "https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-del-tartufo-bianco-e-dei-prodotti-locali.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ],
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "628e52e18a3d1725b5ec9159e502caa4ba4bcd64f253f8cb25012a7ff8fc2bb6",
+      "modified_at": "20261010T111452Z",
+      "status": "CONFIRMED",
+      "location": "Volterra (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 107,
       "name": "Rassegna della Castanicoltura",
       "location": "Cutigliano, Cutigliano (PT), Toscana, Italia",
@@ -2885,6 +2937,22 @@
       ],
       "source_hash": "b5580f93bb185d8aedffdc66ce9776fef29f100a15c03390987ab229e09f6521",
       "modified_at": "20261008T120630Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo di Val di Cecina (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/festa-della-castagna-castelnuovo-di-val-di-cecina.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "a2b8c39b760e07fc3be9c2d290d91f03a90e37db88ebd0f61befe04dee36128d",
+      "modified_at": "20261010T111452Z",
       "status": "CONFIRMED",
       "location": "Castelnuovo di Val di Cecina (PI), Toscana, Italia",
       "note": ""
@@ -2919,6 +2987,22 @@
       "modified_at": "20261006T120542Z",
       "status": "CONFIRMED",
       "location": "Scandicci (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castagnata in allegria",
+      "url": "https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "ff26961b32dd9e56116d6fdf73b75e7b60a175ae88f171758af6b42cb41450a7",
+      "modified_at": "20261010T111452Z",
+      "status": "CONFIRMED",
+      "location": "Gallicano (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -2984,6 +3068,22 @@
       ],
       "note": "",
       "source_hash": "f13d9a02dbc88d72a55002928caf967fe1d388f65359ac7327720443f99c9009"
+    },
+    {
+      "name": "Sagra del Totano",
+      "url": "https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "60ad65bbf8ba6251e9a18fe034007143ed21d5c34f59361fb62a2a2b9080396e",
+      "modified_at": "20261010T111452Z",
+      "status": "CONFIRMED",
+      "location": "Capraia Isola (LI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 112,
@@ -3052,5 +3152,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261009T115823Z"
+  "updated_at": "20261010T111452Z"
 }

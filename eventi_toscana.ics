@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-09. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-10. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -2556,6 +2556,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:bd2066a796c24ad6cec01629c6d6cade@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY;LANGUAGE=it:Svuota Cantine a Tavarnuzze
+LOCATION:Impruneta (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/impruneta/svuota-cantine-a-tavarnu
+ zze.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/impruneta/svuota-cantine-
+ a-tavarnuzze.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:1b7880b22b37929693aba999bc5ccc47@sagre-toscana.jazia
 DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261010
@@ -4486,6 +4505,63 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:833074409254371190766faad5e04a72@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Tartufesta
+LOCATION:Montaione (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html\nLe date indi
+ cano i giorni della manifestazione\, non un’apertura di 24 ore. Verifica
+ re orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f8c0220aaf08aa875275bb685e0f42@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Volterragusto - Mostra Mercato del Tartufo Bianco e dei
+  Prodotti Tipici dell'Alta Val di Cecina
+LOCATION:Volterra (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-d
+ el-tartufo-bianco-e-dei-prodotti-locali.html\nLe date indicano i giorni de
+ lla manifestazione\, non un’apertura di 24 ore. Verificare orari\, preno
+ tazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-
+ mercato-del-tartufo-bianco-e-dei-prodotti-locali.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3fa407d509cb6cd111ab42f029c6fe1a@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Volterragusto - Mostra Mercato del Tartufo Bianco e dei
+  Prodotti Tipici dell'Alta Val di Cecina
+LOCATION:Volterra (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-d
+ el-tartufo-bianco-e-dei-prodotti-locali.html\nLe date indicano i giorni de
+ lla manifestazione\, non un’apertura di 24 ore. Verificare orari\, preno
+ tazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-
+ mercato-del-tartufo-bianco-e-dei-prodotti-locali.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:c8b8ca6d3eaae3a2a452644739a04b2f@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261024
@@ -4524,6 +4600,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:d8e6076e9393c816785cbcc3b2a5156c@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Castelnuovo di Val di Cecina (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/festa-della-c
+ astagna-castelnuovo-di-val-di-cecina.html\nLe date indicano i giorni della
+  manifestazione\, non un’apertura di 24 ore. Verificare orari\, prenotaz
+ ioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/fest
+ a-della-castagna-castelnuovo-di-val-di-cecina.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7783c57827c0c64febf122604a8fd8f7@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261025
@@ -4556,6 +4651,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  scheda originale.
 URL:https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo
  -scandicci.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3bfb81e76d3a3f1373aeb892988d0622@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Castagnata in allegria
+LOCATION:Gallicano (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegr
+ ia.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4633,6 +4747,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/gr/sorano/festa-delle-cantine-sor
  ano.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:35bc073ecec77c8a5b1d6b3821dd192f@sagre-toscana.jazia
+DTSTAMP:20261010T111452Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Sagra del Totano
+LOCATION:Capraia Isola (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html\nLe da
+ te indicano i giorni della manifestazione\, non un’apertura di 24 ore. V
+ erificare orari\, prenotazioni ed eventuali variazioni nella scheda origin
+ ale.
+URL:https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.ht
+ ml
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
