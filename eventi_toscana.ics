@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-11. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-12. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -1633,25 +1633,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:e2d2bfa1ccbac91b10bf82670cf31616@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY;LANGUAGE=it:Mercatino di Porsenna
-LOCATION:Piazza Duomo e Via Porsenna\, Chiusi (SI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chius
- i.html\nLe date indicano i giorni della manifestazione\, non un’apertura
-  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
- scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porse
- nna-chiusi.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:c10253940d9f835bde2a4842e5a7b080@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261004
@@ -2701,6 +2682,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/pt/cutigliano/rassegna-micologica
  -della-montagna-pistoiese.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:36da6a33678c351b5b602d41810cd709@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY;LANGUAGE=it:Sagra del Tortello\, Polenta e Castagne
+LOCATION:Borgo San Lorenzo (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/borgo-san-lorenzo/sagra-del-tortello-polen
+ ta-e-castagne.html\nLe date indicano i giorni della manifestazione\, non u
+ n’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali varia
+ zioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/borgo-san-lorenzo/sagra-del-torte
+ llo-polenta-e-castagne.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b43f1258179fc12b5e3e4fbd9d3fa755@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sagra del Tortello\, Polenta e Castagne
+LOCATION:Borgo San Lorenzo (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/borgo-san-lorenzo/sagra-del-tortello-polen
+ ta-e-castagne.html\nLe date indicano i giorni della manifestazione\, non u
+ n’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali varia
+ zioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/borgo-san-lorenzo/sagra-del-torte
+ llo-polenta-e-castagne.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -3787,6 +3806,43 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:b72a9a4bdf59a35b7386cdd447116133@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Bosco in Festa
+LOCATION:Montelupo Fiorentino (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/montelupo-fiorentino/mercato-enoga
+ stronomico-d-autunno.html\nLe date indicano i giorni della manifestazione\
+ , non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventual
+ i variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/montelupo-fiorentino/merc
+ ato-enogastronomico-d-autunno.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:70c971c99e0cd394565cf3f72a473c6c@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Siena in Fiore
+LOCATION:Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/siena/siena-in-fiore.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/fiere-mercati/si/siena/siena-in-fiore.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:59214eddf15d2b2f6b1dd222690b1dd7@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261017
@@ -4164,6 +4220,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:58155373cf1dfe09fead22b9dcdeb33e@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Sapori d'Autunno
+LOCATION:Signa (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/signa/sapori-d-autunno-signa.html\nLe d
+ ate indicano i giorni della manifestazione\, non un’apertura di 24 ore. 
+ Verificare orari\, prenotazioni ed eventuali variazioni nella scheda origi
+ nale.
+URL:https://www.sagretoscane.com/rassegne/fi/signa/sapori-d-autunno-signa.h
+ tml
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:087ad877d28e8b1fbab750617582eb68@sagre-toscana.jazia
 DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261018
@@ -4221,6 +4296,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:219f681690aff4bedcc6ea24ec515ddd@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Festa delle Castagne
+LOCATION:Villa Basilica (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/villa-basilica/festa-delle-castagne-par
+ iana.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/villa-basilica/festa-delle-cas
+ tagne-pariana.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:1ea319348e680bb6d06533977c6de399@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261018
@@ -4241,7 +4335,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:a8de91c71d2912a47ea86e40eb2b344a@sagre-toscana.jazia
-DTSTAMP:20261007T115120Z
+DTSTAMP:20261012T131831Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Smarronando & Svinando
@@ -4260,7 +4354,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ca379c1260152fa0c89aff771037708d@sagre-toscana.jazia
-DTSTAMP:20261007T115120Z
+DTSTAMP:20261012T131831Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Smarronando & Svinando
@@ -4411,6 +4505,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:7034e8d44f541d1aefb4c6be3c54390b@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Benvenuto Fico Secco
+LOCATION:Carmignano (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/po/carmignano/benvenuto-fico-secco-carmignano
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/sagre/po/carmignano/benvenuto-fico-secco-c
+ armignano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:0dbe638b88c928799e4868c4dd51d545@sagre-toscana.jazia
 DTSTAMP:20261009T115823Z
 DTSTART;VALUE=DATE:20261018
@@ -4486,6 +4599,23 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:729f20d58994552a30be21954c2f2ff8@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Sagra del Tordo
+LOCATION:Montalcino (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/montalcino/sagra-del-tordo.html\nLe date i
+ ndicano i giorni della manifestazione\, non un’apertura di 24 ore. Verif
+ icare orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/montalcino/sagra-del-tordo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:b2151369d04e21f8d665db8a8e28c1f1@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261024
@@ -4499,6 +4629,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-col
  lezionista-grosseto.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:bac91065abc58ee5d19ccbc0adb84475@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY;LANGUAGE=it:Mercatini in Val d'Orcia
+LOCATION:San Quirico dʼOrcia (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-va
+ l-d-orcia-san-quirico-d-orcia.html\nLe date indicano i giorni della manife
+ stazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed
+  eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercat
+ ini-in-val-d-orcia-san-quirico-d-orcia.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4619,6 +4768,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:508d4291f46d91216f24a992fbca9056@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY;LANGUAGE=it:Castagnata in piazza
+LOCATION:Radicondoli (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/radicondoli/castagnata-in-piazza-radicondo
+ li.html\nLe date indicano i giorni della manifestazione\, non un’apertur
+ a di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella
+  scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/radicondoli/castagnata-in-piazza-
+ radicondoli.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7783c57827c0c64febf122604a8fd8f7@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261025
@@ -4714,6 +4882,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:383d507c564598f46f08b2b2ee66f6d5@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Castagne\, bruschetta con l’olio nuovo e non solo
+LOCATION:Monteriggioni (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/monteriggioni/castagne-e-bruschetta-con-l-
+ olio-nuovo-e-non-solo.html\nLe date indicano i giorni della manifestazione
+ \, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventua
+ li variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/monteriggioni/castagne-e-bruschet
+ ta-con-l-olio-nuovo-e-non-solo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:aadbea675f97252edf563bef94790bf0@sagre-toscana.jazia
 DTSTAMP:20261007T115120Z
 DTSTART;VALUE=DATE:20261025
@@ -4728,6 +4915,42 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/si/sovicille/sagra-della-polenta-sov
  icille.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:cec464af6b36df9c95e1b1e9e1f96c4c@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Gustatus
+LOCATION:Orbetello (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/gr/orbetello/gustatus.html\nLe date indica
+ no i giorni della manifestazione\, non un’apertura di 24 ore. Verificare
+  orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/gr/orbetello/gustatus.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:38ab2eee6a9ff8cd1a04e5ebb8eaeb65@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Festival del Senza Glutine
+LOCATION:Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/siena/festival-del-senza-glutine-siena.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/rassegne/si/siena/festival-del-senza-gluti
+ ne-siena.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -4791,6 +5014,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:a36e62e35d9add417ea33822739e41ce@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Mercatino di Porsenna
+LOCATION:Piazza Duomo e Via Porsenna\, Chiusi (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chius
+ i.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porse
+ nna-chiusi.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:46abd77b40beb0bc55b94359843f382c@sagre-toscana.jazia
 DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261107
@@ -4804,6 +5046,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
  le.
 URL:https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.htm
+ l
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:f77774e1e4340231edac29775e76e2e7@sagre-toscana.jazia
+DTSTAMP:20261012T131831Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Casole DiVino
+LOCATION:Casole dʼElsa (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.htm
  l
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
