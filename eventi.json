@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-12",
+  "extracted_at": "2026-10-13",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -44,7 +44,11 @@
     },
     {
       "page": 11,
-      "count": 2
+      "count": 10
+    },
+    {
+      "page": 12,
+      "count": 10
     }
   ],
   "events": [
@@ -2304,6 +2308,22 @@
       "note": ""
     },
     {
+      "name": "Vignoni in Festa",
+      "url": "https://www.sagretoscane.com/feste/si/san-quirico-dorcia/vignoni-in-festa.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-17"
+        ]
+      ],
+      "source_hash": "bfc01dce75714b317497134765daf14ae4cb54e68ea641a533f49166e541501e",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Bosco in Festa",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/montelupo-fiorentino/mercato-enogastronomico-d-autunno.html",
       "category": "Fiere e Mercati",
@@ -2460,6 +2480,22 @@
       "source_hash": "6c1d71d83a9d9b78c96398ef49d786d704d87c2126039f9f9398d64a707e0ae0"
     },
     {
+      "name": "Sagra della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/pi/calci/sagra-della-castagna-calci.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-17",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "f4337281ff590e1d9b7891058db618e8db03bea0df870681bfbcf3afa08d032d",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Calci (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 77,
       "name": "Sagra del Tartufo Bianco e del Fungo",
       "location": "Balconevisi, San Miniato (PI), Toscana, Italia",
@@ -2526,6 +2562,22 @@
       "note": ""
     },
     {
+      "name": "Festa d'Autunno",
+      "url": "https://www.sagretoscane.com/feste/pt/montale/festa-d-autunno-fognano.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "2ddc0b11cbc2ac6946303c4bda446f2f529935164d33c8838827a6be921b468b",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Montale (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 86,
       "name": "Galluzzo in fiera",
       "location": "Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia",
@@ -2571,6 +2623,22 @@
       "modified_at": "20261007T115120Z",
       "status": "CONFIRMED",
       "location": "Montelupo Fiorentino (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Rovistando in Soffitta",
+      "url": "https://www.sagretoscane.com/fiere-mercati/li/piombino/rovistando-in-soffitta.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "2b05f7e589db24ca2ac159c1f93f833fb7f0df7e1eb9063847fb998271973dd5",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Piombino (LI), Toscana, Italia",
       "note": ""
     },
     {
@@ -2651,6 +2719,22 @@
       "modified_at": "20261007T115120Z",
       "status": "CONFIRMED",
       "location": "Marciana (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa del Vino",
+      "url": "https://www.sagretoscane.com/rassegne/lu/fosciandora/festa-del-vino-riana.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "42f69ed29579c871adf3bfc1de3f975bfd1cbf8278700333e0236402559c018b",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Fosciandora (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -2735,6 +2819,26 @@
       "modified_at": "20261012T131831Z",
       "status": "CONFIRMED",
       "location": "Firenzuola (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Ballottata – Sagra del Marrone",
+      "url": "https://www.sagretoscane.com/sagre/fi/san-godenzo/ballottata.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ],
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "0036adeb5ff0f3a2e518fe5bc22b1ea45944b9de935afb49839270d4e488d7c3",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "San Godenzo (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -2834,6 +2938,38 @@
       "note": ""
     },
     {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/lu/san-romano-in-garfagnana/festa-della-castagna-san-romano-in-garfagnana.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "dd64955fce1319e3eb81a65cbf01f31052be03c1ff40cbaa7d3212e0cbc8b0c2",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "San Romano in Garfagnana (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Non solo mondine",
+      "url": "https://www.sagretoscane.com/sagre/ms/fosdinovo/nonsolomondine.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "9190a56a56961edff4a8c89dce4b2609d477a4c2d2781fd4ca08283c76a6fd92",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Fosdinovo (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra delle Castagne",
       "url": "https://www.sagretoscane.com/sagre/pi/lajatico/sagra-delle-castagne-orciatico.html",
       "category": "Sagre gastronomiche",
@@ -2895,6 +3031,22 @@
       "modified_at": "20261009T115823Z",
       "status": "CONFIRMED",
       "location": "Monsummano Terme (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "La festa della castagna 2.0",
+      "url": "https://www.sagretoscane.com/sagre/gr/roccastrada/festa-della-castagna.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-23",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "f2d71c9e43d61df3b9fa3cd4a4fdd4c43ea8efb453307728715887245d902eca",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Roccastrada (GR), Toscana, Italia",
       "note": ""
     },
     {
@@ -2978,6 +3130,22 @@
       "note": ""
     },
     {
+      "name": "Festa della Zucca",
+      "url": "https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-della-zucca.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "645bc3a225850ba4ce32c9c422a675a2ac4060de3f347a892a2a547972340fcf",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Foiano della Chiana (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Tartufesta",
       "url": "https://www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html",
       "category": "Eventi enogastronomici",
@@ -3030,6 +3198,22 @@
       "source_hash": "3498456865b7a68e2d83932520579978a160b7f20faffbc5eb9519507ec554b5"
     },
     {
+      "name": "Cibo in piazza",
+      "url": "https://www.sagretoscane.com/rassegne/si/montepulciano/festa-del-cibo-di-strada.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "edb77e798958a05abea629ffb978f11ce618de747319af44a69c568c96bbdb1b",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Montepulciano (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Castagnalandia",
       "url": "https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/castagnalandia.html",
       "category": "Sagre gastronomiche",
@@ -3039,8 +3223,8 @@
           "2026-10-25"
         ]
       ],
-      "source_hash": "b5580f93bb185d8aedffdc66ce9776fef29f100a15c03390987ab229e09f6521",
-      "modified_at": "20261008T120630Z",
+      "source_hash": "5bc349ab9c5abdb318a3e95c4c3741024f34ea8c39d5c6b2b600dffd70ac5004",
+      "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "Castelnuovo di Val di Cecina (PI), Toscana, Italia",
       "note": ""
@@ -3110,6 +3294,22 @@
       "note": ""
     },
     {
+      "name": "Camminata tra gli Olivi",
+      "url": "https://www.sagretoscane.com/rassegne/fi/vinci/camminata-tra-gli-olivi-vinci.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "f54537b05f59d2d02eb29f2daaea92c1ae43e89656b89580f0d791f2e95fa0e9",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Vinci (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Castagnata in allegria",
       "url": "https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html",
       "category": "Eventi enogastronomici",
@@ -3123,6 +3323,22 @@
       "modified_at": "20261010T111452Z",
       "status": "CONFIRMED",
       "location": "Gallicano (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castagnata a Sassi",
+      "url": "https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-a-sassi.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "e1cead4a61d6ea6f8de830ac999dce1be1a12e90724642c2081c4af3829e72d5",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Molazzana (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -3190,6 +3406,22 @@
       "note": ""
     },
     {
+      "name": "Festival della Terra",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/san-gimignano/festival-della-terra-san-gimignano.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-29",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "96ab72915fc11f441a36f98bc4790e895affff322276d3acc9eab53bd8937697",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "San Gimignano (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Gustatus",
       "url": "https://www.sagretoscane.com/rassegne/gr/orbetello/gustatus.html",
       "category": "Eventi enogastronomici",
@@ -3222,6 +3454,38 @@
       "note": ""
     },
     {
+      "name": "Festa delle Streghe",
+      "url": "https://www.sagretoscane.com/feste/gr/manciano/festa-delle-streghe.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-10-31"
+        ]
+      ],
+      "source_hash": "0b125e18910e1000d65345b4d03c312bb133aa05c5759164b3e56f5e2de31b0f",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Manciano (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "ReOlio – Rassegna dell'Olio Extravergine di Oliva",
+      "url": "https://www.sagretoscane.com/rassegne/fi/reggello/rassegna-dell-olio-extravergine-di-oliva.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "5fd279d7968fe8c874ab477015c78117b21e3f41df209d7ee12768a2fdb9dcea",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Reggello (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 113,
       "name": "Festa delle Cantine",
       "location": "Sorano (GR), Toscana, Italia",
@@ -3238,6 +3502,22 @@
       "source_hash": "f13d9a02dbc88d72a55002928caf967fe1d388f65359ac7327720443f99c9009"
     },
     {
+      "name": "Il Primo Olio ed altro ancora...",
+      "url": "https://www.sagretoscane.com/rassegne/si/montalcino/il-primo-olio-e-altro-ancora.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "63306b68d978609a829d68ab8cb62ec08d4ae447209408bd0b69269be94fe249",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "Montalcino (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra del Totano",
       "url": "https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html",
       "category": "Sagre gastronomiche",
@@ -3251,6 +3531,22 @@
       "modified_at": "20261010T111452Z",
       "status": "CONFIRMED",
       "location": "Capraia Isola (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa d'Autunno",
+      "url": "https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-castell-azzara.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-10-31"
+        ]
+      ],
+      "source_hash": "cca87a2505ea2ffd7822a71964f55aad2cc50da8277ba091e75886a3e5072457",
+      "modified_at": "20261013T124722Z",
+      "status": "CONFIRMED",
+      "location": "CastellʼAzzara (GR), Toscana, Italia",
       "note": ""
     },
     {
@@ -3354,5 +3650,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261012T131831Z"
+  "updated_at": "20261013T124722Z"
 }
