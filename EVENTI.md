@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-13. 201 manifestazioni, 284 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-14. 204 manifestazioni, 287 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -220,6 +220,7 @@ Ultima modifica dati: 2026-10-13. 201 manifestazioni, 284 appuntamenti/periodi. 
 | [Festa della Zucca a Lamporecchio](https://www.sagretoscane.com/feste/pt/lamporecchio/festa-della-zucca-lamporecchio.html) | 18/10/2026 | 18/10/2026 | Lamporecchio (PT), Toscana, Italia |  |
 | [Festa d'Autunno](https://www.sagretoscane.com/feste/pt/montale/festa-d-autunno-fognano.html) | 18/10/2026 | 18/10/2026 | Montale (PT), Toscana, Italia |  |
 | [Galluzzo in fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html) | 18/10/2026 | 18/10/2026 | Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia |  |
+| [MercaFest](https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercafest-firenze.html) | 18/10/2026 | 18/10/2026 | Firenze (FI), Toscana, Italia |  |
 | [Piazza Bartali Shopping](https://www.sagretoscane.com/fiere-mercati/fi/firenze/piazza-bartali-shopping.html) | 18/10/2026 | 18/10/2026 | Piazza Gino Bartali, Firenze (FI), Toscana, Italia |  |
 | [Mercatino d'Autunno](https://www.sagretoscane.com/fiere-mercati/fi/montelupo-fiorentino/mercatino-d-autunno-montelupo-fiorentino.html) | 18/10/2026 | 18/10/2026 | Montelupo Fiorentino (FI), Toscana, Italia |  |
 | [Rovistando in Soffitta](https://www.sagretoscane.com/fiere-mercati/li/piombino/rovistando-in-soffitta.html) | 18/10/2026 | 18/10/2026 | Piombino (LI), Toscana, Italia |  |
@@ -228,6 +229,7 @@ Ultima modifica dati: 2026-10-13. 201 manifestazioni, 284 appuntamenti/periodi. 
 | [L'Angolo del Collezionista a Siena](https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html) | 18/10/2026 | 18/10/2026 | Piazza del Mercato, Siena (SI), Toscana, Italia |  |
 | [Sapori d'Autunno](https://www.sagretoscane.com/rassegne/fi/signa/sapori-d-autunno-signa.html) | 18/10/2026 | 18/10/2026 | Signa (FI), Toscana, Italia |  |
 | [Settimana delle castagne](https://www.sagretoscane.com/rassegne/li/marciana/settimana-delle-castagne.html) | 18/10/2026 | 25/10/2026 | Marciana (LI), Toscana, Italia |  |
+| [Mondinata paesana](https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/mondinata-paesana-torrite.html) | 18/10/2026 | 18/10/2026 | Castelnuovo di Garfagnana (LU), Toscana, Italia |  |
 | [Festa del Vino](https://www.sagretoscane.com/rassegne/lu/fosciandora/festa-del-vino-riana.html) | 18/10/2026 | 18/10/2026 | Fosciandora (LU), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/rassegne/lu/pescaglia/festa-della-castagna-colognora-di-pescaglia.html) | 18/10/2026 | 18/10/2026 | Pescaglia (LU), Toscana, Italia |  |
 | [Sapori d'Autunno](https://www.sagretoscane.com/rassegne/lu/pieve-fosciana/sapori-d-autunno-pieve-fosciana.html) | 18/10/2026 | 18/10/2026 | Pieve Fosciana (LU), Toscana, Italia |  |
@@ -265,6 +267,7 @@ Ultima modifica dati: 2026-10-13. 201 manifestazioni, 284 appuntamenti/periodi. 
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/pi/castelnuovo-di-val-di-cecina/festa-della-castagna-castelnuovo-di-val-di-cecina.html) | 24/10/2026 | 25/10/2026 | Castelnuovo di Val di Cecina (PI), Toscana, Italia |  |
 | [Castagnata in piazza](https://www.sagretoscane.com/sagre/si/radicondoli/castagnata-in-piazza-radicondoli.html) | 24/10/2026 | 24/10/2026 | Radicondoli (SI), Toscana, Italia |  |
 | [Santo Spirito in Fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html) | 25/10/2026 | 25/10/2026 | Piazza Santo Spirito, Firenze (FI), Toscana, Italia |  |
+| [Fiera dell’ottobre capannorese](https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-ottobre-capannorese-capannori.html) | 25/10/2026 | 25/10/2026 | Capannori (LU), Toscana, Italia |  |
 | [Festa dell'olio novo](https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html) | 25/10/2026 | 25/10/2026 | Scandicci (FI), Toscana, Italia |  |
 | [Camminata tra gli Olivi](https://www.sagretoscane.com/rassegne/fi/vinci/camminata-tra-gli-olivi-vinci.html) | 25/10/2026 | 25/10/2026 | Vinci (FI), Toscana, Italia |  |
 | [Castagnata in allegria](https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html) | 25/10/2026 | 25/10/2026 | Gallicano (LU), Toscana, Italia |  |

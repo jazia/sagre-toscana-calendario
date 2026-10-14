@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-13",
+  "extracted_at": "2026-10-14",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -49,6 +49,10 @@
     {
       "page": 12,
       "count": 10
+    },
+    {
+      "page": 13,
+      "count": 4
     }
   ],
   "events": [
@@ -2445,7 +2449,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "68eb6157d0286a4e635400a32721d60e5ab799fa0d5015f3df3542b10d0f7d40"
+      "source_hash": "c042ac0658e504735ddfc89bde8cb1dce7fbf59a146dbe7fdcbf7eb795d324c7",
+      "modified_at": "20261014T101933Z",
+      "status": "CONFIRMED"
     },
     {
       "name": "Festa d'Ottobre",
@@ -2594,6 +2600,22 @@
       "source_hash": "07dfbcbb693a4ac3a6640b37fe7fa2ca84d3ed4136eee594fa2149d10f5a5af8"
     },
     {
+      "name": "MercaFest",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercafest-firenze.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "9fd9fb1783f9e86e405eda08b54dead7103534f72d309f9b6ddc8cf5a1f46fbe",
+      "modified_at": "20261014T101933Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 88,
       "name": "Piazza Bartali Shopping",
       "location": "Piazza Gino Bartali, Firenze (FI), Toscana, Italia",
@@ -2719,6 +2741,22 @@
       "modified_at": "20261007T115120Z",
       "status": "CONFIRMED",
       "location": "Marciana (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mondinata paesana",
+      "url": "https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/mondinata-paesana-torrite.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "83674145d02f7f88cfacba57d8aecc879ea70e83ba0dd122ada21b9ea18fc9d6",
+      "modified_at": "20261014T101933Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo di Garfagnana (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -3278,6 +3316,22 @@
       "source_hash": "8cb2725fe42f593ffcf5fab562b7b6354ccd2ab5aa7c4ed6ad7cc1d063ec061e"
     },
     {
+      "name": "Fiera dell’ottobre capannorese",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-ottobre-capannorese-capannori.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "21be78cb61ad8012bf93dcfbc331d7540d68bfcc8c1d3be0c3d301cda86fda87",
+      "modified_at": "20261014T101933Z",
+      "status": "CONFIRMED",
+      "location": "Capannori (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa dell'olio novo",
       "url": "https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html",
       "category": "Eventi enogastronomici",
@@ -3303,8 +3357,8 @@
           "2026-10-25"
         ]
       ],
-      "source_hash": "f54537b05f59d2d02eb29f2daaea92c1ae43e89656b89580f0d791f2e95fa0e9",
-      "modified_at": "20261013T124722Z",
+      "source_hash": "ebc722979d00afe4b683db286589c79d84b0d31d837de51c425e9c8e41884e70",
+      "modified_at": "20261014T101933Z",
       "status": "CONFIRMED",
       "location": "Vinci (FI), Toscana, Italia",
       "note": ""
@@ -3499,7 +3553,9 @@
         ]
       ],
       "note": "",
-      "source_hash": "f13d9a02dbc88d72a55002928caf967fe1d388f65359ac7327720443f99c9009"
+      "source_hash": "f708b35f67814776398e428d0e39b4cd85c12a2fca05fa753a93df7eeffcc03e",
+      "modified_at": "20261014T101933Z",
+      "status": "CONFIRMED"
     },
     {
       "name": "Il Primo Olio ed altro ancora...",
@@ -3650,5 +3706,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261013T124722Z"
+  "updated_at": "20261014T101933Z"
 }

@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-13. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-14. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -3977,7 +3977,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ca8c6e5d34584e443273549da22fbac7@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261014T101933Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Sagra dì Bollito
@@ -3995,7 +3995,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:8c0366aa32dd6c351d8b0bee86680bda@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261014T101933Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Sagra dì Bollito
@@ -4182,6 +4182,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:83a13e5c8174eb23131c85d35dacc499@sagre-toscana.jazia
+DTSTAMP:20261014T101933Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:MercaFest
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/mercafest-firenze.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercafest-firenze
+ .html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:75b164349b4b630c1c5797d310c8c750@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261018
@@ -4328,6 +4347,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  originale.
 URL:https://www.sagretoscane.com/rassegne/li/marciana/settimana-delle-casta
  gne.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3485047e3b4d6fc4d994a89d7e5add@sagre-toscana.jazia
+DTSTAMP:20261014T101933Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Mondinata paesana
+LOCATION:Castelnuovo di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/mondinata-pae
+ sana-torrite.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/mond
+ inata-paesana-torrite.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5028,6 +5066,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:e0fd47ed0778677469db1f10d5cc72de@sagre-toscana.jazia
+DTSTAMP:20261014T101933Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Fiera dell’ottobre capannorese
+LOCATION:Capannori (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-ottobre-capan
+ norese-capannori.html\nLe date indicano i giorni della manifestazione\, no
+ n un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali va
+ riazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-otto
+ bre-capannorese-capannori.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:fd134af29292b7617265b8bb60e9c59e@sagre-toscana.jazia
 DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261025
@@ -5048,7 +5105,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:1dd2d8e53f13bc64609ade377b41419b@sagre-toscana.jazia
-DTSTAMP:20261013T124722Z
+DTSTAMP:20261014T101933Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Camminata tra gli Olivi
@@ -5272,7 +5329,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:7dc18d452845aee3aab6c10de71bbf16@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
+DTSTAMP:20261014T101933Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY;LANGUAGE=it:Festa delle Cantine
