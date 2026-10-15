@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-14. 204 manifestazioni, 287 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-15. 210 manifestazioni, 293 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -237,6 +237,7 @@ Ultima modifica dati: 2026-10-14. 204 manifestazioni, 287 appuntamenti/periodi. 
 | [Mangialonga al Tartufo Bianco](https://www.sagretoscane.com/rassegne/pi/san-miniato/mangialonga-al-tartufo-bianco-balconevisi.html) | 18/10/2026 | 18/10/2026 | Balconevisi, San Miniato (PI), Toscana, Italia |  |
 | [Smarronando & Svinando](https://www.sagretoscane.com/sagre/fi/firenzuola/smarronando-e-svinando.html) | 18/10/2026 | 18/10/2026 | Firenzuola (FI), Toscana, Italia |  |
 | [Smarronando & Svinando](https://www.sagretoscane.com/sagre/fi/firenzuola/smarronando-e-svinando.html) | 25/10/2026 | 25/10/2026 | Firenzuola (FI), Toscana, Italia |  |
+| [Fucecchio alta in Festa – Sagra del Ciaccino](https://www.sagretoscane.com/sagre/fi/fucecchio/fucecchio-alta-in-festa.html) | 18/10/2026 | 18/10/2026 | Fucecchio (FI), Toscana, Italia |  |
 | [Ballottata – Sagra del Marrone](https://www.sagretoscane.com/sagre/fi/san-godenzo/ballottata.html) | 18/10/2026 | 18/10/2026 | San Godenzo (FI), Toscana, Italia |  |
 | [Ballottata – Sagra del Marrone](https://www.sagretoscane.com/sagre/fi/san-godenzo/ballottata.html) | 25/10/2026 | 25/10/2026 | San Godenzo (FI), Toscana, Italia |  |
 | [Sagra delle Bruciate e del Vin Novo](https://www.sagretoscane.com/sagre/fi/scandicci/sagra-delle-bruciate-e-del-vino-novello.html) | 18/10/2026 | 18/10/2026 | Scandicci (FI), Toscana, Italia |  |
@@ -258,6 +259,7 @@ Ultima modifica dati: 2026-10-14. 204 manifestazioni, 287 appuntamenti/periodi. 
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 24/10/2026 | 24/10/2026 | Grosseto (GR), Toscana, Italia |  |
 | [Mercatini in Val d'Orcia](https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html) | 24/10/2026 | 24/10/2026 | San Quirico dʼOrcia (SI), Toscana, Italia |  |
 | [Festa della Zucca](https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-della-zucca.html) | 24/10/2026 | 25/10/2026 | Foiano della Chiana (AR), Toscana, Italia |  |
+| [Mostra Mercato del Tartufo Bianco e Nero](https://www.sagretoscane.com/rassegne/fi/barberino-di-mugello/mostra-mercato-del-tartufo-bianco-e-nero.html) | 24/10/2026 | 25/10/2026 | Barberino di Mugello (FI), Toscana, Italia |  |
 | [Tartufesta](https://www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html) | 24/10/2026 | 25/10/2026 | Montaione (FI), Toscana, Italia |  |
 | [Volterragusto - Mostra Mercato del Tartufo Bianco e dei Prodotti Tipici dell'Alta Val di Cecina](https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-del-tartufo-bianco-e-dei-prodotti-locali.html) | 24/10/2026 | 25/10/2026 | Volterra (PI), Toscana, Italia |  |
 | [Volterragusto - Mostra Mercato del Tartufo Bianco e dei Prodotti Tipici dell'Alta Val di Cecina](https://www.sagretoscane.com/rassegne/pi/volterra/volterragusto-mostra-mercato-del-tartufo-bianco-e-dei-prodotti-locali.html) | 31/10/2026 | 01/11/2026 | Volterra (PI), Toscana, Italia |  |
@@ -271,7 +273,11 @@ Ultima modifica dati: 2026-10-14. 204 manifestazioni, 287 appuntamenti/periodi. 
 | [Festa dell'olio novo](https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html) | 25/10/2026 | 25/10/2026 | Scandicci (FI), Toscana, Italia |  |
 | [Camminata tra gli Olivi](https://www.sagretoscane.com/rassegne/fi/vinci/camminata-tra-gli-olivi-vinci.html) | 25/10/2026 | 25/10/2026 | Vinci (FI), Toscana, Italia |  |
 | [Castagnata in allegria](https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html) | 25/10/2026 | 25/10/2026 | Gallicano (LU), Toscana, Italia |  |
+| [Festa d'Autunno](https://www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-autunno-montemarciano.html) | 25/10/2026 | 25/10/2026 | Terranuova Bracciolini (AR), Toscana, Italia |  |
 | [Castagnata a Sassi](https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-a-sassi.html) | 25/10/2026 | 25/10/2026 | Molazzana (LU), Toscana, Italia |  |
+| [Castagnata in Piazza](https://www.sagretoscane.com/sagre/ms/aulla/castagnata-in-piazza-caprigliola.html) | 25/10/2026 | 25/10/2026 | Aulla (MS), Toscana, Italia |  |
+| [Festa delle Castagne con Sbruciatata](https://www.sagretoscane.com/sagre/po/cantagallo/grande-sbruciatata.html) | 25/10/2026 | 25/10/2026 | Cantagallo (PO), Toscana, Italia |  |
+| [Festa della Castagna, dell'Olio e del Vin Novo](https://www.sagretoscane.com/sagre/po/prato/festa-della-castagna-e-del-vino-novello.html) | 25/10/2026 | 25/10/2026 | Prato (PO), Toscana, Italia |  |
 | [Sapori d'Autunno](https://www.sagretoscane.com/sagre/pt/lamporecchio/sapori-d-autunno-cerbaia.html) | 25/10/2026 | 25/10/2026 | Lamporecchio (PT), Toscana, Italia |  |
 | [Festa del Marrone](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marrone.html) | 25/10/2026 | 25/10/2026 | Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Castagne, bruschetta con l’olio nuovo e non solo](https://www.sagretoscane.com/sagre/si/monteriggioni/castagne-e-bruschetta-con-l-olio-nuovo-e-non-solo.html) | 25/10/2026 | 25/10/2026 | Monteriggioni (SI), Toscana, Italia |  |

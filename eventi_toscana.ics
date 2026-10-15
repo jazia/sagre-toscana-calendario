@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-14. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-15. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -3579,7 +3579,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:15f4fd8bc49eeb8be69b2bd85f18c1e8@sagre-toscana.jazia
-DTSTAMP:20261009T115823Z
+DTSTAMP:20261015T100346Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:UFF nel Paese dei Balocchi
@@ -4505,6 +4505,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:659fd04f6f80b2ddfc8000ce8ed7bf5c@sagre-toscana.jazia
+DTSTAMP:20261015T100346Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY;LANGUAGE=it:Fucecchio alta in Festa – Sagra del Ciaccino
+LOCATION:Fucecchio (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/fucecchio/fucecchio-alta-in-festa.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/sagre/fi/fucecchio/fucecchio-alta-in-festa
+ .html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:f886e35c9c73072136aab1f35464f8ad@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261018
@@ -4728,7 +4747,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:0dbe638b88c928799e4868c4dd51d545@sagre-toscana.jazia
-DTSTAMP:20261009T115823Z
+DTSTAMP:20261015T100346Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY;LANGUAGE=it:Castagnata a Cecina
@@ -4889,6 +4908,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  eda originale.
 URL:https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-dell
  a-zucca.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1b948f611f8736bd6c9e564c8d0749ff@sagre-toscana.jazia
+DTSTAMP:20261015T100346Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Mostra Mercato del Tartufo Bianco e Nero
+LOCATION:Barberino di Mugello (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/barberino-di-mugello/mostra-mercato-del
+ -tartufo-bianco-e-nero.html\nLe date indicano i giorni della manifestazion
+ e\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventu
+ ali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/fi/barberino-di-mugello/mostra-me
+ rcato-del-tartufo-bianco-e-nero.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5142,6 +5180,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:93a34497258de8fe1e332e94fa5dbc3f@sagre-toscana.jazia
+DTSTAMP:20261015T100346Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa d'Autunno
+LOCATION:Terranuova Bracciolini (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-autunno-mon
+ temarciano.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-au
+ tunno-montemarciano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:6cd8d105b3534f755ec2d4bfcf1bdea3@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261025
@@ -5154,6 +5211,63 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
  e.
 URL:https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-a-sassi.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2160c435f878ffd33b82096b0eaf37c0@sagre-toscana.jazia
+DTSTAMP:20261015T100346Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Castagnata in Piazza
+LOCATION:Aulla (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ms/aulla/castagnata-in-piazza-caprigliola.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/sagre/ms/aulla/castagnata-in-piazza-caprig
+ liola.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:75b868c56c05bcec75409047bf3027d9@sagre-toscana.jazia
+DTSTAMP:20261015T100346Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa delle Castagne con Sbruciatata
+LOCATION:Cantagallo (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/po/cantagallo/grande-sbruciatata.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/sagre/po/cantagallo/grande-sbruciatata.htm
+ l
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:d47415fad2d58afbff840e08abfc75a1@sagre-toscana.jazia
+DTSTAMP:20261015T100346Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa della Castagna\, dell'Olio e del Vin Novo
+LOCATION:Prato (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/po/prato/festa-della-castagna-e-del-vino-nove
+ llo.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/sagre/po/prato/festa-della-castagna-e-del-
+ vino-novello.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5329,7 +5443,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:7dc18d452845aee3aab6c10de71bbf16@sagre-toscana.jazia
-DTSTAMP:20261014T101933Z
+DTSTAMP:20261015T100346Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY;LANGUAGE=it:Festa delle Cantine

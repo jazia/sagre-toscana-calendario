@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-14",
+  "extracted_at": "2026-10-15",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -52,7 +52,11 @@
     },
     {
       "page": 13,
-      "count": 4
+      "count": 10
+    },
+    {
+      "page": 14,
+      "count": 2
     }
   ],
   "events": [
@@ -2138,8 +2142,8 @@
           "2026-10-18"
         ]
       ],
-      "source_hash": "4b02fa155013b7f711b11cfaf7eb90bd6bfb084269bd9b8f5b0ed675c2dcc3b8",
-      "modified_at": "20261009T115823Z",
+      "source_hash": "d59ff5581e75545e23d3439e8d6e4c51f069c8e3f17094c7d26996315a5ae8c1",
+      "modified_at": "20261015T100346Z",
       "status": "CONFIRMED",
       "location": "Empoli (FI), Toscana, Italia",
       "note": ""
@@ -2860,6 +2864,22 @@
       "note": ""
     },
     {
+      "name": "Fucecchio alta in Festa – Sagra del Ciaccino",
+      "url": "https://www.sagretoscane.com/sagre/fi/fucecchio/fucecchio-alta-in-festa.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-18",
+          "2026-10-18"
+        ]
+      ],
+      "source_hash": "a8b5b5afdb138aba8883ad311e00948ce18fc1691c0c5998fd347e62a97bf5d9",
+      "modified_at": "20261015T100346Z",
+      "status": "CONFIRMED",
+      "location": "Fucecchio (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Ballottata – Sagra del Marrone",
       "url": "https://www.sagretoscane.com/sagre/fi/san-godenzo/ballottata.html",
       "category": "Sagre gastronomiche",
@@ -3049,8 +3069,8 @@
           "2026-10-18"
         ]
       ],
-      "source_hash": "7aae13fb9dd0599a93018f4c0e7908ae5a8dd140ecbf6d041c72b7a27c4a8f72",
-      "modified_at": "20261009T115823Z",
+      "source_hash": "0e6d3b3bdff5f8e9b713a36353c25c033c201985b609407137079268d9afbfdc",
+      "modified_at": "20261015T100346Z",
       "status": "CONFIRMED",
       "location": "Larciano (PT), Toscana, Italia",
       "note": ""
@@ -3181,6 +3201,22 @@
       "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "Foiano della Chiana (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mostra Mercato del Tartufo Bianco e Nero",
+      "url": "https://www.sagretoscane.com/rassegne/fi/barberino-di-mugello/mostra-mercato-del-tartufo-bianco-e-nero.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "c54526ed370428a535277953bba732f508553143f9c49f1e50bb7f027fa79b6c",
+      "modified_at": "20261015T100346Z",
+      "status": "CONFIRMED",
+      "location": "Barberino di Mugello (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -3380,6 +3416,22 @@
       "note": ""
     },
     {
+      "name": "Festa d'Autunno",
+      "url": "https://www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-autunno-montemarciano.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "fe4e98019b1791104c9f5c47bbfc1e652866e1c84bbbf0362d94382b4ff45dc1",
+      "modified_at": "20261015T100346Z",
+      "status": "CONFIRMED",
+      "location": "Terranuova Bracciolini (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Castagnata a Sassi",
       "url": "https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-a-sassi.html",
       "category": "Sagre gastronomiche",
@@ -3393,6 +3445,54 @@
       "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "Molazzana (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castagnata in Piazza",
+      "url": "https://www.sagretoscane.com/sagre/ms/aulla/castagnata-in-piazza-caprigliola.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "7e2215d104919e5efde44429aefb1b89a5a551dffbaa92aa7a1421477f75e7c3",
+      "modified_at": "20261015T100346Z",
+      "status": "CONFIRMED",
+      "location": "Aulla (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa delle Castagne con Sbruciatata",
+      "url": "https://www.sagretoscane.com/sagre/po/cantagallo/grande-sbruciatata.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "2be6d23d2445fa1ec0a3b891c4243e4d861a85fab7a8c4457f3b3f375b7822a2",
+      "modified_at": "20261015T100346Z",
+      "status": "CONFIRMED",
+      "location": "Cantagallo (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa della Castagna, dell'Olio e del Vin Novo",
+      "url": "https://www.sagretoscane.com/sagre/po/prato/festa-della-castagna-e-del-vino-novello.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "5bdb090e35e1940731dbc5cff88afef9e1b82df3aa1b4373ac5783aafee8bc3a",
+      "modified_at": "20261015T100346Z",
+      "status": "CONFIRMED",
+      "location": "Prato (PO), Toscana, Italia",
       "note": ""
     },
     {
@@ -3553,8 +3653,8 @@
         ]
       ],
       "note": "",
-      "source_hash": "f708b35f67814776398e428d0e39b4cd85c12a2fca05fa753a93df7eeffcc03e",
-      "modified_at": "20261014T101933Z",
+      "source_hash": "4290d0463ff16b6ec9a276abfb09f0ef05c2b6e7253bde400404aff2af40076a",
+      "modified_at": "20261015T100346Z",
       "status": "CONFIRMED"
     },
     {
@@ -3706,5 +3806,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261014T101933Z"
+  "updated_at": "20261015T100346Z"
 }
