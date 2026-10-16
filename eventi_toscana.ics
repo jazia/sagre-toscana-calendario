@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-15. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-16. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -5572,6 +5572,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.htm
  l
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:126e71a9a571282ac9827445c4172086@sagre-toscana.jazia
+DTSTAMP:20261016T095605Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco\, Nero e Tortello
+LOCATION:Scarperia e San Piero (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-t
+ artufo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1b383231730921b54c5ffdf4713424e2@sagre-toscana.jazia
+DTSTAMP:20261016T095605Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco\, Nero e Tortello
+LOCATION:Scarperia e San Piero (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-t
+ artufo.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

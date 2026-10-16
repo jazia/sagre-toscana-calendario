@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-15. 210 manifestazioni, 293 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-16. 211 manifestazioni, 295 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -294,6 +294,8 @@ Ultima modifica dati: 2026-10-15. 210 manifestazioni, 293 appuntamenti/periodi. 
 | [Fiera di Ognissanti al Parco delle Cascine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html) | 01/11/2026 | 01/11/2026 | Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia |  |
 | [Mercatino di Porsenna](https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html) | 01/11/2026 | 01/11/2026 | Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia |  |
 | [Stravino](https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.html) | 07/11/2026 | 09/11/2026 | Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia |  |
+| [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 07/11/2026 | 08/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |
+| [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 14/11/2026 | 15/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |
 | [Casole DiVino](https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.html) | 08/11/2026 | 08/11/2026 | Casole dʼElsa (SI), Toscana, Italia |  |
 | [Barga in Cioccolato](https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html) | 07/12/2026 | 08/12/2026 | Barga (LU), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Buonconvento](https://www.sagretoscane.com/fiere-mercati/si/buonconvento/l-angolo-del-collezionista-a-buonconvento.html) | 08/12/2026 | 08/12/2026 | Buonconvento (SI), Toscana, Italia |  |

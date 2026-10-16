@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-15",
+  "extracted_at": "2026-10-16",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "page": 14,
-      "count": 2
+      "count": 3
     }
   ],
   "events": [
@@ -3758,6 +3758,26 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Sagra del Tartufo Bianco, Nero e Tortello",
+      "url": "https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ],
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "d71bda30fe40bcb459384595f4171d6123a9f6b62f8f906ee9e9161c2e1c8e6d",
+      "modified_at": "20261016T095605Z",
+      "status": "CONFIRMED",
+      "location": "Scarperia e San Piero (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Casole DiVino",
       "url": "https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.html",
       "category": "Eventi enogastronomici",
@@ -3806,5 +3826,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261015T100346Z"
+  "updated_at": "20261016T095605Z"
 }
