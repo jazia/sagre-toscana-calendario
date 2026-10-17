@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-16. 211 manifestazioni, 295 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-17. 213 manifestazioni, 297 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -252,10 +252,12 @@ Ultima modifica dati: 2026-10-16. 211 manifestazioni, 295 appuntamenti/periodi. 
 | [Benvenuto Fico Secco](https://www.sagretoscane.com/sagre/po/carmignano/benvenuto-fico-secco-carmignano.html) | 18/10/2026 | 18/10/2026 | Carmignano (PO), Toscana, Italia |  |
 | [Castagnata a Cecina](https://www.sagretoscane.com/sagre/pt/larciano/castagnata-a-cecina.html) | 18/10/2026 | 18/10/2026 | Larciano (PT), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/pt/monsummano/festa-della-castagna-monsummano-terme.html) | 18/10/2026 | 18/10/2026 | Monsummano Terme (PT), Toscana, Italia |  |
+| [Fiera del Disco, Fumetto e Collezionismo](https://www.sagretoscane.com/fiere-mercati/pt/pistoia/fiera-del-disco-e-del-fumetto-pistoia.html) | 23/10/2026 | 25/10/2026 | Pistoia (PT), Toscana, Italia |  |
 | [La festa della castagna 2.0](https://www.sagretoscane.com/sagre/gr/roccastrada/festa-della-castagna.html) | 23/10/2026 | 25/10/2026 | Roccastrada (GR), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco delle Colline Sanminiatesi](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco.html) | 23/10/2026 | 25/10/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Sagra dell'Olio novo e del Fegatello toscano](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-dell-olio-novo.html) | 23/10/2026 | 25/10/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Sagra del Tordo](https://www.sagretoscane.com/sagre/si/montalcino/sagra-del-tordo.html) | 23/10/2026 | 25/10/2026 | Montalcino (SI), Toscana, Italia |  |
+| [Mercatino di Piazza dei Ciompi](https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html) | 24/10/2026 | 25/10/2026 | Firenze (FI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 24/10/2026 | 24/10/2026 | Grosseto (GR), Toscana, Italia |  |
 | [Mercatini in Val d'Orcia](https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html) | 24/10/2026 | 24/10/2026 | San Quirico dʼOrcia (SI), Toscana, Italia |  |
 | [Festa della Zucca](https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-della-zucca.html) | 24/10/2026 | 25/10/2026 | Foiano della Chiana (AR), Toscana, Italia |  |

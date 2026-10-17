@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-16",
+  "extracted_at": "2026-10-17",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "page": 14,
-      "count": 3
+      "count": 5
     }
   ],
   "events": [
@@ -3092,6 +3092,22 @@
       "note": ""
     },
     {
+      "name": "Fiera del Disco, Fumetto e Collezionismo",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pistoia/fiera-del-disco-e-del-fumetto-pistoia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-23",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "0579e534dd2a2bb646d6a354b9b4283643a6d3a5f8a9b233c83a527304d1eb34",
+      "modified_at": "20261017T092920Z",
+      "status": "CONFIRMED",
+      "location": "Pistoia (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "La festa della castagna 2.0",
       "url": "https://www.sagretoscane.com/sagre/gr/roccastrada/festa-della-castagna.html",
       "category": "Sagre gastronomiche",
@@ -3153,6 +3169,22 @@
       "modified_at": "20261012T131831Z",
       "status": "CONFIRMED",
       "location": "Montalcino (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino di Piazza dei Ciompi",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "2e6c7203f54e421e29aa0b29e5340d2e77d0466f966644e8bbd662f0ac7bc4a8",
+      "modified_at": "20261017T092920Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -3826,5 +3858,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261016T095605Z"
+  "updated_at": "20261017T092920Z"
 }

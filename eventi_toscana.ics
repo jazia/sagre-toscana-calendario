@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-16. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-17. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4783,6 +4783,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:571692d1782d16856ab79b5aa745cd5c@sagre-toscana.jazia
+DTSTAMP:20261017T092920Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Fiera del Disco\, Fumetto e Collezionismo
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pt/pistoia/fiera-del-disco-e-del-fume
+ tto-pistoia.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pt/pistoia/fiera-del-disco-e
+ -del-fumetto-pistoia.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:45f83e1618560666dc4735d72dba1564@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261023
@@ -4852,6 +4871,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  icare orari\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/si/montalcino/sagra-del-tordo.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:18da54a1371731397e195283b9ea7f67@sagre-toscana.jazia
+DTSTAMP:20261017T092920Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Mercatino di Piazza dei Ciompi
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ci
+ ompi.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piaz
+ za-dei-ciompi.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
