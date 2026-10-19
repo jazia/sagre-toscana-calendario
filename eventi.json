@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-18",
+  "extracted_at": "2026-10-19",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,31 +32,7 @@
     },
     {
       "page": 8,
-      "count": 10
-    },
-    {
-      "page": 9,
-      "count": 10
-    },
-    {
-      "page": 10,
-      "count": 10
-    },
-    {
-      "page": 11,
-      "count": 10
-    },
-    {
-      "page": 12,
-      "count": 10
-    },
-    {
-      "page": 13,
-      "count": 10
-    },
-    {
-      "page": 14,
-      "count": 3
+      "count": 4
     }
   ],
   "events": [
@@ -3101,8 +3077,8 @@
           "2026-10-25"
         ]
       ],
-      "source_hash": "0579e534dd2a2bb646d6a354b9b4283643a6d3a5f8a9b233c83a527304d1eb34",
-      "modified_at": "20261017T092920Z",
+      "source_hash": "378d816612ecf0c4cfa85b6fe4fe02ee116ea552e013d8de3cfc2dd1c96c2895",
+      "modified_at": "20261019T105503Z",
       "status": "CONFIRMED",
       "location": "Pistoia (PT), Toscana, Italia",
       "note": ""
@@ -3722,6 +3698,26 @@
       "note": ""
     },
     {
+      "name": "Sagra del Tartufo Bianco Sanminiatese",
+      "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanminiatese.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-10-30"
+        ],
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "0af256b811dfe89dd658aca7ca37c4fb8012a762a763bb340521824cadfd9298",
+      "modified_at": "20261019T105503Z",
+      "status": "CONFIRMED",
+      "location": "San Miniato (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa d'Autunno",
       "url": "https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-castell-azzara.html",
       "category": "Eventi enogastronomici",
@@ -3858,5 +3854,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261018T094252Z"
+  "updated_at": "20261019T105503Z"
 }

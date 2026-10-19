@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-18. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-19. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4784,7 +4784,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:571692d1782d16856ab79b5aa745cd5c@sagre-toscana.jazia
-DTSTAMP:20261017T092920Z
+DTSTAMP:20261019T105503Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Fiera del Disco\, Fumetto e Collezionismo
@@ -5531,6 +5531,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ale.
 URL:https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.ht
  ml
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ab9f7a6ca7155a8f390c9e8308fb18@sagre-toscana.jazia
+DTSTAMP:20261019T105503Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco Sanminiatese
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanmi
+ niatese.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bia
+ nco-sanminiatese.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:6082970cf58dcbbe39954e9a356505ef@sagre-toscana.jazia
+DTSTAMP:20261019T105503Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco Sanminiatese
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanmi
+ niatese.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bia
+ nco-sanminiatese.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

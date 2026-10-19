@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-18. 213 manifestazioni, 297 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-19. 214 manifestazioni, 299 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -292,6 +292,8 @@ Ultima modifica dati: 2026-10-18. 213 manifestazioni, 297 appuntamenti/periodi. 
 | [Festa delle Cantine](https://www.sagretoscane.com/rassegne/gr/sorano/festa-delle-cantine-sorano.html) | 30/10/2026 | 01/11/2026 | Sorano (GR), Toscana, Italia |  |
 | [Il Primo Olio ed altro ancora...](https://www.sagretoscane.com/rassegne/si/montalcino/il-primo-olio-e-altro-ancora.html) | 30/10/2026 | 01/11/2026 | Montalcino (SI), Toscana, Italia |  |
 | [Sagra del Totano](https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html) | 30/10/2026 | 01/11/2026 | Capraia Isola (LI), Toscana, Italia |  |
+| [Sagra del Tartufo Bianco Sanminiatese](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanminiatese.html) | 30/10/2026 | 30/10/2026 | San Miniato (PI), Toscana, Italia |  |
+| [Sagra del Tartufo Bianco Sanminiatese](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanminiatese.html) | 01/11/2026 | 01/11/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Festa d'Autunno](https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-castell-azzara.html) | 31/10/2026 | 31/10/2026 | CastellʼAzzara (GR), Toscana, Italia |  |
 | [Fiera di Ognissanti al Parco delle Cascine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html) | 01/11/2026 | 01/11/2026 | Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia |  |
 | [Mercatino di Porsenna](https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html) | 01/11/2026 | 01/11/2026 | Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia |  |
