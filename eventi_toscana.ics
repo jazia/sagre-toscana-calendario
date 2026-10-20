@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-19. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-20. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4802,6 +4802,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:ae47b7472753631a83a59a39870c8ac8@sagre-toscana.jazia
+DTSTAMP:20261020T101030Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Puro Cioccolato Festival
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pt/pistoia/puro-cioccolato-festival-p
+ istoia.html\nLe date indicano i giorni della manifestazione\, non un’ape
+ rtura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni n
+ ella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pt/pistoia/puro-cioccolato-f
+ estival-pistoia.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:45f83e1618560666dc4735d72dba1564@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261023
@@ -5274,6 +5293,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:8f2eb5baaffcfd9164f11e2175394019@sagre-toscana.jazia
+DTSTAMP:20261020T101030Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Casale Marittimo (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/casale-marittimo/festa-della-castagna-casa
+ le-marittimo.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/casale-marittimo/festa-della-cast
+ agna-casale-marittimo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:75b868c56c05bcec75409047bf3027d9@sagre-toscana.jazia
 DTSTAMP:20261015T100346Z
 DTSTART;VALUE=DATE:20261025
@@ -5325,6 +5363,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
   originale.
 URL:https://www.sagretoscane.com/sagre/pt/lamporecchio/sapori-d-autunno-cer
  baia.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:8028a33d600129e782f725e9f0a84d64@sagre-toscana.jazia
+DTSTAMP:20261020T101030Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Pescia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pescia.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pesci
+ a.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:6b49fe1ca8a0fd372235de63054e6417@sagre-toscana.jazia
+DTSTAMP:20261020T101030Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Pescia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pescia.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pesci
+ a.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5500,7 +5576,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:8c13707fa1d36ef5be461ee606b9e170@sagre-toscana.jazia
-DTSTAMP:20261013T124722Z
+DTSTAMP:20261020T101030Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY;LANGUAGE=it:Il Primo Olio ed altro ancora...
@@ -5575,6 +5651,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:669d2937a85d821dfbc2abbc023acb6b@sagre-toscana.jazia
+DTSTAMP:20261020T101030Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY;LANGUAGE=it:Festa delle Zucche Vuote
+LOCATION:Impruneta (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/fi/impruneta/festa-delle-zucche-vuote.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/feste/fi/impruneta/festa-delle-zucche-vuot
+ e.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:892e92f4e352bae2b2aa9843bd88228e@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261031
@@ -5628,6 +5723,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porse
  nna-chiusi.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:02c633ee0bc1f2b83875ed98b9a8983e@sagre-toscana.jazia
+DTSTAMP:20261020T101030Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Sagra della Castagna e del Vino Dolce Novello
+LOCATION:Talla (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-vino-nove
+ llo.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-
+ vino-novello.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

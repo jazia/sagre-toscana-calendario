@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-19. 214 manifestazioni, 299 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-20. 219 manifestazioni, 305 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -253,6 +253,7 @@ Ultima modifica dati: 2026-10-19. 214 manifestazioni, 299 appuntamenti/periodi. 
 | [Castagnata a Cecina](https://www.sagretoscane.com/sagre/pt/larciano/castagnata-a-cecina.html) | 18/10/2026 | 18/10/2026 | Larciano (PT), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/pt/monsummano/festa-della-castagna-monsummano-terme.html) | 18/10/2026 | 18/10/2026 | Monsummano Terme (PT), Toscana, Italia |  |
 | [Fiera del Disco, Fumetto e Collezionismo](https://www.sagretoscane.com/fiere-mercati/pt/pistoia/fiera-del-disco-e-del-fumetto-pistoia.html) | 23/10/2026 | 25/10/2026 | Pistoia (PT), Toscana, Italia |  |
+| [Puro Cioccolato Festival](https://www.sagretoscane.com/fiere-mercati/pt/pistoia/puro-cioccolato-festival-pistoia.html) | 23/10/2026 | 25/10/2026 | Pistoia (PT), Toscana, Italia |  |
 | [La festa della castagna 2.0](https://www.sagretoscane.com/sagre/gr/roccastrada/festa-della-castagna.html) | 23/10/2026 | 25/10/2026 | Roccastrada (GR), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco delle Colline Sanminiatesi](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco.html) | 23/10/2026 | 25/10/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Sagra dell'Olio novo e del Fegatello toscano](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-dell-olio-novo.html) | 23/10/2026 | 25/10/2026 | San Miniato (PI), Toscana, Italia |  |
@@ -278,9 +279,12 @@ Ultima modifica dati: 2026-10-19. 214 manifestazioni, 299 appuntamenti/periodi. 
 | [Festa d'Autunno](https://www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-autunno-montemarciano.html) | 25/10/2026 | 25/10/2026 | Terranuova Bracciolini (AR), Toscana, Italia |  |
 | [Castagnata a Sassi](https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-a-sassi.html) | 25/10/2026 | 25/10/2026 | Molazzana (LU), Toscana, Italia |  |
 | [Castagnata in Piazza](https://www.sagretoscane.com/sagre/ms/aulla/castagnata-in-piazza-caprigliola.html) | 25/10/2026 | 25/10/2026 | Aulla (MS), Toscana, Italia |  |
+| [Festa della Castagna](https://www.sagretoscane.com/sagre/pi/casale-marittimo/festa-della-castagna-casale-marittimo.html) | 25/10/2026 | 25/10/2026 | Casale Marittimo (PI), Toscana, Italia |  |
 | [Festa delle Castagne con Sbruciatata](https://www.sagretoscane.com/sagre/po/cantagallo/grande-sbruciatata.html) | 25/10/2026 | 25/10/2026 | Cantagallo (PO), Toscana, Italia |  |
 | [Festa della Castagna, dell'Olio e del Vin Novo](https://www.sagretoscane.com/sagre/po/prato/festa-della-castagna-e-del-vino-novello.html) | 25/10/2026 | 25/10/2026 | Prato (PO), Toscana, Italia |  |
 | [Sapori d'Autunno](https://www.sagretoscane.com/sagre/pt/lamporecchio/sapori-d-autunno-cerbaia.html) | 25/10/2026 | 25/10/2026 | Lamporecchio (PT), Toscana, Italia |  |
+| [Festa della Castagna](https://www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pescia.html) | 25/10/2026 | 25/10/2026 | Pescia (PT), Toscana, Italia |  |
+| [Festa della Castagna](https://www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pescia.html) | 08/11/2026 | 08/11/2026 | Pescia (PT), Toscana, Italia |  |
 | [Festa del Marrone](https://www.sagretoscane.com/sagre/si/castiglione-dorcia/festa-del-marrone.html) | 25/10/2026 | 25/10/2026 | Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia |  |
 | [Castagne, bruschetta con l’olio nuovo e non solo](https://www.sagretoscane.com/sagre/si/monteriggioni/castagne-e-bruschetta-con-l-olio-nuovo-e-non-solo.html) | 25/10/2026 | 25/10/2026 | Monteriggioni (SI), Toscana, Italia |  |
 | [Sagra della Polenta](https://www.sagretoscane.com/sagre/si/sovicille/sagra-della-polenta-sovicille.html) | 25/10/2026 | 25/10/2026 | Sovicille (SI), Toscana, Italia |  |
@@ -294,9 +298,11 @@ Ultima modifica dati: 2026-10-19. 214 manifestazioni, 299 appuntamenti/periodi. 
 | [Sagra del Totano](https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html) | 30/10/2026 | 01/11/2026 | Capraia Isola (LI), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco Sanminiatese](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanminiatese.html) | 30/10/2026 | 30/10/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco Sanminiatese](https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanminiatese.html) | 01/11/2026 | 01/11/2026 | San Miniato (PI), Toscana, Italia |  |
+| [Festa delle Zucche Vuote](https://www.sagretoscane.com/feste/fi/impruneta/festa-delle-zucche-vuote.html) | 31/10/2026 | 31/10/2026 | Impruneta (FI), Toscana, Italia |  |
 | [Festa d'Autunno](https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-castell-azzara.html) | 31/10/2026 | 31/10/2026 | CastellʼAzzara (GR), Toscana, Italia |  |
 | [Fiera di Ognissanti al Parco delle Cascine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html) | 01/11/2026 | 01/11/2026 | Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia |  |
 | [Mercatino di Porsenna](https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html) | 01/11/2026 | 01/11/2026 | Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia |  |
+| [Sagra della Castagna e del Vino Dolce Novello](https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-vino-novello.html) | 01/11/2026 | 01/11/2026 | Talla (AR), Toscana, Italia |  |
 | [Stravino](https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.html) | 07/11/2026 | 09/11/2026 | Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 07/11/2026 | 08/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 14/11/2026 | 15/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |

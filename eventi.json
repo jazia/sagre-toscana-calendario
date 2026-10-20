@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-19",
+  "extracted_at": "2026-10-20",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "page": 8,
-      "count": 4
+      "count": 10
     }
   ],
   "events": [
@@ -3084,6 +3084,22 @@
       "note": ""
     },
     {
+      "name": "Puro Cioccolato Festival",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pistoia/puro-cioccolato-festival-pistoia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-23",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "77814e7487c6f1f25425d38211e4c381cec816c2210c1ebbb58e393dd0aa5418",
+      "modified_at": "20261020T101030Z",
+      "status": "CONFIRMED",
+      "location": "Pistoia (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "La festa della castagna 2.0",
       "url": "https://www.sagretoscane.com/sagre/gr/roccastrada/festa-della-castagna.html",
       "category": "Sagre gastronomiche",
@@ -3472,6 +3488,22 @@
       "note": ""
     },
     {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/pi/casale-marittimo/festa-della-castagna-casale-marittimo.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "e0c30dc71f20b3c145749d1e2a5e0a78069e45b609bb16364c5bb23de3d59e9d",
+      "modified_at": "20261020T101030Z",
+      "status": "CONFIRMED",
+      "location": "Casale Marittimo (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa delle Castagne con Sbruciatata",
       "url": "https://www.sagretoscane.com/sagre/po/cantagallo/grande-sbruciatata.html",
       "category": "Sagre gastronomiche",
@@ -3517,6 +3549,26 @@
       "modified_at": "20261007T115120Z",
       "status": "CONFIRMED",
       "location": "Lamporecchio (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/pt/pescia/festa-della-castagna-pescia.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ],
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "f83551decfea77f3521a45c4ff5a67fd6b0f217c9d31b6139ac413ca28bf8d85",
+      "modified_at": "20261020T101030Z",
+      "status": "CONFIRMED",
+      "location": "Pescia (PT), Toscana, Italia",
       "note": ""
     },
     {
@@ -3675,8 +3727,8 @@
           "2026-11-01"
         ]
       ],
-      "source_hash": "63306b68d978609a829d68ab8cb62ec08d4ae447209408bd0b69269be94fe249",
-      "modified_at": "20261013T124722Z",
+      "source_hash": "d1d9033009eea42fbf96fe24c76899bf4ba349c20873a2d824d66c3cb0379825",
+      "modified_at": "20261020T101030Z",
       "status": "CONFIRMED",
       "location": "Montalcino (SI), Toscana, Italia",
       "note": ""
@@ -3715,6 +3767,22 @@
       "modified_at": "20261019T105503Z",
       "status": "CONFIRMED",
       "location": "San Miniato (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa delle Zucche Vuote",
+      "url": "https://www.sagretoscane.com/feste/fi/impruneta/festa-delle-zucche-vuote.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-10-31"
+        ]
+      ],
+      "source_hash": "50547266578ae3268692ce0d9f1362de1594ccedfd4558d11c37c62bbcd85df8",
+      "modified_at": "20261020T101030Z",
+      "status": "CONFIRMED",
+      "location": "Impruneta (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -3766,6 +3834,22 @@
       "source_hash": "1f7e02f7eb3f4b9b0b71495c54325cff2b338fd880af07b9242af803c3757765",
       "modified_at": "20261012T131831Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Sagra della Castagna e del Vino Dolce Novello",
+      "url": "https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-vino-novello.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "d68c834f76fcc1a31f4b2f0a3452274c74a414acc91ec67fbfd959f9846a067b",
+      "modified_at": "20261020T101030Z",
+      "status": "CONFIRMED",
+      "location": "Talla (AR), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 114,
@@ -3854,5 +3938,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261019T105503Z"
+  "updated_at": "20261020T101030Z"
 }
