@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-20. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-21. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4933,6 +4933,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:dd373e14fe1cc7f9fccda4b05ca03ec4@sagre-toscana.jazia
+DTSTAMP:20261021T101803Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Mostra Mercato del Tartufo Bianco
+LOCATION:Montopoli in Val dʼArno (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mostra-merc
+ ato-del-tartufo-bianco-montopoli-in-val-d-arno.html\nLe date indicano i gi
+ orni della manifestazione\, non un’apertura di 24 ore. Verificare orari\
+ , prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mo
+ stra-mercato-del-tartufo-bianco-montopoli-in-val-d-arno.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:bac91065abc58ee5d19ccbc0adb84475@sagre-toscana.jazia
 DTSTAMP:20261012T131831Z
 DTSTART;VALUE=DATE:20261024
@@ -5268,6 +5287,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
  e.
 URL:https://www.sagretoscane.com/sagre/lu/molazzana/castagnata-a-sassi.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:cc573350236b95d031188407b407dc08@sagre-toscana.jazia
+DTSTAMP:20261021T101803Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Castagni in festa
+LOCATION:Sillano Giuncugnano (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/sillano-giuncugnano/castagni-in-festa.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/sagre/lu/sillano-giuncugnano/castagni-in-f
+ esta.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5613,6 +5651,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:016d426db4737c5125ebb4eeee7161c9@sagre-toscana.jazia
+DTSTAMP:20261021T101803Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Barga Castagna
+LOCATION:Barga (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/barga/festa-della-castagna-barga.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/sagre/lu/barga/festa-della-castagna-barga.
+ html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:b2ab9f7a6ca7155a8f390c9e8308fb18@sagre-toscana.jazia
 DTSTAMP:20261019T105503Z
 DTSTART;VALUE=DATE:20261030
@@ -5645,6 +5702,24 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bia
  nco-sanminiatese.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba8b368d292ddd82eb5625d6b701e8e@sagre-toscana.jazia
+DTSTAMP:20261021T101803Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Il Crastatone
+LOCATION:Piancastagnaio (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/piancastagnaio/il-crastatone.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/sagre/si/piancastagnaio/il-crastatone.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5684,6 +5759,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-
  castell-azzara.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:afbecce245609b0d0fd62dde71a26dd3@sagre-toscana.jazia
+DTSTAMP:20261021T101803Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Castagnata sotto le logge
+LOCATION:Castelnuovo di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castagnata-sotto
+ -le-logge.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castagn
+ ata-sotto-le-logge.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -5800,6 +5894,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-t
  artufo.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a1a9d0a4b2fc533f55d897acda98c8@sagre-toscana.jazia
+DTSTAMP:20261021T101803Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Oleum – L'olio di mare
+LOCATION:San Vincenzo (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/li/san-vincenzo/oleum-l-olio-di-mare.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/rassegne/li/san-vincenzo/oleum-l-olio-di-m
+ are.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

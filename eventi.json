@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-20",
+  "extracted_at": "2026-10-21",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -33,6 +33,10 @@
     {
       "page": 8,
       "count": 10
+    },
+    {
+      "page": 9,
+      "count": 6
     }
   ],
   "events": [
@@ -3196,6 +3200,22 @@
       "source_hash": "fa27a292ceb3a103c4ffd461114983afac6921e449cc584db893e68946a9ba2a"
     },
     {
+      "name": "Mostra Mercato del Tartufo Bianco",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mostra-mercato-del-tartufo-bianco-montopoli-in-val-d-arno.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "e1b52f83bbdf869fb04dca8b6437cbc53d7f4373e77d7a2dde24883c98b15ca4",
+      "modified_at": "20261021T101803Z",
+      "status": "CONFIRMED",
+      "location": "Montopoli in Val dʼArno (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercatini in Val d'Orcia",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
       "category": "Fiere e Mercati",
@@ -3469,6 +3489,22 @@
       "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "Molazzana (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castagni in festa",
+      "url": "https://www.sagretoscane.com/sagre/lu/sillano-giuncugnano/castagni-in-festa.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "887fa6e5acba02342f015dc52d4b8786866b1da84e4ca439b2ad3004bd04e843",
+      "modified_at": "20261021T101803Z",
+      "status": "CONFIRMED",
+      "location": "Sillano Giuncugnano (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -3750,6 +3786,22 @@
       "note": ""
     },
     {
+      "name": "Barga Castagna",
+      "url": "https://www.sagretoscane.com/sagre/lu/barga/festa-della-castagna-barga.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "49d920784209953a98d39eeb5e7c6e4b862c842d89833195498f20c21db67966",
+      "modified_at": "20261021T101803Z",
+      "status": "CONFIRMED",
+      "location": "Barga (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra del Tartufo Bianco Sanminiatese",
       "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/sagra-del-tartufo-bianco-sanminiatese.html",
       "category": "Sagre gastronomiche",
@@ -3767,6 +3819,22 @@
       "modified_at": "20261019T105503Z",
       "status": "CONFIRMED",
       "location": "San Miniato (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Il Crastatone",
+      "url": "https://www.sagretoscane.com/sagre/si/piancastagnaio/il-crastatone.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "e1523f805c8963904d42930f7baabb912fc95b05db7ae2b6d7a4c6dfb0c9ab10",
+      "modified_at": "20261021T101803Z",
+      "status": "CONFIRMED",
+      "location": "Piancastagnaio (SI), Toscana, Italia",
       "note": ""
     },
     {
@@ -3799,6 +3867,22 @@
       "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "CastellʼAzzara (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castagnata sotto le logge",
+      "url": "https://www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castagnata-sotto-le-logge.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "d18efba5b80a89357d8030c36c9fb52ce4faf379c868f41c9efd8f90418d54d3",
+      "modified_at": "20261021T101803Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo di Garfagnana (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -3890,6 +3974,22 @@
       "note": ""
     },
     {
+      "name": "Oleum – L'olio di mare",
+      "url": "https://www.sagretoscane.com/rassegne/li/san-vincenzo/oleum-l-olio-di-mare.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "8901bb1bae26616eeb745d60f4d4c8419feb9cd1e206525ef70ed3e2bc1018db",
+      "modified_at": "20261021T101803Z",
+      "status": "CONFIRMED",
+      "location": "San Vincenzo (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Casole DiVino",
       "url": "https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.html",
       "category": "Eventi enogastronomici",
@@ -3938,5 +4038,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261020T101030Z"
+  "updated_at": "20261021T101803Z"
 }
