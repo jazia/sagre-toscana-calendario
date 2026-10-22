@@ -7,5 +7,6 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Festa dei Marroni](https://www.sagretoscane.com/rassegne/fi/vicchio/il-marrone-tra-sagra-e-cultura.html): Date del programma discordanti con intestazione.
 - [Sagra del Picio e dello Gnocco](https://www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-gnocco-fiesole.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.
+- [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Weihnachtsmarkt, Mercato di Natale](https://www.sagretoscane.com/fiere-mercati/fi/firenze/weihnachtsmarkt-mercatino-di-natale-tedesco.html): Rassegna lunga: serve controllo del programma.
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.

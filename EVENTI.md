@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-21. 225 manifestazioni, 311 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-22. 227 manifestazioni, 313 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -260,6 +260,7 @@ Ultima modifica dati: 2026-10-21. 225 manifestazioni, 311 appuntamenti/periodi. 
 | [Sagra del Tordo](https://www.sagretoscane.com/sagre/si/montalcino/sagra-del-tordo.html) | 23/10/2026 | 25/10/2026 | Montalcino (SI), Toscana, Italia |  |
 | [Mercatino di Piazza dei Ciompi](https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html) | 24/10/2026 | 25/10/2026 | Firenze (FI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 24/10/2026 | 24/10/2026 | Grosseto (GR), Toscana, Italia |  |
+| [Camaiore Antiqua](https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html) | 24/10/2026 | 24/10/2026 | Camaiore (LU), Toscana, Italia |  |
 | [Mostra Mercato del Tartufo Bianco](https://www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mostra-mercato-del-tartufo-bianco-montopoli-in-val-d-arno.html) | 24/10/2026 | 25/10/2026 | Montopoli in Val dʼArno (PI), Toscana, Italia |  |
 | [Mercatini in Val d'Orcia](https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html) | 24/10/2026 | 24/10/2026 | San Quirico dʼOrcia (SI), Toscana, Italia |  |
 | [Festa della Zucca](https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-della-zucca.html) | 24/10/2026 | 25/10/2026 | Foiano della Chiana (AR), Toscana, Italia |  |
@@ -307,6 +308,7 @@ Ultima modifica dati: 2026-10-21. 225 manifestazioni, 311 appuntamenti/periodi. 
 | [Castagnata sotto le logge](https://www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castagnata-sotto-le-logge.html) | 31/10/2026 | 01/11/2026 | Castelnuovo di Garfagnana (LU), Toscana, Italia |  |
 | [Fiera di Ognissanti al Parco delle Cascine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissanti-al-parco-delle-cascine.html) | 01/11/2026 | 01/11/2026 | Viale Lincoln e Piazzale Kennedy, Parco delle Cascine, Firenze (FI), Toscana, Italia |  |
 | [Mercatino di Porsenna](https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html) | 01/11/2026 | 01/11/2026 | Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia |  |
+| [Sagra della Polenta](https://www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.html) | 01/11/2026 | 01/11/2026 | Montemignaio (AR), Toscana, Italia |  |
 | [Sagra della Castagna e del Vino Dolce Novello](https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-vino-novello.html) | 01/11/2026 | 01/11/2026 | Talla (AR), Toscana, Italia |  |
 | [Stravino](https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.html) | 07/11/2026 | 09/11/2026 | Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 07/11/2026 | 08/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |

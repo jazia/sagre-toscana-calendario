@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-21",
+  "extracted_at": "2026-10-22",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "page": 9,
-      "count": 6
+      "count": 9
     }
   ],
   "events": [
@@ -3200,6 +3200,22 @@
       "source_hash": "fa27a292ceb3a103c4ffd461114983afac6921e449cc584db893e68946a9ba2a"
     },
     {
+      "name": "Camaiore Antiqua",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-24",
+          "2026-10-24"
+        ]
+      ],
+      "source_hash": "14c373609b928dca5b5e78fc678cb8bc9ddb861b9c9c11ad2ddca88e08ea2647",
+      "modified_at": "20261022T101849Z",
+      "status": "CONFIRMED",
+      "location": "Camaiore (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mostra Mercato del Tartufo Bianco",
       "url": "https://www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mostra-mercato-del-tartufo-bianco-montopoli-in-val-d-arno.html",
       "category": "Fiere e Mercati",
@@ -3920,6 +3936,22 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Sagra della Polenta",
+      "url": "https://www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "9036f22952a10cf6c4ced03fe9c6fc261ea1605a66c4f13e2ab488cde8ba1963",
+      "modified_at": "20261022T101849Z",
+      "status": "CONFIRMED",
+      "location": "Montemignaio (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra della Castagna e del Vino Dolce Novello",
       "url": "https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-vino-novello.html",
       "category": "Sagre gastronomiche",
@@ -4038,5 +4070,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261021T101803Z"
+  "updated_at": "20261022T101849Z"
 }

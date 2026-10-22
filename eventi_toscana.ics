@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-21. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-22. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4933,6 +4933,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:740889126038898975e6c93535d934c2@sagre-toscana.jazia
+DTSTAMP:20261022T101849Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY;LANGUAGE=it:Camaiore Antiqua
+LOCATION:Camaiore (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua
+ .html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:dd373e14fe1cc7f9fccda4b05ca03ec4@sagre-toscana.jazia
 DTSTAMP:20261021T101803Z
 DTSTART;VALUE=DATE:20261024
@@ -5817,6 +5836,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porse
  nna-chiusi.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:fac90ef9a1a5c553e8fc2c3283818f52@sagre-toscana.jazia
+DTSTAMP:20261022T101849Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Sagra della Polenta
+LOCATION:Montemignaio (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.
+ html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
