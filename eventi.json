@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-22",
+  "extracted_at": "2026-10-23",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -36,7 +36,11 @@
     },
     {
       "page": 9,
-      "count": 9
+      "count": 10
+    },
+    {
+      "page": 10,
+      "count": 7
     }
   ],
   "events": [
@@ -3081,8 +3085,8 @@
           "2026-10-25"
         ]
       ],
-      "source_hash": "378d816612ecf0c4cfa85b6fe4fe02ee116ea552e013d8de3cfc2dd1c96c2895",
-      "modified_at": "20261019T105503Z",
+      "source_hash": "463f4004b1a172ac011cfe3485f032c75ea3b0a8c1ea5769ffb94844ab257b2d",
+      "modified_at": "20261023T101225Z",
       "status": "CONFIRMED",
       "location": "Pistoia (PT), Toscana, Italia",
       "note": ""
@@ -3624,6 +3628,30 @@
       "note": ""
     },
     {
+      "name": "Festa dell'olio novo",
+      "url": "https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell-olio-novo-pianella.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ],
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ],
+        [
+          "2026-11-05",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "3593925ae0ef7423d6c70153abb092fc72cd549de3019e9008fdd1eec87ae6eb",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo Berardenga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 100,
       "name": "Festa del Marrone",
       "location": "Campiglia d'Orcia, Castiglione dʼOrcia (SI), Toscana, Italia",
@@ -3733,6 +3761,22 @@
       "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "Manciano (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "I Centogusti dell'Appennino",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/anghiari/i-cento-gusti-dell-appennino.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "7e9d146034747986cb8402d198b195ae16dc03f643939069bbef231bfe74f47b",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Anghiari (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -3870,6 +3914,22 @@
       "note": ""
     },
     {
+      "name": "Halloween a Serra",
+      "url": "https://www.sagretoscane.com/feste/pt/marliana/halloween-a-serra-pistoiese.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-10-31"
+        ]
+      ],
+      "source_hash": "8d4c59413d8ef4bfbcf883f941d5c01d3c069b20cd0fc6acf8bf8bae71aac953",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Marliana (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa d'Autunno",
       "url": "https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-castell-azzara.html",
       "category": "Eventi enogastronomici",
@@ -3883,6 +3943,22 @@
       "modified_at": "20261013T124722Z",
       "status": "CONFIRMED",
       "location": "CastellʼAzzara (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sagra della Schiaccia Campigliese",
+      "url": "https://www.sagretoscane.com/sagre/li/campiglia-marittima/festa-d-autunno-campiglia-marittima.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "8ac6cba018ea6defa73057e9fcbbf91124e8964c78905a272990b794ca3b35c2",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Campiglia Marittima (LI), Toscana, Italia",
       "note": ""
     },
     {
@@ -3916,6 +3992,22 @@
       ],
       "note": "",
       "source_hash": "5fe86e272af8cfa6e48a4a08b813d23766919cbf378673d668de2e26a145cdcd"
+    },
+    {
+      "name": "Mostra del Bestiame",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/lastra-a-signa/mostra-del-bestiame-e-della-filiera-corta.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "dcc59938fe52fe71448e1ca134ba22c79f01eebfa6caf024dcae1b8f7dae06b8",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Lastra a Signa (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 28,
@@ -3968,6 +4060,42 @@
       "note": ""
     },
     {
+      "name": "Sagra del Cinghiale",
+      "url": "https://www.sagretoscane.com/sagre/pi/riparbella/sagra-del-cinghiale-maremmano.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-06",
+          "2026-11-08"
+        ],
+        [
+          "2026-11-13",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "a3c91db72c50ab5b003d9dc5fa1a0a8780b7eb739c88ae1af8056bb6e60001f2",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Riparbella (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Florence Cards Show",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "2c3edc4ba2c19f8396757ae6e620e03b4a25ff941222380d0a8797f125516148",
+      "modified_at": "20261023T101225Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 114,
       "name": "Stravino",
       "location": "Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia",
@@ -4015,8 +4143,8 @@
           "2026-11-08"
         ]
       ],
-      "source_hash": "8901bb1bae26616eeb745d60f4d4c8419feb9cd1e206525ef70ed3e2bc1018db",
-      "modified_at": "20261021T101803Z",
+      "source_hash": "45ca6547ef46c07caf289a37c6beed2232add794d959a68b71223699baa74110",
+      "modified_at": "20261023T101225Z",
       "status": "CONFIRMED",
       "location": "San Vincenzo (LI), Toscana, Italia",
       "note": ""
@@ -4070,5 +4198,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261022T101849Z"
+  "updated_at": "20261023T101225Z"
 }

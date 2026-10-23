@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-22. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-23. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4784,7 +4784,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:571692d1782d16856ab79b5aa745cd5c@sagre-toscana.jazia
-DTSTAMP:20261019T105503Z
+DTSTAMP:20261023T101225Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY;LANGUAGE=it:Fiera del Disco\, Fumetto e Collezionismo
@@ -5464,6 +5464,63 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:472a41dbc9dd7f0aa319e58ac05674cd@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa dell'olio novo
+LOCATION:Castelnuovo Berardenga (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell-olio-nov
+ o-pianella.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell
+ -olio-novo-pianella.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:e7cd2961f5e031b2a8f665154dbb2407@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Festa dell'olio novo
+LOCATION:Castelnuovo Berardenga (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell-olio-nov
+ o-pianella.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell
+ -olio-novo-pianella.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:8d290c15bae2cd38398f79d8b3d65b51@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa dell'olio novo
+LOCATION:Castelnuovo Berardenga (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell-olio-nov
+ o-pianella.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/festa-dell
+ -olio-novo-pianella.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:e3175ef26a8ff68aed4f3fd65314f16b@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261025
@@ -5589,6 +5646,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  e.
 URL:https://www.sagretoscane.com/feste/gr/manciano/festa-delle-streghe.html
 CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ced81627212265339785ce49a36882@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:I Centogusti dell'Appennino
+LOCATION:Anghiari (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/anghiari/i-cento-gusti-dell-appenn
+ ino.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/anghiari/i-cento-gusti-de
+ ll-appennino.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -5764,6 +5840,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:cf18486513e295f1ae34810bf19efd4e@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY;LANGUAGE=it:Halloween a Serra
+LOCATION:Marliana (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pt/marliana/halloween-a-serra-pistoiese.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/feste/pt/marliana/halloween-a-serra-pistoi
+ ese.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:892e92f4e352bae2b2aa9843bd88228e@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261031
@@ -5778,6 +5873,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-
  castell-azzara.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:398032a3a426ff02d0ad226854b127ea@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Sagra della Schiaccia Campigliese
+LOCATION:Campiglia Marittima (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/campiglia-marittima/festa-d-autunno-campig
+ lia-marittima.html\nLe date indicano i giorni della manifestazione\, non u
+ n’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali varia
+ zioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/li/campiglia-marittima/festa-d-autun
+ no-campiglia-marittima.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -5816,6 +5930,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  riazioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-di-ognissan
  ti-al-parco-delle-cascine.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d97b6fdcb241355247d0860616498a@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Mostra del Bestiame
+LOCATION:Lastra a Signa (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/lastra-a-signa/mostra-del-bestiame
+ -e-della-filiera-corta.html\nLe date indicano i giorni della manifestazion
+ e\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventu
+ ali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/lastra-a-signa/mostra-del
+ -bestiame-e-della-filiera-corta.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5874,6 +6007,63 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-
  vino-novello.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a395c6cd51aee4aea0afadcf4d6522be@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Sagra del Cinghiale
+LOCATION:Riparbella (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/riparbella/sagra-del-cinghiale-maremmano.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/sagre/pi/riparbella/sagra-del-cinghiale-ma
+ remmano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c56503615647fdd789cee41ac554e4d2@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Sagra del Cinghiale
+LOCATION:Riparbella (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/riparbella/sagra-del-cinghiale-maremmano.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/sagre/pi/riparbella/sagra-del-cinghiale-ma
+ remmano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:0158832e7da9dd3d15321fea984c20d6@sagre-toscana.jazia
+DTSTAMP:20261023T101225Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Florence Cards Show
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-sh
+ ow.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -5938,7 +6128,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a1a9d0a4b2fc533f55d897acda98c8@sagre-toscana.jazia
-DTSTAMP:20261021T101803Z
+DTSTAMP:20261023T101225Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY;LANGUAGE=it:Oleum – L'olio di mare
