@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-23",
+  "extracted_at": "2026-10-24",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,7 +40,11 @@
     },
     {
       "page": 10,
-      "count": 7
+      "count": 10
+    },
+    {
+      "page": 11,
+      "count": 6
     }
   ],
   "events": [
@@ -3400,6 +3404,22 @@
       "note": ""
     },
     {
+      "name": "RiCircolO - Mercato del Riuso",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/ricircolo-mercato-del-riuso.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "7b70a6a557b4137c19b8e8fa065d4aaaee145652116a152c5a20be2353e7d6fb",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 109,
       "name": "Santo Spirito in Fiera",
       "location": "Piazza Santo Spirito, Firenze (FI), Toscana, Italia",
@@ -3477,6 +3497,22 @@
       "modified_at": "20261010T111452Z",
       "status": "CONFIRMED",
       "location": "Gallicano (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dell'olio bono",
+      "url": "https://www.sagretoscane.com/rassegne/pi/vicopisano/festa-dell-olio-bono.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "51dfdd9d20e7a366163f2acf75e5573bd336dac49cd4886dedab3ad00b1263b0",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Vicopisano (PI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4060,6 +4096,22 @@
       "note": ""
     },
     {
+      "name": "Festa del Buco Unto",
+      "url": "https://www.sagretoscane.com/sagre/gr/civitella-paganico/festa-dell-olio-e-del-vino-del-buco-unto.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-06",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "ca772a3f1556ddf605cb76cd11571ca35aef82ec53d2093521c1d44789b21993",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Civitella Paganico (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra del Cinghiale",
       "url": "https://www.sagretoscane.com/sagre/pi/riparbella/sagra-del-cinghiale-maremmano.html",
       "category": "Sagre gastronomiche",
@@ -4080,6 +4132,22 @@
       "note": ""
     },
     {
+      "name": "Fiera delle arti tessili",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-delle-arti-tessili.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "02f7282c2660e6098eb3ce169ee5829f9c800c52a101c258340b433749d29ac2",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Florence Cards Show",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html",
       "category": "Fiere e Mercati",
@@ -4093,6 +4161,46 @@
       "modified_at": "20261023T101225Z",
       "status": "CONFIRMED",
       "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dell'Olio Nuovo",
+      "url": "https://www.sagretoscane.com/rassegne/ar/pergine-valdarno/festa-dell-olio-nuovo-pergine.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "04bf89aa9b91bac058f80b5c552ac929128d43693eea21e29a3591a5fe5fc882",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Pergine Valdarno (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Garfagnana Terra Unica",
+      "url": "https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garfagnana-terra-unica.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ],
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ],
+        [
+          "2026-11-21",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "74199d1b1b97c8599045a4743d1eba0a7b18b352ebb117cd69f9eea9af8a30df",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo di Garfagnana (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -4131,6 +4239,38 @@
       "modified_at": "20261016T095605Z",
       "status": "CONFIRMED",
       "location": "Scarperia e San Piero (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "San Martino a Massaciuccoli",
+      "url": "https://www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuccoli.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-07"
+        ]
+      ],
+      "source_hash": "6352e10fd08a5d7f3929ba8fa3f4f49401ef04ce473336ea1259558414c6f609",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Massarosa (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dei fuochi d'autunno",
+      "url": "https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-100-ceppi.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "6a2fb2d550196eaad0f721c5af174e9d89c66971be9c296341a69114ebb609c0",
+      "modified_at": "20261024T093733Z",
+      "status": "CONFIRMED",
+      "location": "Loro Ciuffenna (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -4198,5 +4338,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261023T101225Z"
+  "updated_at": "20261024T093733Z"
 }

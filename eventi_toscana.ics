@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-23. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-24. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -5180,6 +5180,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:4092eb2af883e90393d06b4f48480afa@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:RiCircolO - Mercato del Riuso
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/ricircolo-mercato-del-rius
+ o.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/ricircolo-mercato
+ -del-riuso.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7783c57827c0c64febf122604a8fd8f7@sagre-toscana.jazia
 DTSTAMP:20261004T180000Z
 DTSTART;VALUE=DATE:20261025
@@ -5269,6 +5288,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  riginale.
 URL:https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegr
  ia.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b27166eab3d8a72c35812a7cf3b1f5ad@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa dell'olio bono
+LOCATION:Vicopisano (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pi/vicopisano/festa-dell-olio-bono.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/rassegne/pi/vicopisano/festa-dell-olio-bon
+ o.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6012,6 +6050,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:caff25245a094cdbafdb4e8073871ee2@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa del Buco Unto
+LOCATION:Civitella Paganico (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/civitella-paganico/festa-dell-olio-e-del-v
+ ino-del-buco-unto.html\nLe date indicano i giorni della manifestazione\, n
+ on un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali v
+ ariazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/gr/civitella-paganico/festa-dell-oli
+ o-e-del-vino-del-buco-unto.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:a395c6cd51aee4aea0afadcf4d6522be@sagre-toscana.jazia
 DTSTAMP:20261023T101225Z
 DTSTART;VALUE=DATE:20261106
@@ -6050,6 +6107,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:96590ed0888cd9948581d81b5c960e67@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Fiera delle arti tessili
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-delle-arti-tessili.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-delle-arti-
+ tessili.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:0158832e7da9dd3d15321fea984c20d6@sagre-toscana.jazia
 DTSTAMP:20261023T101225Z
 DTSTART;VALUE=DATE:20261107
@@ -6064,6 +6140,82 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-sh
  ow.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:678e16cedbcc335dc25fe301ae554fcd@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa dell'Olio Nuovo
+LOCATION:Pergine Valdarno (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/ar/pergine-valdarno/festa-dell-olio-nuovo-
+ pergine.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/ar/pergine-valdarno/festa-dell-ol
+ io-nuovo-pergine.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b28677091b5db3a89323fb33a059c5@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Garfagnana Terra Unica
+LOCATION:Castelnuovo di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garfagnana-te
+ rra-unica.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garf
+ agnana-terra-unica.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:0802aacb39c7aa531770884fa3997592@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Garfagnana Terra Unica
+LOCATION:Castelnuovo di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garfagnana-te
+ rra-unica.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garf
+ agnana-terra-unica.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:40a717a550d010e46e775fced5ee1457@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Garfagnana Terra Unica
+LOCATION:Castelnuovo di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garfagnana-te
+ rra-unica.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/castelnuovo-di-garfagnana/garf
+ agnana-terra-unica.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -6122,6 +6274,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-t
  artufo.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b6392aab3b2117264ead084e1cbcb8@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY;LANGUAGE=it:San Martino a Massaciuccoli
+LOCATION:Massarosa (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuccoli.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuc
+ coli.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:391dde5b7784918f95730418a969ca41@sagre-toscana.jazia
+DTSTAMP:20261024T093733Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa dei fuochi d'autunno
+LOCATION:Loro Ciuffenna (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-100-ceppi.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-100-cepp
+ i.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
