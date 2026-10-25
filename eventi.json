@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-24",
+  "extracted_at": "2026-10-25",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -44,6 +44,10 @@
     },
     {
       "page": 11,
+      "count": 10
+    },
+    {
+      "page": 12,
       "count": 6
     }
   ],
@@ -2688,22 +2692,6 @@
       "note": ""
     },
     {
-      "id": 87,
-      "name": "L'Angolo del Collezionista a Siena",
-      "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": "",
-      "source_hash": "b453607963f487860a03110a38f04884c2e792856593e298113dac57ec52707a"
-    },
-    {
       "name": "Sapori d'Autunno",
       "url": "https://www.sagretoscane.com/rassegne/fi/signa/sapori-d-autunno-signa.html",
       "category": "Eventi enogastronomici",
@@ -3404,6 +3392,22 @@
       "note": ""
     },
     {
+      "name": "Festa d'Autunno",
+      "url": "https://www.sagretoscane.com/feste/ms/fosdinovo/festa-d-autunno-fosdinovo.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "ba99f2810592516d63449c803ee29989ad342261c28c900a554f10e966aa06f0",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Fosdinovo (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "RiCircolO - Mercato del Riuso",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/ricircolo-mercato-del-riuso.html",
       "category": "Fiere e Mercati",
@@ -3449,6 +3453,22 @@
       "modified_at": "20261014T101933Z",
       "status": "CONFIRMED",
       "location": "Capannori (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Pescia Antiqua",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "5c65cfa4b551c9da14ece127f245447320dc5688c7c92caea61e3be14452f4d9",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Pescia (PT), Toscana, Italia",
       "note": ""
     },
     {
@@ -3516,6 +3536,22 @@
       "note": ""
     },
     {
+      "name": "Sagra delle Castagne",
+      "url": "https://www.sagretoscane.com/sagre/ar/cavriglia/sagra-delle-castagne-meleto-valdarno.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "dfd7005a8e06c4bb709f8cf52e2299b62765508c44206d688ab1be7f57906d5f",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Cavriglia (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa d'Autunno",
       "url": "https://www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-autunno-montemarciano.html",
       "category": "Sagre gastronomiche",
@@ -3529,6 +3565,22 @@
       "modified_at": "20261015T100346Z",
       "status": "CONFIRMED",
       "location": "Terranuova Bracciolini (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "La Castagnata",
+      "url": "https://www.sagretoscane.com/sagre/li/marciana/la-castagnata-poggio-marciana.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-25",
+          "2026-10-25"
+        ]
+      ],
+      "source_hash": "d809d11ecedef2b7bc44bf78fd786611f87c9b99bc70b09382a58ffabe5a9fe6",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Marciana (LI), Toscana, Italia",
       "note": ""
     },
     {
@@ -3866,6 +3918,30 @@
       "note": ""
     },
     {
+      "name": "Sagra del Picio e dello Gnocco",
+      "url": "https://www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-gnocco-fiesole.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-30",
+          "2026-10-30"
+        ],
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ],
+        [
+          "2026-11-13",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "aa08347925d609914facc0552b0a538c18e1cfcd7f2cfb71694496063f65aebc",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Fiesole (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra del Totano",
       "url": "https://www.sagretoscane.com/sagre/li/capraia-isola/sagra-del-totano.html",
       "category": "Sagre gastronomiche",
@@ -4096,6 +4172,38 @@
       "note": ""
     },
     {
+      "name": "Santi Vinai",
+      "url": "https://www.sagretoscane.com/rassegne/gr/pitigliano/santi-vinai.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-06",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "49171a2bd27e01322d6f431cee1e04dff37dfe2bdf8d4fa3e3849f80bd09cc8c",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Pitigliano (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sagra della Bruschetta e dell’Olio nuovo",
+      "url": "https://www.sagretoscane.com/sagre/gr/castel-del-piano/sagra-della-bruschetta-montegiovi.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-06",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "f1c83668cf37c818ef40da5a508eaa6776b780234f51e3b3949a960fdf2967a8",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Castel del Piano (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa del Buco Unto",
       "url": "https://www.sagretoscane.com/sagre/gr/civitella-paganico/festa-dell-olio-e-del-vino-del-buco-unto.html",
       "category": "Sagre gastronomiche",
@@ -4242,6 +4350,22 @@
       "note": ""
     },
     {
+      "name": "Sapori d'Autunno",
+      "url": "https://www.sagretoscane.com/sagre/gr/massa-marittima/sagra-dei-sapori-d-autunno.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "2f9c0c5c157cb3d5580d846433e3c8d1b0a151cf028c9e490e29a94993c3fb30",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Massa Marittima (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "San Martino a Massaciuccoli",
       "url": "https://www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuccoli.html",
       "category": "Sagre gastronomiche",
@@ -4267,8 +4391,8 @@
           "2026-11-08"
         ]
       ],
-      "source_hash": "6a2fb2d550196eaad0f721c5af174e9d89c66971be9c296341a69114ebb609c0",
-      "modified_at": "20261024T093733Z",
+      "source_hash": "723771b74665bb961906b1f0e20fc4d3e174f4c5fd8dac147970619b93724983",
+      "modified_at": "20261025T095459Z",
       "status": "CONFIRMED",
       "location": "Loro Ciuffenna (AR), Toscana, Italia",
       "note": ""
@@ -4306,6 +4430,72 @@
       "note": ""
     },
     {
+      "name": "Hand Made MMXXVI – Le Eccellenze Artigiane",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiiiv.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "4e8cc2dab18ce27c8f9b60edce345a6bcb0d167c75ce59bd8b392739a45d1660",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castagnata Lorese",
+      "url": "https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castagne-loro-ciuffenna.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "166053e8c90f25bbad118df6da5d4ab944ed68050a53cb0ea6574e27b76b5b75",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Loro Ciuffenna (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "id": 87,
+      "name": "L'Angolo del Collezionista a Siena",
+      "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "note": "",
+      "source_hash": "9f0ac555fc8be0b8a2037632433473cfd05987bf0a3d84b40ac7fa172d519c71",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "name": "Il Desco",
+      "url": "https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-27",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "fee259885ce01703871411991a7582a2963755a5d266af9eb64fe72eae485bba",
+      "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Lucca (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Barga in Cioccolato",
       "url": "https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html",
       "category": "Eventi enogastronomici",
@@ -4338,5 +4528,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261024T093733Z"
+  "updated_at": "20261025T095459Z"
 }

@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-24. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-25. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4296,25 +4296,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:07bfdd8fe9136867f49874bf445f416c@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Siena
-LOCATION:Piazza del Mercato\, Siena (SI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-s
- iena.html\nLe date indicano i giorni della manifestazione\, non un’apert
- ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
- la scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
- ionista-siena.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:58155373cf1dfe09fead22b9dcdeb33e@sagre-toscana.jazia
 DTSTAMP:20261012T131831Z
 DTSTART;VALUE=DATE:20261018
@@ -5180,6 +5161,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:a66ee16f9f49dbf5d4db8fc57dcc9f05@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Festa d'Autunno
+LOCATION:Fosdinovo (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/ms/fosdinovo/festa-d-autunno-fosdinovo.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/feste/ms/fosdinovo/festa-d-autunno-fosdino
+ vo.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:4092eb2af883e90393d06b4f48480afa@sagre-toscana.jazia
 DTSTAMP:20261024T093733Z
 DTSTART;VALUE=DATE:20261025
@@ -5231,6 +5231,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  riazioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-otto
  bre-capannorese-capannori.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:54c2ce669ba12822591513d13e9a62fd@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Pescia Antiqua
+LOCATION:Pescia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.htm
+ l
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5313,6 +5332,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:4340634a787739c5c70486f50a845245@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:Sagra delle Castagne
+LOCATION:Cavriglia (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/cavriglia/sagra-delle-castagne-meleto-vald
+ arno.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/cavriglia/sagra-delle-castagne-me
+ leto-valdarno.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:93a34497258de8fe1e332e94fa5dbc3f@sagre-toscana.jazia
 DTSTAMP:20261015T100346Z
 DTSTART;VALUE=DATE:20261025
@@ -5326,6 +5364,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ioni nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/ar/terranuova-bracciolini/festa-d-au
  tunno-montemarciano.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:341aeaac7ced0e5973ef52f02af60588@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY;LANGUAGE=it:La Castagnata
+LOCATION:Marciana (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/marciana/la-castagnata-poggio-marciana.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/sagre/li/marciana/la-castagnata-poggio-mar
+ ciana.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5765,6 +5822,63 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:924495589dd871d899c0cbf965a8f18e@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY;LANGUAGE=it:Sagra del Picio e dello Gnocco
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-gnocco-fie
+ sole.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-g
+ nocco-fiesole.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc070ebe06770c9613793031787e8e4@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Sagra del Picio e dello Gnocco
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-gnocco-fie
+ sole.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-g
+ nocco-fiesole.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a5468475ea9d7b3435150ba9e2fb5a5d@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Sagra del Picio e dello Gnocco
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-gnocco-fie
+ sole.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-g
+ nocco-fiesole.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:35bc073ecec77c8a5b1d6b3821dd192f@sagre-toscana.jazia
 DTSTAMP:20261010T111452Z
 DTSTART;VALUE=DATE:20261030
@@ -6050,6 +6164,42 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:e692146c5879c48a86453252edca8443@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Santi Vinai
+LOCATION:Pitigliano (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/gr/pitigliano/santi-vinai.html\nLe date in
+ dicano i giorni della manifestazione\, non un’apertura di 24 ore. Verifi
+ care orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/gr/pitigliano/santi-vinai.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:6c748752e910acfdcdc67bd40c50d2b2@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Sagra della Bruschetta e dell’Olio nuovo
+LOCATION:Castel del Piano (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/castel-del-piano/sagra-della-bruschetta-mo
+ ntegiovi.html\nLe date indicano i giorni della manifestazione\, non un’a
+ pertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni
+  nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/gr/castel-del-piano/sagra-della-brus
+ chetta-montegiovi.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:caff25245a094cdbafdb4e8073871ee2@sagre-toscana.jazia
 DTSTAMP:20261024T093733Z
 DTSTART;VALUE=DATE:20261106
@@ -6279,6 +6429,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:f6b02252cfe62bd1b52c28f4ee6d44c5@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Sapori d'Autunno
+LOCATION:Massa Marittima (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/massa-marittima/sagra-dei-sapori-d-autunno
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/sagre/gr/massa-marittima/sagra-dei-sapori-
+ d-autunno.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:b4b6392aab3b2117264ead084e1cbcb8@sagre-toscana.jazia
 DTSTAMP:20261024T093733Z
 DTSTART;VALUE=DATE:20261107
@@ -6299,7 +6468,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:391dde5b7784918f95730418a969ca41@sagre-toscana.jazia
-DTSTAMP:20261024T093733Z
+DTSTAMP:20261025T095459Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY;LANGUAGE=it:Festa dei fuochi d'autunno
@@ -6349,6 +6518,80 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  le.
 URL:https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.htm
  l
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3de0c2d945f7378da15f10a81beee1@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Hand Made MMXXVI – Le Eccellenze Artigiane
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiiiv.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiii
+ v.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:42de27ba4eef2462abd5257f88a8c3b3@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Castagnata Lorese
+LOCATION:Loro Ciuffenna (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castagne-loro-c
+ iuffenna.html\nLe date indicano i giorni della manifestazione\, non un’a
+ pertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni
+  nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castag
+ ne-loro-ciuffenna.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:889bb4b3affa7636b9eaf488faa757b8@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Siena
+LOCATION:Piazza del Mercato\, Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-s
+ iena.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
+ ionista-siena.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9859d19d479840d8e082efbfd641bca8@sagre-toscana.jazia
+DTSTAMP:20261025T095459Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Il Desco
+LOCATION:Lucca (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/lu/lucca/il-desco.html\nLe date indicano i
+  giorni della manifestazione\, non un’apertura di 24 ore. Verificare ora
+ ri\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

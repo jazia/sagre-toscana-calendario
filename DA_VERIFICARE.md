@@ -3,12 +3,14 @@
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
 - [Festa della Castagna](https://www.sagretoscane.com/sagre/po/carmignano/festa-della-castagna-bacchereto.html): Date del programma discordanti con intestazione.
-- [Il Marrone Torna a Casa - Fiera Mercato del Marrone di Villore](https://www.sagretoscane.com/fiere-mercati/fi/vicchio/il-marrone-torna-a-casa-fiera-mercato-del-marrone-di-villore.html): Date del programma discordanti con intestazione.
 - [Festa dei Marroni](https://www.sagretoscane.com/rassegne/fi/vicchio/il-marrone-tra-sagra-e-cultura.html): Date del programma discordanti con intestazione.
 - [Festa di Castagnatura](https://www.sagretoscane.com/sagre/ar/ortignano-raggiolo/festa-di-castagnatura.html): Data non valida.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
-- [Sagra del Picio e dello Gnocco](https://www.sagretoscane.com/sagre/fi/fiesole/sagra-del-picio-e-dello-gnocco-fiesole.html): Date del programma discordanti con intestazione.
+- [Festa dell'Olio](https://www.sagretoscane.com/rassegne/po/montemurlo/festa-dell-olio.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.
 - [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Weihnachtsmarkt, Mercato di Natale](https://www.sagretoscane.com/fiere-mercati/fi/firenze/weihnachtsmarkt-mercatino-di-natale-tedesco.html): Rassegna lunga: serve controllo del programma.
+- [Arezzo Città del Natale](https://www.sagretoscane.com/feste/ar/arezzo/mercatini-di-natale-arezzo.html): Intervallo a cavallo di due anni da verificare.
+- [Destinazione Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/natale-a-montecatini-terme.html): Intervallo a cavallo di due anni da verificare.
+- [Empoli Città del Natale](https://www.sagretoscane.com/feste/fi/empoli/empoli-citta-del-natale.html): Intervallo a cavallo di due anni da verificare.
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.
