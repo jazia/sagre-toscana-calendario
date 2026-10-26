@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-25",
+  "extracted_at": "2026-10-26",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -28,27 +28,7 @@
     },
     {
       "page": 7,
-      "count": 10
-    },
-    {
-      "page": 8,
-      "count": 10
-    },
-    {
-      "page": 9,
-      "count": 10
-    },
-    {
-      "page": 10,
-      "count": 10
-    },
-    {
-      "page": 11,
-      "count": 10
-    },
-    {
-      "page": 12,
-      "count": 6
+      "count": 8
     }
   ],
   "events": [
@@ -4172,6 +4152,58 @@
       "note": ""
     },
     {
+      "name": "Castagnata nel Borgo",
+      "url": "https://www.sagretoscane.com/sagre/ms/filattiera/festa-della-castagna-ponticello.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ],
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "e9f09f2bfdba2d900ae973cde82c7b3298848f30704d465f54b9499f5534ab15",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Filattiera (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dei Sapori d'Autunno",
+      "url": "https://www.sagretoscane.com/sagre/po/carmignano/festa-dei-sapori-d-autunno.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "bb332213242dd5470b8eaf409e9aa77feb00740723e6a96bef7687bc4f986d77",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Carmignano (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mostra Mercato dell'Olio Extravergine d'Oliva",
+      "url": "https://www.sagretoscane.com/rassegne/fi/calenzano/mostra-mercato-dell-olio-extravergine-d-oliva.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-06",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "695a4d6edbbf5e63934b0b481ad19f8e8aed86f490b6394393277ddec62494d2",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Calenzano (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Santi Vinai",
       "url": "https://www.sagretoscane.com/rassegne/gr/pitigliano/santi-vinai.html",
       "category": "Eventi enogastronomici",
@@ -4240,6 +4272,22 @@
       "note": ""
     },
     {
+      "name": "Carriera di San Martino",
+      "url": "https://www.sagretoscane.com/feste/si/sinalunga/carriera-di-san-martino-sinalunga.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "90524688b3ff1cd6cc49d20c0c0ce20aa706f6cc22d93eb8efdf1c6f756f40a9",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Sinalunga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Fiera delle arti tessili",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-delle-arti-tessili.html",
       "category": "Fiere e Mercati",
@@ -4265,8 +4313,8 @@
           "2026-11-08"
         ]
       ],
-      "source_hash": "2c3edc4ba2c19f8396757ae6e620e03b4a25ff941222380d0a8797f125516148",
-      "modified_at": "20261023T101225Z",
+      "source_hash": "b92bc267c69f4f3c4ebe81fe50d24773e438d9a0ec378d5cd8ffe34c175699e0",
+      "modified_at": "20261026T111552Z",
       "status": "CONFIRMED",
       "location": "Firenze (FI), Toscana, Italia",
       "note": ""
@@ -4325,9 +4373,29 @@
         ]
       ],
       "note": "",
-      "source_hash": "65f788eaecd021db20ebd0322c0b7d509e5f6229f3588add6888377a81ac4986",
-      "modified_at": "20261006T120542Z",
+      "source_hash": "287bff8f443d4c4cf5526cde03c30b32c0bee7e1c2c303cb12c9a2257beb186d",
+      "modified_at": "20261026T111552Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Mostra Mercato del Tartufo Bianco delle Crete Senesi",
+      "url": "https://www.sagretoscane.com/rassegne/si/montalcino/mostra-mercato-del-tartufo-bianco-delle-crete-senesi.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ],
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "ebfb6271aa1a08923a888c679ecb4b9cc6b98054bda6857f9f641a17a6d61dbc",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Montalcino (SI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Sagra del Tartufo Bianco, Nero e Tortello",
@@ -4366,7 +4434,7 @@
       "note": ""
     },
     {
-      "name": "San Martino a Massaciuccoli",
+      "name": "San Martino al Coccobrillo",
       "url": "https://www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuccoli.html",
       "category": "Sagre gastronomiche",
       "periods": [
@@ -4375,8 +4443,8 @@
           "2026-11-07"
         ]
       ],
-      "source_hash": "6352e10fd08a5d7f3929ba8fa3f4f49401ef04ce473336ea1259558414c6f609",
-      "modified_at": "20261024T093733Z",
+      "source_hash": "8cb92a4d12b2bfcf0a7c0ad17e3f200d77cb32e813c06eaaee3a5737bcfeb2ff",
+      "modified_at": "20261026T111552Z",
       "status": "CONFIRMED",
       "location": "Massarosa (LU), Toscana, Italia",
       "note": ""
@@ -4427,6 +4495,38 @@
       "modified_at": "20261012T131831Z",
       "status": "CONFIRMED",
       "location": "Casole dʼElsa (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mondinata in piazza",
+      "url": "https://www.sagretoscane.com/sagre/lu/pescaglia/mondinata-in-piazza-2.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "721ec442d73ae2675c09cb7918d7bb360beae1972cdaa3377fe38cf58f468406",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Pescaglia (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Le Castagne di San Martino",
+      "url": "https://www.sagretoscane.com/sagre/po/vernio/festa-delle-bruciate-di-san-martino.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "b56d6b96ad07cebc33b55cfc1163511fe15a42d9543c85ba1ea9517b6903bb01",
+      "modified_at": "20261026T111552Z",
+      "status": "CONFIRMED",
+      "location": "Vernio (PO), Toscana, Italia",
       "note": ""
     },
     {
@@ -4528,5 +4628,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261025T095459Z"
+  "updated_at": "20261026T111552Z"
 }

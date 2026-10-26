@@ -2,8 +2,6 @@
 
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
-- [Festa della Castagna](https://www.sagretoscane.com/sagre/po/carmignano/festa-della-castagna-bacchereto.html): Date del programma discordanti con intestazione.
-- [Festa dei Marroni](https://www.sagretoscane.com/rassegne/fi/vicchio/il-marrone-tra-sagra-e-cultura.html): Date del programma discordanti con intestazione.
 - [Festa di Castagnatura](https://www.sagretoscane.com/sagre/ar/ortignano-raggiolo/festa-di-castagnatura.html): Data non valida.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
 - [Festa dell'Olio](https://www.sagretoscane.com/rassegne/po/montemurlo/festa-dell-olio.html): Date del programma discordanti con intestazione.
