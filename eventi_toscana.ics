@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-26. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-27. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -1474,26 +1474,6 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  cheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/greve/aprilante-panzano-i
  n-chianti.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:77ec19473e7af5a75771d2edac556e0d@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY;LANGUAGE=it:Collezionisti in Piazza
-LOCATION:Centro storico di Scarperia\, Scarperia e San Piero (FI)\, Toscana
- \, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/collezionist
- i-in-piazza.html\nLe date indicano i giorni della manifestazione\, non un
- ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
- ioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/col
- lezionisti-in-piazza.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6107,6 +6087,26 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:3925527a25d774a340d56b340d0e88c8@sagre-toscana.jazia
+DTSTAMP:20261027T104139Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Collezionisti in Piazza
+LOCATION:Centro storico di Scarperia\, Scarperia e San Piero (FI)\, Toscana
+ \, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/collezionist
+ i-in-piazza.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/col
+ lezionisti-in-piazza.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:a36e62e35d9add417ea33822739e41ce@sagre-toscana.jazia
 DTSTAMP:20261012T131831Z
 DTSTART;VALUE=DATE:20261101
@@ -6676,6 +6676,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:0922257c22991b6b84e0e6cf5b0a0623@sagre-toscana.jazia
+DTSTAMP:20261027T104139Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Calcinaia (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/calcinaia/festa-della-castagna-fornacette.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/sagre/pi/calcinaia/festa-della-castagna-fo
+ rnacette.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:59ef3f69cb6d97a7b38332eb5735dce1@sagre-toscana.jazia
 DTSTAMP:20261026T111552Z
 DTSTART;VALUE=DATE:20261108
@@ -6690,6 +6709,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/po/vernio/festa-delle-bruciate-di-sa
  n-martino.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:600c2ef12f747ee2ac51b35aafeaf25a@sagre-toscana.jazia
+DTSTAMP:20261027T104139Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:PietrasantaKlaus – Mercatino di Natale in Versiliana
+LOCATION:Pietrasanta (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantaklaus-merca
+ tino-di-natale-in-versiliana.html\nLe date indicano i giorni della manifes
+ tazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed 
+ eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantakl
+ aus-mercatino-di-natale-in-versiliana.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

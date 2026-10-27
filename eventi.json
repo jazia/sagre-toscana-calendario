@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-26",
+  "extracted_at": "2026-10-27",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -28,7 +28,11 @@
     },
     {
       "page": 7,
-      "count": 8
+      "count": 10
+    },
+    {
+      "page": 8,
+      "count": 2
     }
   ],
   "events": [
@@ -809,22 +813,6 @@
       ],
       "note": "",
       "source_hash": "3d053a0e703c08ff5c0f07464a2cb5b9a81d9455c37b1766ecf34cdbf93f98bb"
-    },
-    {
-      "id": 40,
-      "name": "Collezionisti in Piazza",
-      "location": "Centro storico di Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/collezionisti-in-piazza.html",
-      "source_page": 4,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": "",
-      "source_hash": "63be841c4f06f79befa6601071bbd89d7cd910c5907fb5ded267567c2a26c7d9"
     },
     {
       "id": 105,
@@ -4102,6 +4090,24 @@
       "note": ""
     },
     {
+      "id": 40,
+      "name": "Collezionisti in Piazza",
+      "location": "Centro storico di Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/collezionisti-in-piazza.html",
+      "source_page": 4,
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8877623a67bdeb22333aecfcedf0c7b256243a29be8ef309c0d374254f53794c",
+      "modified_at": "20261027T104139Z",
+      "status": "CONFIRMED"
+    },
+    {
       "id": 28,
       "name": "Mercatino di Porsenna",
       "location": "Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia",
@@ -4514,6 +4520,22 @@
       "note": ""
     },
     {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/pi/calcinaia/festa-della-castagna-fornacette.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "abd830595a591399beefd14b577e96ef2bf72b252c909e68691f15b6d6f8751c",
+      "modified_at": "20261027T104139Z",
+      "status": "CONFIRMED",
+      "location": "Calcinaia (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Le Castagne di San Martino",
       "url": "https://www.sagretoscane.com/sagre/po/vernio/festa-delle-bruciate-di-san-martino.html",
       "category": "Sagre gastronomiche",
@@ -4527,6 +4549,22 @@
       "modified_at": "20261026T111552Z",
       "status": "CONFIRMED",
       "location": "Vernio (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "PietrasantaKlaus – Mercatino di Natale in Versiliana",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantaklaus-mercatino-di-natale-in-versiliana.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-13",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "914feeded984e8301ef7b5fe756e4b72bfc8e5c4b07d937a192005b81fcef932",
+      "modified_at": "20261027T104139Z",
+      "status": "CONFIRMED",
+      "location": "Pietrasanta (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -4628,5 +4666,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261026T111552Z"
+  "updated_at": "20261027T104139Z"
 }
