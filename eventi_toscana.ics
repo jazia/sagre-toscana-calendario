@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-28. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-29. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -1417,25 +1417,6 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/ar/castelfranco-piandisco/fi
  era-nazionale-degli-uccelli-da-richiamo-a-pian-di-sco.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:7b4395ce15dda76f2bff1fc1df591945@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY;LANGUAGE=it:L’Angolo del Tempo
-LOCATION:Piazza Gramsci\, Castelfiorentino (FI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-temp
- o-castelfiorentino.html\nLe date indicano i giorni della manifestazione\, 
- non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali 
- variazioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo
- -del-tempo-castelfiorentino.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4875,25 +4856,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:b2151369d04e21f8d665db8a8e28c1f1@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Grosseto
-LOCATION:Grosseto (GR)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionist
- a-grosseto.html\nLe date indicano i giorni della manifestazione\, non un
- ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
- ioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-col
- lezionista-grosseto.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:740889126038898975e6c93535d934c2@sagre-toscana.jazia
 DTSTAMP:20261022T101849Z
 DTSTART;VALUE=DATE:20261024
@@ -5991,6 +5953,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:1cf72a8d4416642cc181f7600f4ce864@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Mostra mercato del disco
+LOCATION:Livorno (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/livorno/mostra-mercato-del-disco-l
+ ivorno.html\nLe date indicano i giorni della manifestazione\, non un’ape
+ rtura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni n
+ ella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/livorno/mostra-mercato-de
+ l-disco-livorno.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:892e92f4e352bae2b2aa9843bd88228e@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261031
@@ -6043,6 +6024,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castagn
  ata-sotto-le-logge.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:aa36f141a5cee00a31539c25b39778c9@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Smondinata a Gorfigliano
+LOCATION:Minucciano (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/minucciano/smondinata-a-gorfigliano.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/sagre/lu/minucciano/smondinata-a-gorfiglia
+ no.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:633509d7be8c3f814e885ca13f7650e8@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:L’Angolo del Tempo
+LOCATION:Piazza Gramsci\, Castelfiorentino (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-temp
+ o-castelfiorentino.html\nLe date indicano i giorni della manifestazione\, 
+ non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali 
+ variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo
+ -del-tempo-castelfiorentino.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -6216,6 +6235,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/po/carmignano/festa-dei-sapori-d-aut
  unno.html
 CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:f4322d8594cb0a596c42d94f4bcc9b01@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Autumnia
+LOCATION:Figline Valdarno (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/figline-valdarno/autumnia.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/figline-valdarno/autumnia
+ .html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -6466,6 +6504,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:0474abd96f4d9199f56a06641e5d581b@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Assaggi d'Autunno
+LOCATION:Santa Luce (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pi/santa-luce/assaggi-d-autunno.html\nLe d
+ ate indicano i giorni della manifestazione\, non un’apertura di 24 ore. 
+ Verificare orari\, prenotazioni ed eventuali variazioni nella scheda origi
+ nale.
+URL:https://www.sagretoscane.com/rassegne/pi/santa-luce/assaggi-d-autunno.h
+ tml
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:46abd77b40beb0bc55b94359843f382c@sagre-toscana.jazia
 DTSTAMP:20261026T111552Z
 DTSTART;VALUE=DATE:20261107
@@ -6657,6 +6714,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:3dd6764e6a0f3ca9fd87785af5923113@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Castel San Niccolò (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/castel-san-niccolo/festa-della-castagna-ce
+ tica.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/castel-san-niccolo/festa-della-ca
+ stagna-cetica.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:8f42e5be330598e69fcabaaf1f898990@sagre-toscana.jazia
 DTSTAMP:20261026T111552Z
 DTSTART;VALUE=DATE:20261108
@@ -6752,6 +6828,41 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:fe953b1103c6852890bc89f2ec3f1fa0@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Vintage Fest Pisa
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html\nLe date in
+ dicano i giorni della manifestazione\, non un’apertura di 24 ore. Verifi
+ care orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:965e1bc8ae121efa26e982cbff2a8383@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Prim.Olio
+LOCATION:Bagno a Ripoli (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/bagno-a-ripoli/prim-olio.html\nLe date 
+ indicano i giorni della manifestazione\, non un’apertura di 24 ore. Veri
+ ficare orari\, prenotazioni ed eventuali variazioni nella scheda originale
+ .
+URL:https://www.sagretoscane.com/rassegne/fi/bagno-a-ripoli/prim-olio.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:42de27ba4eef2462abd5257f88a8c3b3@sagre-toscana.jazia
 DTSTAMP:20261025T095459Z
 DTSTART;VALUE=DATE:20261114
@@ -6771,6 +6882,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:010acb0983a037b332b2d8184985b474@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Tradizionale Fiera di Novembre
+LOCATION:Barberino di Mugello (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/tradizionale-
+ fiera-di-novembre-galliano.html\nLe date indicano i giorni della manifesta
+ zione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed ev
+ entuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/trad
+ izionale-fiera-di-novembre-galliano.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:889bb4b3affa7636b9eaf488faa757b8@sagre-toscana.jazia
 DTSTAMP:20261025T095459Z
 DTSTART;VALUE=DATE:20261115
@@ -6785,6 +6915,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
  ionista-siena.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ab94b1fb9de2ad4d39a6d7265cd47166@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Grosseto
+LOCATION:Grosseto (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionist
+ a-grosseto.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-col
+ lezionista-grosseto.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:064f4ffe161f1e70862e190c8747440e@sagre-toscana.jazia
+DTSTAMP:20261029T113616Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Mostra Mercato del Tartufo Bianco e Nero del Mugello
+LOCATION:Borgo San Lorenzo (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/borgo-san-lorenzo/mostra-mercato-del-ta
+ rtufo-bianco-e-nero-del-mugello.html\nLe date indicano i giorni della mani
+ festazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni 
+ ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/fi/borgo-san-lorenzo/mostra-merca
+ to-del-tartufo-bianco-e-nero-del-mugello.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

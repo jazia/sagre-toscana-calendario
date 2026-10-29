@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-28",
+  "extracted_at": "2026-10-29",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,11 @@
     },
     {
       "page": 8,
-      "count": 2
+      "count": 10
+    },
+    {
+      "page": 9,
+      "count": 5
     }
   ],
   "events": [
@@ -765,22 +769,6 @@
       ],
       "note": "",
       "source_hash": "70df1d50c0cfa4c20f411367614c4b60405a4eafac6e2f8730059c8dd1af55cb"
-    },
-    {
-      "id": 30,
-      "name": "L’Angolo del Tempo",
-      "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-tempo-castelfiorentino.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": "",
-      "source_hash": "53ef4cb09fdaacdacc7876ffacc2dc02b55dc796e6713793638fb1554445ffd1"
     },
     {
       "id": 25,
@@ -3148,22 +3136,6 @@
       "note": ""
     },
     {
-      "id": 94,
-      "name": "L'Angolo del Collezionista a Grosseto",
-      "location": "Grosseto (GR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-10-24",
-          "2026-10-24"
-        ]
-      ],
-      "note": "",
-      "source_hash": "fa27a292ceb3a103c4ffd461114983afac6921e449cc584db893e68946a9ba2a"
-    },
-    {
       "name": "Camaiore Antiqua",
       "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html",
       "category": "Fiere e Mercati",
@@ -4010,6 +3982,22 @@
       "note": ""
     },
     {
+      "name": "Mostra mercato del disco",
+      "url": "https://www.sagretoscane.com/fiere-mercati/li/livorno/mostra-mercato-del-disco-livorno.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "fae4126dc253a9dd529255b0f5c2709ea4faa50e36a4d158ea9da3b338ab48e4",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Livorno (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa d'Autunno",
       "url": "https://www.sagretoscane.com/rassegne/gr/castellazzara/festa-d-autunno-castell-azzara.html",
       "category": "Eventi enogastronomici",
@@ -4056,6 +4044,40 @@
       "status": "CONFIRMED",
       "location": "Castelnuovo di Garfagnana (LU), Toscana, Italia",
       "note": ""
+    },
+    {
+      "name": "Smondinata a Gorfigliano",
+      "url": "https://www.sagretoscane.com/sagre/lu/minucciano/smondinata-a-gorfigliano.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-10-31",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "991bbc27b2fb5293971c66920b7d105a3eaa11a8b16a5055b6c1c1c3817c0b07",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Minucciano (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "id": 30,
+      "name": "L’Angolo del Tempo",
+      "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-tempo-castelfiorentino.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f045da222812d8fd84967a557eb1498d5375ff7d2fcce8448375f5489b9a5018",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 112,
@@ -4191,6 +4213,22 @@
       "modified_at": "20261026T111552Z",
       "status": "CONFIRMED",
       "location": "Carmignano (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Autumnia",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/figline-valdarno/autumnia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-06",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "3050f2517611114c4c03a56f192b21b4f2230f43f0268c1968d556b1273cd334",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Figline Valdarno (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4366,6 +4404,22 @@
       "note": ""
     },
     {
+      "name": "Assaggi d'Autunno",
+      "url": "https://www.sagretoscane.com/rassegne/pi/santa-luce/assaggi-d-autunno.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "08c382dbd289c0379fbad22cf6089af890a0a388f6c55f94d80c388d71bee111",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Santa Luce (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 114,
       "name": "Stravino",
       "location": "Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia",
@@ -4504,6 +4558,22 @@
       "note": ""
     },
     {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/ar/castel-san-niccolo/festa-della-castagna-cetica.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "27ea9d70900081d672030bfda69bdf2d7f867f798a57d70af6886a0c2b0bb120",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Castel San Niccolò (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mondinata in piazza",
       "url": "https://www.sagretoscane.com/sagre/lu/pescaglia/mondinata-in-piazza-2.html",
       "category": "Sagre gastronomiche",
@@ -4584,6 +4654,38 @@
       "note": ""
     },
     {
+      "name": "Vintage Fest Pisa",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "c1611e2b6697dd22e6628bd0de0bc7218802a40eca2f189a25c71e849ce77d86",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Pisa (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Prim.Olio",
+      "url": "https://www.sagretoscane.com/rassegne/fi/bagno-a-ripoli/prim-olio.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "a98392ca3fe5972f3a08d7343453fde7939c11a8b07c65c9afcb289219bdd975",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Bagno a Ripoli (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Castagnata Lorese",
       "url": "https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castagne-loro-ciuffenna.html",
       "category": "Sagre gastronomiche",
@@ -4597,6 +4699,22 @@
       "modified_at": "20261025T095459Z",
       "status": "CONFIRMED",
       "location": "Loro Ciuffenna (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Tradizionale Fiera di Novembre",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/tradizionale-fiera-di-novembre-galliano.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "8094949781be016ceec03861cfe4506ca1b13bef0d9de4e29effba72986740ad",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Barberino di Mugello (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4616,6 +4734,40 @@
       "source_hash": "9f0ac555fc8be0b8a2037632433473cfd05987bf0a3d84b40ac7fa172d519c71",
       "modified_at": "20261025T095459Z",
       "status": "CONFIRMED"
+    },
+    {
+      "id": 94,
+      "name": "L'Angolo del Collezionista a Grosseto",
+      "location": "Grosseto (GR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-11-21",
+          "2026-11-21"
+        ]
+      ],
+      "note": "",
+      "source_hash": "2e498e8ea1e763607b4bc7045346642a0391fffb65a236380ba64dd88b26a433",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "name": "Mostra Mercato del Tartufo Bianco e Nero del Mugello",
+      "url": "https://www.sagretoscane.com/rassegne/fi/borgo-san-lorenzo/mostra-mercato-del-tartufo-bianco-e-nero-del-mugello.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-21",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "1c94c88c2d6539579d3f441d943f58db5f6a6bfbee6e879f203a0a4e5be31e17",
+      "modified_at": "20261029T113616Z",
+      "status": "CONFIRMED",
+      "location": "Borgo San Lorenzo (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Il Desco",
@@ -4666,5 +4818,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261028T112551Z"
+  "updated_at": "20261029T113616Z"
 }
