@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-29",
+  "extracted_at": "2026-10-30",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -36,7 +36,11 @@
     },
     {
       "page": 9,
-      "count": 5
+      "count": 10
+    },
+    {
+      "page": 10,
+      "count": 3
     }
   ],
   "events": [
@@ -771,38 +775,6 @@
       "source_hash": "70df1d50c0cfa4c20f411367614c4b60405a4eafac6e2f8730059c8dd1af55cb"
     },
     {
-      "id": 25,
-      "name": "Collezionare in Dalmazia",
-      "location": "Piazza Dalmazia, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-dalmazia.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": "",
-      "source_hash": "0207afd9d304083beb84ac86fc773a1ebef562390693bf9f055cb25ee7f1b381"
-    },
-    {
-      "id": 26,
-      "name": "Aprilante",
-      "location": "Panzano in Chianti, Greve in Chianti (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/greve/aprilante-panzano-in-chianti.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": "",
-      "source_hash": "3d053a0e703c08ff5c0f07464a2cb5b9a81d9455c37b1766ecf34cdbf93f98bb"
-    },
-    {
       "id": 105,
       "name": "Mostra delle Camelie d'Autunno",
       "location": "Pieve e Sant'Andrea di Compito, Capannori (LU), Toscana, Italia",
@@ -829,22 +801,6 @@
       ],
       "note": "",
       "source_hash": "317b625659b447f599cc09d82828ae3db8780af30401f4d8878ed91d26250f82"
-    },
-    {
-      "id": 27,
-      "name": "Festival del Riuso a Viareggio",
-      "location": "Piazza Papa Paolo VI, Viareggio (LU), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/viareggio/festival-del-riuso-viareggio.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-10-04",
-          "2026-10-04"
-        ]
-      ],
-      "note": "",
-      "source_hash": "dc84ddfa0d8785e2a85590e28131bf8db043f58c4dcc1d030c1780937780c46e"
     },
     {
       "id": 23,
@@ -1852,22 +1808,6 @@
       "source_hash": "c801f3c798bf03fe23d4a37a971eb9e437408531b82b9272a3ed30ea9e9c0d3c"
     },
     {
-      "name": "Prato Antiquaria",
-      "url": "https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-10-11",
-          "2026-10-11"
-        ]
-      ],
-      "source_hash": "90368374c8cd249f2a2a487cea78d36b3021c2b39e4e9fcef50831e82af0ce5b",
-      "modified_at": "20261008T120630Z",
-      "status": "CONFIRMED",
-      "location": "Prato (PO), Toscana, Italia",
-      "note": ""
-    },
-    {
       "id": 64,
       "name": "Fiera d'Ottobre",
       "location": "Castiglione di Garfagnana (LU), Toscana, Italia",
@@ -2536,22 +2476,6 @@
       "note": ""
     },
     {
-      "id": 86,
-      "name": "Galluzzo in fiera",
-      "location": "Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-10-18",
-          "2026-10-18"
-        ]
-      ],
-      "note": "",
-      "source_hash": "07dfbcbb693a4ac3a6640b37fe7fa2ca84d3ed4136eee594fa2149d10f5a5af8"
-    },
-    {
       "name": "MercaFest",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercafest-firenze.html",
       "category": "Fiere e Mercati",
@@ -3117,22 +3041,6 @@
       "modified_at": "20261012T131831Z",
       "status": "CONFIRMED",
       "location": "Montalcino (SI), Toscana, Italia",
-      "note": ""
-    },
-    {
-      "name": "Mercatino di Piazza dei Ciompi",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-10-24",
-          "2026-10-25"
-        ]
-      ],
-      "source_hash": "2e6c7203f54e421e29aa0b29e5340d2e77d0466f966644e8bbd662f0ac7bc4a8",
-      "modified_at": "20261017T092920Z",
-      "status": "CONFIRMED",
-      "location": "Firenze (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4023,8 +3931,8 @@
           "2026-11-08"
         ]
       ],
-      "source_hash": "cca6408626f3374d311bcdb4cf52ccbeb7b98304d85011aa935a5d4299bc43b3",
-      "modified_at": "20261028T112551Z",
+      "source_hash": "6e5cfd2f5695b516958988143f1f18f51d16eb76062199f86134147cfb7d46c3",
+      "modified_at": "20261030T112757Z",
       "status": "CONFIRMED",
       "location": "Campiglia Marittima (LI), Toscana, Italia",
       "note": ""
@@ -4096,6 +4004,24 @@
       "source_hash": "5fe86e272af8cfa6e48a4a08b813d23766919cbf378673d668de2e26a145cdcd"
     },
     {
+      "id": 26,
+      "name": "Aprilante",
+      "location": "Panzano in Chianti, Greve in Chianti (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/greve/aprilante-panzano-in-chianti.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "d6d09ec00b4d5430ce586ef70241d4392f072496bd9edb45b9c449cd1d413905",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED"
+    },
+    {
       "name": "Mostra del Bestiame",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/lastra-a-signa/mostra-del-bestiame-e-della-filiera-corta.html",
       "category": "Fiere e Mercati",
@@ -4127,6 +4053,40 @@
       "note": "",
       "source_hash": "8877623a67bdeb22333aecfcedf0c7b256243a29be8ef309c0d374254f53794c",
       "modified_at": "20261027T104139Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "name": "Fiera di Ognissanti",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/fiera-di-ognissanti.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-02"
+        ]
+      ],
+      "source_hash": "dc544761e3b670a4f82a4670b0e553ac0e29d2707de85acc06ea5aa2c50f9640",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED",
+      "location": "Camaiore (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "id": 27,
+      "name": "Festival del Riuso a Viareggio",
+      "location": "Piazza Papa Paolo VI, Viareggio (LU), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/viareggio/festival-del-riuso-viareggio.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "note": "",
+      "source_hash": "177c72749ccfe9f4a208d338da70f31ef4b3ffc63ff05e036e70616d7aa1127f",
+      "modified_at": "20261030T112757Z",
       "status": "CONFIRMED"
     },
     {
@@ -4197,6 +4157,22 @@
       "modified_at": "20261026T111552Z",
       "status": "CONFIRMED",
       "location": "Filattiera (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa delle Castagne",
+      "url": "https://www.sagretoscane.com/sagre/ms/fivizzano/festa-delle-castagne-sassalbo.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "d51af6bd91373334afdebd70f946fdbc9d0b0f72281ac4756ad7fc1d1ef80eff",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED",
+      "location": "Fivizzano (MS), Toscana, Italia",
       "note": ""
     },
     {
@@ -4526,6 +4502,22 @@
       "note": ""
     },
     {
+      "name": "Prato Antiquaria",
+      "url": "https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "0b1e84b799a091a9af6c6dd2ba2da767c3704720beea29fae8648a2c329df315",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED",
+      "location": "Prato (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Oleum – L'olio di mare",
       "url": "https://www.sagretoscane.com/rassegne/li/san-vincenzo/oleum-l-olio-di-mare.html",
       "category": "Eventi enogastronomici",
@@ -4718,6 +4710,24 @@
       "note": ""
     },
     {
+      "id": 86,
+      "name": "Galluzzo in fiera",
+      "location": "Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "note": "",
+      "source_hash": "4368467cd5f0c967dac787c3ff464ee47eb757be9a270bb799657a5bb7393fda",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED"
+    },
+    {
       "id": 87,
       "name": "L'Angolo del Collezionista a Siena",
       "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
@@ -4770,6 +4780,24 @@
       "note": ""
     },
     {
+      "id": 25,
+      "name": "Collezionare in Dalmazia",
+      "location": "Piazza Dalmazia, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-dalmazia.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-11-22",
+          "2026-11-22"
+        ]
+      ],
+      "note": "",
+      "source_hash": "5eeea50d2df88a782df0888bed1925c9429fec1a83e924e50396d582d808192b",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED"
+    },
+    {
       "name": "Il Desco",
       "url": "https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html",
       "category": "Eventi enogastronomici",
@@ -4783,6 +4811,22 @@
       "modified_at": "20261025T095459Z",
       "status": "CONFIRMED",
       "location": "Lucca (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino di Piazza dei Ciompi",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "7434e3d3da232d70f5be094e828bf570b64fab41a52be0d3fe29a85567b9e3e8",
+      "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4818,5 +4862,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261029T113616Z"
+  "updated_at": "20261030T112757Z"
 }
