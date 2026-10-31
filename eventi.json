@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-30",
+  "extracted_at": "2026-10-31",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "page": 10,
-      "count": 3
+      "count": 7
     }
   ],
   "events": [
@@ -3076,22 +3076,6 @@
       "note": ""
     },
     {
-      "name": "Mercatini in Val d'Orcia",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-10-24",
-          "2026-10-24"
-        ]
-      ],
-      "source_hash": "818e9999ce4d576ec5f4bb35fb8de7468ab628c533f52fd5c4be5f1d3af4784a",
-      "modified_at": "20261012T131831Z",
-      "status": "CONFIRMED",
-      "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
-      "note": ""
-    },
-    {
       "name": "Festa della Zucca",
       "url": "https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-della-zucca.html",
       "category": "Eventi enogastronomici",
@@ -4108,6 +4092,22 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Mercatini in Val d'Orcia",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "f6407df3c9bf9597c3f57f426206c96bc932199ff10019d3570d4a594548bb99",
+      "modified_at": "20261031T105851Z",
+      "status": "CONFIRMED",
+      "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra della Polenta",
       "url": "https://www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.html",
       "category": "Sagre gastronomiche",
@@ -4502,6 +4502,22 @@
       "note": ""
     },
     {
+      "name": "Il Mercato del Forte 2.0.",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/il-mercato-del-forte-bagno-a-ripoli.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "8d0b57da809bde1ce9e44c7265930ff10a0f12447006c408f53ad21f9434ba69",
+      "modified_at": "20261031T105851Z",
+      "status": "CONFIRMED",
+      "location": "Bagno a Ripoli (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Prato Antiquaria",
       "url": "https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html",
       "category": "Fiere e Mercati",
@@ -4566,6 +4582,22 @@
       "note": ""
     },
     {
+      "name": "Castagnata Stiana",
+      "url": "https://www.sagretoscane.com/sagre/ar/pratovecchio-stia/castagnata-stiana.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "1cda35917a52f0a88862e97ae085aa9c61ec9a6ac9bcd7b973fcf96a072b4dbc",
+      "modified_at": "20261031T105851Z",
+      "status": "CONFIRMED",
+      "location": "Pratovecchio Stia (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mondinata in piazza",
       "url": "https://www.sagretoscane.com/sagre/lu/pescaglia/mondinata-in-piazza-2.html",
       "category": "Sagre gastronomiche",
@@ -4627,6 +4659,22 @@
       "modified_at": "20261027T104139Z",
       "status": "CONFIRMED",
       "location": "Pietrasanta (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Fiera del Vinile, del Fumetto e del Collezionismo",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "aed817b80712c3da1ed898a222ba1d38623ae948ef0cd2936f1b34da8ef293d4",
+      "modified_at": "20261031T105851Z",
+      "status": "CONFIRMED",
+      "location": "Arezzo (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -4862,5 +4910,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261030T112757Z"
+  "updated_at": "20261031T105851Z"
 }

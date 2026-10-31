@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-10-30. 273 manifestazioni, 368 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-10-31. 276 manifestazioni, 371 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -252,7 +252,6 @@ Ultima modifica dati: 2026-10-30. 273 manifestazioni, 368 appuntamenti/periodi. 
 | [Sagra del Tordo](https://www.sagretoscane.com/sagre/si/montalcino/sagra-del-tordo.html) | 23/10/2026 | 25/10/2026 | Montalcino (SI), Toscana, Italia |  |
 | [Camaiore Antiqua](https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html) | 24/10/2026 | 24/10/2026 | Camaiore (LU), Toscana, Italia |  |
 | [Mostra Mercato del Tartufo Bianco](https://www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mostra-mercato-del-tartufo-bianco-montopoli-in-val-d-arno.html) | 24/10/2026 | 25/10/2026 | Montopoli in Val dʼArno (PI), Toscana, Italia |  |
-| [Mercatini in Val d'Orcia](https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html) | 24/10/2026 | 24/10/2026 | San Quirico dʼOrcia (SI), Toscana, Italia |  |
 | [Festa della Zucca](https://www.sagretoscane.com/rassegne/ar/foiano-della-chiana/festa-della-zucca.html) | 24/10/2026 | 25/10/2026 | Foiano della Chiana (AR), Toscana, Italia |  |
 | [Mostra Mercato del Tartufo Bianco e Nero](https://www.sagretoscane.com/rassegne/fi/barberino-di-mugello/mostra-mercato-del-tartufo-bianco-e-nero.html) | 24/10/2026 | 25/10/2026 | Barberino di Mugello (FI), Toscana, Italia |  |
 | [Tartufesta](https://www.sagretoscane.com/rassegne/fi/montaione/tartufesta.html) | 24/10/2026 | 25/10/2026 | Montaione (FI), Toscana, Italia |  |
@@ -321,6 +320,7 @@ Ultima modifica dati: 2026-10-30. 273 manifestazioni, 368 appuntamenti/periodi. 
 | [Fiera di Ognissanti](https://www.sagretoscane.com/fiere-mercati/lu/camaiore/fiera-di-ognissanti.html) | 01/11/2026 | 02/11/2026 | Camaiore (LU), Toscana, Italia |  |
 | [Festival del Riuso a Viareggio](https://www.sagretoscane.com/fiere-mercati/lu/viareggio/festival-del-riuso-viareggio.html) | 01/11/2026 | 01/11/2026 | Piazza Papa Paolo VI, Viareggio (LU), Toscana, Italia |  |
 | [Mercatino di Porsenna](https://www.sagretoscane.com/fiere-mercati/si/chiusi/mercatino-di-porsenna-chiusi.html) | 01/11/2026 | 01/11/2026 | Piazza Duomo e Via Porsenna, Chiusi (SI), Toscana, Italia |  |
+| [Mercatini in Val d'Orcia](https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html) | 01/11/2026 | 01/11/2026 | San Quirico dʼOrcia (SI), Toscana, Italia |  |
 | [Sagra della Polenta](https://www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.html) | 01/11/2026 | 01/11/2026 | Montemignaio (AR), Toscana, Italia |  |
 | [Sagra della Castagna e del Vino Dolce Novello](https://www.sagretoscane.com/sagre/ar/talla/sagra-della-castagna-e-del-vino-novello.html) | 01/11/2026 | 01/11/2026 | Talla (AR), Toscana, Italia |  |
 | [Castagnata nel Borgo](https://www.sagretoscane.com/sagre/ms/filattiera/festa-della-castagna-ponticello.html) | 01/11/2026 | 01/11/2026 | Filattiera (MS), Toscana, Italia |  |
@@ -350,14 +350,17 @@ Ultima modifica dati: 2026-10-30. 273 manifestazioni, 368 appuntamenti/periodi. 
 | [Sapori d'Autunno](https://www.sagretoscane.com/sagre/gr/massa-marittima/sagra-dei-sapori-d-autunno.html) | 07/11/2026 | 08/11/2026 | Massa Marittima (GR), Toscana, Italia |  |
 | [San Martino al Coccobrillo](https://www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuccoli.html) | 07/11/2026 | 07/11/2026 | Massarosa (LU), Toscana, Italia |  |
 | [Festa dei fuochi d'autunno](https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-100-ceppi.html) | 08/11/2026 | 08/11/2026 | Loro Ciuffenna (AR), Toscana, Italia |  |
+| [Il Mercato del Forte 2.0.](https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/il-mercato-del-forte-bagno-a-ripoli.html) | 08/11/2026 | 08/11/2026 | Bagno a Ripoli (FI), Toscana, Italia |  |
 | [Prato Antiquaria](https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html) | 08/11/2026 | 08/11/2026 | Prato (PO), Toscana, Italia |  |
 | [Oleum – L'olio di mare](https://www.sagretoscane.com/rassegne/li/san-vincenzo/oleum-l-olio-di-mare.html) | 08/11/2026 | 08/11/2026 | San Vincenzo (LI), Toscana, Italia |  |
 | [Casole DiVino](https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.html) | 08/11/2026 | 08/11/2026 | Casole dʼElsa (SI), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/ar/castel-san-niccolo/festa-della-castagna-cetica.html) | 08/11/2026 | 08/11/2026 | Castel San Niccolò (AR), Toscana, Italia |  |
+| [Castagnata Stiana](https://www.sagretoscane.com/sagre/ar/pratovecchio-stia/castagnata-stiana.html) | 08/11/2026 | 08/11/2026 | Pratovecchio Stia (AR), Toscana, Italia |  |
 | [Mondinata in piazza](https://www.sagretoscane.com/sagre/lu/pescaglia/mondinata-in-piazza-2.html) | 08/11/2026 | 08/11/2026 | Pescaglia (LU), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/pi/calcinaia/festa-della-castagna-fornacette.html) | 08/11/2026 | 08/11/2026 | Calcinaia (PI), Toscana, Italia |  |
 | [Le Castagne di San Martino](https://www.sagretoscane.com/sagre/po/vernio/festa-delle-bruciate-di-san-martino.html) | 08/11/2026 | 08/11/2026 | Vernio (PO), Toscana, Italia |  |
 | [PietrasantaKlaus – Mercatino di Natale in Versiliana](https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantaklaus-mercatino-di-natale-in-versiliana.html) | 13/11/2026 | 15/11/2026 | Pietrasanta (LU), Toscana, Italia |  |
+| [Fiera del Vinile, del Fumetto e del Collezionismo](https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html) | 14/11/2026 | 15/11/2026 | Arezzo (AR), Toscana, Italia |  |
 | [Hand Made MMXXVI – Le Eccellenze Artigiane](https://www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiiiv.html) | 14/11/2026 | 15/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Vintage Fest Pisa](https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html) | 14/11/2026 | 15/11/2026 | Pisa (PI), Toscana, Italia |  |
 | [Prim.Olio](https://www.sagretoscane.com/rassegne/fi/bagno-a-ripoli/prim-olio.html) | 14/11/2026 | 15/11/2026 | Bagno a Ripoli (FI), Toscana, Italia |  |

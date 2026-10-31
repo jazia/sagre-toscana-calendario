@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-30. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-10-31. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4779,25 +4779,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:bac91065abc58ee5d19ccbc0adb84475@sagre-toscana.jazia
-DTSTAMP:20261012T131831Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY;LANGUAGE=it:Mercatini in Val d'Orcia
-LOCATION:San Quirico dʼOrcia (SI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-va
- l-d-orcia-san-quirico-d-orcia.html\nLe date indicano i giorni della manife
- stazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed
-  eventuali variazioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercat
- ini-in-val-d-orcia-san-quirico-d-orcia.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:9b25708682bb5035d331c92e53ec61ce@sagre-toscana.jazia
 DTSTAMP:20261013T124722Z
 DTSTART;VALUE=DATE:20261024
@@ -6087,6 +6068,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:7bb86d2955b524933b7c561928d9ea69@sagre-toscana.jazia
+DTSTAMP:20261031T105851Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Mercatini in Val d'Orcia
+LOCATION:San Quirico dʼOrcia (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-va
+ l-d-orcia-san-quirico-d-orcia.html\nLe date indicano i giorni della manife
+ stazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed
+  eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercat
+ ini-in-val-d-orcia-san-quirico-d-orcia.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:fac90ef9a1a5c553e8fc2c3283818f52@sagre-toscana.jazia
 DTSTAMP:20261022T101849Z
 DTSTART;VALUE=DATE:20261101
@@ -6637,6 +6637,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:96948e35347d780dcac35637bfea53b5@sagre-toscana.jazia
+DTSTAMP:20261031T105851Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Il Mercato del Forte 2.0.
+LOCATION:Bagno a Ripoli (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/il-mercato-del-fort
+ e-bagno-a-ripoli.html\nLe date indicano i giorni della manifestazione\, no
+ n un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali va
+ riazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/il-mercato
+ -del-forte-bagno-a-ripoli.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:afa413d6ce655a13e4b12915d8267363@sagre-toscana.jazia
 DTSTAMP:20261030T112757Z
 DTSTART;VALUE=DATE:20261108
@@ -6713,6 +6732,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:00fdcf87889694d576fe45ddb4f43a57@sagre-toscana.jazia
+DTSTAMP:20261031T105851Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Castagnata Stiana
+LOCATION:Pratovecchio Stia (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/pratovecchio-stia/castagnata-stiana.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/sagre/ar/pratovecchio-stia/castagnata-stia
+ na.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:8f42e5be330598e69fcabaaf1f898990@sagre-toscana.jazia
 DTSTAMP:20261026T111552Z
 DTSTART;VALUE=DATE:20261108
@@ -6783,6 +6821,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantakl
  aus-mercatino-di-natale-in-versiliana.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4b0551cda43fbc716985cf4e824db4b9@sagre-toscana.jazia
+DTSTAMP:20261031T105851Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Fiera del Vinile\, del Fumetto e del Collezionismo
+LOCATION:Arezzo (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumett
+ o-e-collezionismo.html\nLe date indicano i giorni della manifestazione\, n
+ on un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali v
+ ariazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-d
+ el-fumetto-e-collezionismo.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
