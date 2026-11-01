@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-10-31. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-01. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -5914,6 +5914,63 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:36506451d77d157ae4d375bb3fd4c1e6@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-mont
+ uliveto.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9f44c3ab93a946fdb054ec9dcfbf9ae5@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-mont
+ uliveto.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a9f32edf8ea9ec2e3b952325d26ea7@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-mont
+ uliveto.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:633509d7be8c3f814e885ca13f7650e8@sagre-toscana.jazia
 DTSTAMP:20261029T113616Z
 DTSTART;VALUE=DATE:20261101
@@ -6043,6 +6100,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  la scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/lu/viareggio/festival-del-ri
  uso-viareggio.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c90d7faf13a2554532e4fe1ad1955213@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Mercato della Terra di Lunigiana
+LOCATION:Pontremoli (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ms/pontremoli/mercati-della-terra-lun
+ igiana-pontremoli.html\nLe date indicano i giorni della manifestazione\, n
+ on un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali v
+ ariazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ms/pontremoli/mercati-della-
+ terra-lunigiana-pontremoli.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:78fb5509ef0fe3297e8881252a3cb22c@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=it:Curiosando e Riciclando
+LOCATION:Buggiano (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pt/buggiano/curiosando-e-riciclando.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pt/buggiano/curiosando-e-ric
+ iclando.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6637,6 +6732,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:a8fb5080c3fe99cd5650377c538ef532@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Fiera d'Autunno a Camucia
+LOCATION:Cortona (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/cortona/fiera-d-autunno-camucia.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/cortona/fiera-d-autunno-c
+ amucia.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:96948e35347d780dcac35637bfea53b5@sagre-toscana.jazia
 DTSTAMP:20261031T105851Z
 DTSTART;VALUE=DATE:20261108
@@ -6802,6 +6916,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  cheda originale.
 URL:https://www.sagretoscane.com/sagre/po/vernio/festa-delle-bruciate-di-sa
  n-martino.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:d92e1b13abc75bf36ff1bc29ac86b6ae@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Sagra della Frugiata
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/pistoia/sagra-della-frugiata-sarripoli.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/sagre/pt/pistoia/sagra-della-frugiata-sarr
+ ipoli.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6977,6 +7110,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:ab577e43ef2de4a3f25686b65e61ae0d@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Festa d'Autunno
+LOCATION:Pistoia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pt/pistoia/festa-d-autunno-nell-aia.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/sagre/pt/pistoia/festa-d-autunno-nell-aia.
+ html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:65b7acc4ccdce2d0b511ad1fa67ede8c@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261124
+SUMMARY;LANGUAGE=it:Benvenuto Brunello
+LOCATION:Montalcino (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/montalcino/benvenuto-brunello.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/rassegne/si/montalcino/benvenuto-brunello.
+ html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:ab94b1fb9de2ad4d39a6d7265cd47166@sagre-toscana.jazia
 DTSTAMP:20261029T113616Z
 DTSTART;VALUE=DATE:20261121
@@ -7065,6 +7236,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piaz
  za-dei-ciompi.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:6b90b85bcbd136ebc84585071c4861f2@sagre-toscana.jazia
+DTSTAMP:20261101T115417Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Ponteccio – Il Paese degli alberi di Natale
+LOCATION:Sillano Giuncugnano (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-paese-deg
+ li-alberi-di-natale.html\nLe date indicano i giorni della manifestazione\,
+  non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali
+  variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-
+ paese-degli-alberi-di-natale.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

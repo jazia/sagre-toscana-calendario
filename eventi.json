@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-10-31",
+  "extracted_at": "2026-11-01",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,7 +40,11 @@
     },
     {
       "page": 10,
-      "count": 7
+      "count": 10
+    },
+    {
+      "page": 11,
+      "count": 2
     }
   ],
   "events": [
@@ -3954,6 +3958,30 @@
       "note": ""
     },
     {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ],
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ],
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "639fcd9715115f66d1bbb8cc1951f56a1a0c622b4eab44a689015d5dcb293069",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Pistoia (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 30,
       "name": "L’Angolo del Tempo",
       "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
@@ -4072,6 +4100,38 @@
       "source_hash": "177c72749ccfe9f4a208d338da70f31ef4b3ffc63ff05e036e70616d7aa1127f",
       "modified_at": "20261030T112757Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Mercato della Terra di Lunigiana",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ms/pontremoli/mercati-della-terra-lunigiana-pontremoli.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "1854c921645956f1e104b5c88479016b846e42a246d546ec89f527d21b0da417",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Pontremoli (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Curiosando e Riciclando",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/buggiano/curiosando-e-riciclando.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "source_hash": "7b651c358239fa33d5e8347dc9af99c4a58978fe709173b464e5a808d3254423",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Buggiano (PT), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 28,
@@ -4502,6 +4562,22 @@
       "note": ""
     },
     {
+      "name": "Fiera d'Autunno a Camucia",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/cortona/fiera-d-autunno-camucia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "55dde2878f17c1cc73c34d0b448bf7208eee668df8f75915b79d48a953baa83d",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Cortona (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Il Mercato del Forte 2.0.",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/il-mercato-del-forte-bagno-a-ripoli.html",
       "category": "Fiere e Mercati",
@@ -4643,6 +4719,22 @@
       "modified_at": "20261026T111552Z",
       "status": "CONFIRMED",
       "location": "Vernio (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sagra della Frugiata",
+      "url": "https://www.sagretoscane.com/sagre/pt/pistoia/sagra-della-frugiata-sarripoli.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "e8087a8b8187a98ea7dd8f396fe80f55222e77a51888cc98ca82323013928404",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Pistoia (PT), Toscana, Italia",
       "note": ""
     },
     {
@@ -4794,6 +4886,38 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Festa d'Autunno",
+      "url": "https://www.sagretoscane.com/sagre/pt/pistoia/festa-d-autunno-nell-aia.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "7677df3579e611ae09c2c4bd37e0b5fefbccdfe0a6c1fc693f080075aae03111",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Pistoia (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Benvenuto Brunello",
+      "url": "https://www.sagretoscane.com/rassegne/si/montalcino/benvenuto-brunello.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-19",
+          "2026-11-23"
+        ]
+      ],
+      "source_hash": "724812f06cafe7c6b3f26b67f5308af969e2f1855392704558d226ad2b1ffcda",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Montalcino (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 94,
       "name": "L'Angolo del Collezionista a Grosseto",
       "location": "Grosseto (GR), Toscana, Italia",
@@ -4878,6 +5002,22 @@
       "note": ""
     },
     {
+      "name": "Ponteccio – Il Paese degli alberi di Natale",
+      "url": "https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-paese-degli-alberi-di-natale.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "fd9623efc73d2948485261d1cbf20259232ef9b9e897c56867cd7a22f3f2a68a",
+      "modified_at": "20261101T115417Z",
+      "status": "CONFIRMED",
+      "location": "Sillano Giuncugnano (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Barga in Cioccolato",
       "url": "https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html",
       "category": "Eventi enogastronomici",
@@ -4910,5 +5050,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261031T105851Z"
+  "updated_at": "20261101T115417Z"
 }
