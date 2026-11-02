@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-01. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-02. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -6637,6 +6637,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:248fe52c4a7174c9fa733b11d01dd98e@sagre-toscana.jazia
+DTSTAMP:20261102T133848Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa delle Specialità al Tartufo
+LOCATION:Pontassieve (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialita-al-tart
+ ufo.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialit
+ a-al-tartufo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:0705832070f46009b29c0ffc65c650b7@sagre-toscana.jazia
+DTSTAMP:20261102T133848Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Festa delle Specialità al Tartufo
+LOCATION:Pontassieve (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialita-al-tart
+ ufo.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialit
+ a-al-tartufo.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:126e71a9a571282ac9827445c4172086@sagre-toscana.jazia
 DTSTAMP:20261016T095605Z
 DTSTART;VALUE=DATE:20261107
@@ -6827,6 +6865,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:dbc4d0d0d8b467a62c8b227a34c7fee1@sagre-toscana.jazia
+DTSTAMP:20261102T133848Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa d'Autunno
+LOCATION:Montepulciano (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/montepulciano/festa-d-autunno-montepulc
+ iano.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/rassegne/si/montepulciano/festa-d-autunno-
+ montepulciano.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:3dd6764e6a0f3ca9fd87785af5923113@sagre-toscana.jazia
 DTSTAMP:20261029T113616Z
 DTSTART;VALUE=DATE:20261108
@@ -6955,6 +7012,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantakl
  aus-mercatino-di-natale-in-versiliana.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac3b36ef4d1e350279003efceedc34d@sagre-toscana.jazia
+DTSTAMP:20261102T133848Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Estate di San Martino
+LOCATION:Castelnuovo Berardenga (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/si/castelnuovo-berardenga/estate-di-san-marti
+ no.html\nLe date indicano i giorni della manifestazione\, non un’apertur
+ a di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella
+  scheda originale.
+URL:https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/estate-di-
+ san-martino.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:faa83645188c11c17307ab5ed1b11a4b@sagre-toscana.jazia
+DTSTAMP:20261102T133848Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Rocca before Christmas
+LOCATION:Roccastrada (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/gr/roccastrada/rocca-before-christmas-roccate
+ derighi.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/feste/gr/roccastrada/rocca-before-christma
+ s-roccatederighi.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

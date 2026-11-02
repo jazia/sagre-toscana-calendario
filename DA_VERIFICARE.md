@@ -2,10 +2,10 @@
 
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
-- [Festa di Castagnatura](https://www.sagretoscane.com/sagre/ar/ortignano-raggiolo/festa-di-castagnatura.html): Data non valida.
 - [Florence Vintage Market](https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-vintage-market.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Fiera di novembre](https://www.sagretoscane.com/fiere-mercati/fi/fucecchio/fiera-di-novembre-fucecchio.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
+- [Festa della Castagna](https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Festa dell'Olio](https://www.sagretoscane.com/rassegne/po/montemurlo/festa-dell-olio.html): Date del programma discordanti con intestazione.
 - [Festa di San Martino](https://www.sagretoscane.com/feste/pt/buggiano/festa-di-san-martino-borgo-a-buggiano.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.

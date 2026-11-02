@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-01",
+  "extracted_at": "2026-11-02",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,18 +32,6 @@
     },
     {
       "page": 8,
-      "count": 10
-    },
-    {
-      "page": 9,
-      "count": 10
-    },
-    {
-      "page": 10,
-      "count": 10
-    },
-    {
-      "page": 11,
       "count": 2
     }
   ],
@@ -4494,6 +4482,26 @@
       "note": ""
     },
     {
+      "name": "Festa delle Specialità al Tartufo",
+      "url": "https://www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialita-al-tartufo.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ],
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "28b0c32b758d504cce9c487e854d8d7e96d68e7f0bed4321344e4f0f11bf7aa7",
+      "modified_at": "20261102T133848Z",
+      "status": "CONFIRMED",
+      "location": "Pontassieve (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Sagra del Tartufo Bianco, Nero e Tortello",
       "url": "https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html",
       "category": "Sagre gastronomiche",
@@ -4642,6 +4650,22 @@
       "note": ""
     },
     {
+      "name": "Festa d'Autunno",
+      "url": "https://www.sagretoscane.com/rassegne/si/montepulciano/festa-d-autunno-montepulciano.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "3f268b0da9b2afb9d975af67a4f615319abf9336907b24aaaa4390a1c9ea89c2",
+      "modified_at": "20261102T133848Z",
+      "status": "CONFIRMED",
+      "location": "Montepulciano (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa della Castagna",
       "url": "https://www.sagretoscane.com/sagre/ar/castel-san-niccolo/festa-della-castagna-cetica.html",
       "category": "Sagre gastronomiche",
@@ -4751,6 +4775,38 @@
       "modified_at": "20261027T104139Z",
       "status": "CONFIRMED",
       "location": "Pietrasanta (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Estate di San Martino",
+      "url": "https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/estate-di-san-martino.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-13",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "c808559a71f495f0bb38b97a225c0616d287ee3e63c13a47b5d23e12d1b07978",
+      "modified_at": "20261102T133848Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo Berardenga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Rocca before Christmas",
+      "url": "https://www.sagretoscane.com/feste/gr/roccastrada/rocca-before-christmas-roccatederighi.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "f3e5531e9c99c2c553c62f497375e5a48c26e94848d79294550a9c44c9265a4d",
+      "modified_at": "20261102T133848Z",
+      "status": "CONFIRMED",
+      "location": "Roccastrada (GR), Toscana, Italia",
       "note": ""
     },
     {
@@ -5050,5 +5106,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261101T115417Z"
+  "updated_at": "20261102T133848Z"
 }

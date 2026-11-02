@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-01. 284 manifestazioni, 381 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-02. 288 manifestazioni, 386 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -350,6 +350,8 @@ Ultima modifica dati: 2026-11-01. 284 manifestazioni, 381 appuntamenti/periodi. 
 | [Stravino](https://www.sagretoscane.com/rassegne/pt/quarrata/stravino-quarrata.html) | 07/11/2026 | 09/11/2026 | Forum Banca Alta Toscana, Vignole, Quarrata (PT), Toscana, Italia |  |
 | [Mostra Mercato del Tartufo Bianco delle Crete Senesi](https://www.sagretoscane.com/rassegne/si/montalcino/mostra-mercato-del-tartufo-bianco-delle-crete-senesi.html) | 07/11/2026 | 08/11/2026 | Montalcino (SI), Toscana, Italia |  |
 | [Mostra Mercato del Tartufo Bianco delle Crete Senesi](https://www.sagretoscane.com/rassegne/si/montalcino/mostra-mercato-del-tartufo-bianco-delle-crete-senesi.html) | 14/11/2026 | 15/11/2026 | Montalcino (SI), Toscana, Italia |  |
+| [Festa delle Specialità al Tartufo](https://www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialita-al-tartufo.html) | 07/11/2026 | 08/11/2026 | Pontassieve (FI), Toscana, Italia |  |
+| [Festa delle Specialità al Tartufo](https://www.sagretoscane.com/sagre/fi/pontassieve/festa-delle-specialita-al-tartufo.html) | 14/11/2026 | 15/11/2026 | Pontassieve (FI), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 07/11/2026 | 08/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |
 | [Sagra del Tartufo Bianco, Nero e Tortello](https://www.sagretoscane.com/sagre/fi/scarperia-e-san-piero/sagra-del-tartufo.html) | 14/11/2026 | 15/11/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |
 | [Sapori d'Autunno](https://www.sagretoscane.com/sagre/gr/massa-marittima/sagra-dei-sapori-d-autunno.html) | 07/11/2026 | 08/11/2026 | Massa Marittima (GR), Toscana, Italia |  |
@@ -360,6 +362,7 @@ Ultima modifica dati: 2026-11-01. 284 manifestazioni, 381 appuntamenti/periodi. 
 | [Prato Antiquaria](https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html) | 08/11/2026 | 08/11/2026 | Prato (PO), Toscana, Italia |  |
 | [Oleum – L'olio di mare](https://www.sagretoscane.com/rassegne/li/san-vincenzo/oleum-l-olio-di-mare.html) | 08/11/2026 | 08/11/2026 | San Vincenzo (LI), Toscana, Italia |  |
 | [Casole DiVino](https://www.sagretoscane.com/rassegne/si/casole-delsa/casole-divino.html) | 08/11/2026 | 08/11/2026 | Casole dʼElsa (SI), Toscana, Italia |  |
+| [Festa d'Autunno](https://www.sagretoscane.com/rassegne/si/montepulciano/festa-d-autunno-montepulciano.html) | 08/11/2026 | 08/11/2026 | Montepulciano (SI), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/ar/castel-san-niccolo/festa-della-castagna-cetica.html) | 08/11/2026 | 08/11/2026 | Castel San Niccolò (AR), Toscana, Italia |  |
 | [Castagnata Stiana](https://www.sagretoscane.com/sagre/ar/pratovecchio-stia/castagnata-stiana.html) | 08/11/2026 | 08/11/2026 | Pratovecchio Stia (AR), Toscana, Italia |  |
 | [Mondinata in piazza](https://www.sagretoscane.com/sagre/lu/pescaglia/mondinata-in-piazza-2.html) | 08/11/2026 | 08/11/2026 | Pescaglia (LU), Toscana, Italia |  |
@@ -367,6 +370,8 @@ Ultima modifica dati: 2026-11-01. 284 manifestazioni, 381 appuntamenti/periodi. 
 | [Le Castagne di San Martino](https://www.sagretoscane.com/sagre/po/vernio/festa-delle-bruciate-di-san-martino.html) | 08/11/2026 | 08/11/2026 | Vernio (PO), Toscana, Italia |  |
 | [Sagra della Frugiata](https://www.sagretoscane.com/sagre/pt/pistoia/sagra-della-frugiata-sarripoli.html) | 08/11/2026 | 08/11/2026 | Pistoia (PT), Toscana, Italia |  |
 | [PietrasantaKlaus – Mercatino di Natale in Versiliana](https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantaklaus-mercatino-di-natale-in-versiliana.html) | 13/11/2026 | 15/11/2026 | Pietrasanta (LU), Toscana, Italia |  |
+| [Estate di San Martino](https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/estate-di-san-martino.html) | 13/11/2026 | 15/11/2026 | Castelnuovo Berardenga (SI), Toscana, Italia |  |
+| [Rocca before Christmas](https://www.sagretoscane.com/feste/gr/roccastrada/rocca-before-christmas-roccatederighi.html) | 14/11/2026 | 15/11/2026 | Roccastrada (GR), Toscana, Italia |  |
 | [Fiera del Vinile, del Fumetto e del Collezionismo](https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html) | 14/11/2026 | 15/11/2026 | Arezzo (AR), Toscana, Italia |  |
 | [Hand Made MMXXVI – Le Eccellenze Artigiane](https://www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiiiv.html) | 14/11/2026 | 15/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Vintage Fest Pisa](https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html) | 14/11/2026 | 15/11/2026 | Pisa (PI), Toscana, Italia |  |
