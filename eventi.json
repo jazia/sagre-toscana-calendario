@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-02",
+  "extracted_at": "2026-11-03",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "page": 8,
-      "count": 2
+      "count": 1
     }
   ],
   "events": [
@@ -4495,8 +4495,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "28b0c32b758d504cce9c487e854d8d7e96d68e7f0bed4321344e4f0f11bf7aa7",
-      "modified_at": "20261102T133848Z",
+      "source_hash": "77fc24bf046740e6977b5c772ef5dd5b85993079e0c9a4ecaa87760e9d5719fe",
+      "modified_at": "20261103T125236Z",
       "status": "CONFIRMED",
       "location": "Pontassieve (FI), Toscana, Italia",
       "note": ""
@@ -4565,6 +4565,22 @@
       ],
       "source_hash": "723771b74665bb961906b1f0e20fc4d3e174f4c5fd8dac147970619b93724983",
       "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Loro Ciuffenna (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dei Fuochi d'Autunno",
+      "url": "https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-fuochi-d-autunno.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "e04702fd4098035eb66264129ed923897ca70fb89973198802d3470a9a721c98",
+      "modified_at": "20261103T125236Z",
       "status": "CONFIRMED",
       "location": "Loro Ciuffenna (AR), Toscana, Italia",
       "note": ""
@@ -5106,5 +5122,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261102T133848Z"
+  "updated_at": "20261103T125236Z"
 }

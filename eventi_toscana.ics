@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-02. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-03. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -6638,7 +6638,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:248fe52c4a7174c9fa733b11d01dd98e@sagre-toscana.jazia
-DTSTAMP:20261102T133848Z
+DTSTAMP:20261103T125236Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY;LANGUAGE=it:Festa delle Specialità al Tartufo
@@ -6657,7 +6657,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:0705832070f46009b29c0ffc65c650b7@sagre-toscana.jazia
-DTSTAMP:20261102T133848Z
+DTSTAMP:20261103T125236Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Festa delle Specialità al Tartufo
@@ -6764,6 +6764,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  iginale.
 URL:https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-100-cepp
  i.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:8eeac493e7b0ef4bbfee59e34a1579f6@sagre-toscana.jazia
+DTSTAMP:20261103T125236Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa dei Fuochi d'Autunno
+LOCATION:Loro Ciuffenna (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-fuochi-d-autunno.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-fuochi-d
+ -autunno.html
 CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

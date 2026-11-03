@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-02. 288 manifestazioni, 386 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-03. 289 manifestazioni, 387 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -357,6 +357,7 @@ Ultima modifica dati: 2026-11-02. 288 manifestazioni, 386 appuntamenti/periodi. 
 | [Sapori d'Autunno](https://www.sagretoscane.com/sagre/gr/massa-marittima/sagra-dei-sapori-d-autunno.html) | 07/11/2026 | 08/11/2026 | Massa Marittima (GR), Toscana, Italia |  |
 | [San Martino al Coccobrillo](https://www.sagretoscane.com/sagre/lu/massarosa/san-martino-a-massaciuccoli.html) | 07/11/2026 | 07/11/2026 | Massarosa (LU), Toscana, Italia |  |
 | [Festa dei fuochi d'autunno](https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-100-ceppi.html) | 08/11/2026 | 08/11/2026 | Loro Ciuffenna (AR), Toscana, Italia |  |
+| [Festa dei Fuochi d'Autunno](https://www.sagretoscane.com/feste/ar/loro-ciuffenna/festa-dei-fuochi-d-autunno.html) | 08/11/2026 | 08/11/2026 | Loro Ciuffenna (AR), Toscana, Italia |  |
 | [Fiera d'Autunno a Camucia](https://www.sagretoscane.com/fiere-mercati/ar/cortona/fiera-d-autunno-camucia.html) | 08/11/2026 | 08/11/2026 | Cortona (AR), Toscana, Italia |  |
 | [Il Mercato del Forte 2.0.](https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/il-mercato-del-forte-bagno-a-ripoli.html) | 08/11/2026 | 08/11/2026 | Bagno a Ripoli (FI), Toscana, Italia |  |
 | [Prato Antiquaria](https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html) | 08/11/2026 | 08/11/2026 | Prato (PO), Toscana, Italia |  |
