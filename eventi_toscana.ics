@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-03. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-04. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -6676,7 +6676,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:126e71a9a571282ac9827445c4172086@sagre-toscana.jazia
-DTSTAMP:20261016T095605Z
+DTSTAMP:20261104T130522Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco\, Nero e Tortello
@@ -6695,7 +6695,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:1b383231730921b54c5ffdf4713424e2@sagre-toscana.jazia
-DTSTAMP:20261016T095605Z
+DTSTAMP:20261104T130522Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Sagra del Tartufo Bianco\, Nero e Tortello
@@ -7123,6 +7123,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  dicano i giorni della manifestazione\, non un’apertura di 24 ore. Verifi
  care orari\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:267639fcf76ee5c34bd791d6cae7dee3@sagre-toscana.jazia
+DTSTAMP:20261104T130522Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY;LANGUAGE=it:Il Mercatino da Forte dei Marmi
+LOCATION:Monteroni dʼArbia (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/monteroni-darbia/mercatino-da-fort
+ e-dei-marmi-monteroni-d-arbia.html\nLe date indicano i giorni della manife
+ stazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed
+  eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/monteroni-darbia/mercatin
+ o-da-forte-dei-marmi-monteroni-d-arbia.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

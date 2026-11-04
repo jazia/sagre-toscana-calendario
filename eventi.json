@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-03",
+  "extracted_at": "2026-11-04",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "page": 8,
-      "count": 1
+      "count": 4
     }
   ],
   "events": [
@@ -4515,8 +4515,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "d71bda30fe40bcb459384595f4171d6123a9f6b62f8f906ee9e9161c2e1c8e6d",
-      "modified_at": "20261016T095605Z",
+      "source_hash": "c4f9d98074311c3be265bd050eae56c40249a47b7ea96fab9b497ce54ad5a456",
+      "modified_at": "20261104T130522Z",
       "status": "CONFIRMED",
       "location": "Scarperia e San Piero (FI), Toscana, Italia",
       "note": ""
@@ -4874,6 +4874,22 @@
       "note": ""
     },
     {
+      "name": "Il Mercatino da Forte dei Marmi",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/monteroni-darbia/mercatino-da-forte-dei-marmi-monteroni-d-arbia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-14"
+        ]
+      ],
+      "source_hash": "7c531b377629e1aa419f862bf5a4841ded001783614403394909de33477e4de9",
+      "modified_at": "20261104T130522Z",
+      "status": "CONFIRMED",
+      "location": "Monteroni dʼArbia (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Prim.Olio",
       "url": "https://www.sagretoscane.com/rassegne/fi/bagno-a-ripoli/prim-olio.html",
       "category": "Eventi enogastronomici",
@@ -5122,5 +5138,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261103T125236Z"
+  "updated_at": "20261104T130522Z"
 }

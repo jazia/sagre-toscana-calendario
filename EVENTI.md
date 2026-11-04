@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-03. 289 manifestazioni, 387 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-04. 290 manifestazioni, 388 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -376,6 +376,7 @@ Ultima modifica dati: 2026-11-03. 289 manifestazioni, 387 appuntamenti/periodi. 
 | [Fiera del Vinile, del Fumetto e del Collezionismo](https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html) | 14/11/2026 | 15/11/2026 | Arezzo (AR), Toscana, Italia |  |
 | [Hand Made MMXXVI – Le Eccellenze Artigiane](https://www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiiiv.html) | 14/11/2026 | 15/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Vintage Fest Pisa](https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html) | 14/11/2026 | 15/11/2026 | Pisa (PI), Toscana, Italia |  |
+| [Il Mercatino da Forte dei Marmi](https://www.sagretoscane.com/fiere-mercati/si/monteroni-darbia/mercatino-da-forte-dei-marmi-monteroni-d-arbia.html) | 14/11/2026 | 14/11/2026 | Monteroni dʼArbia (SI), Toscana, Italia |  |
 | [Prim.Olio](https://www.sagretoscane.com/rassegne/fi/bagno-a-ripoli/prim-olio.html) | 14/11/2026 | 15/11/2026 | Bagno a Ripoli (FI), Toscana, Italia |  |
 | [Castagnata Lorese](https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castagne-loro-ciuffenna.html) | 14/11/2026 | 15/11/2026 | Loro Ciuffenna (AR), Toscana, Italia |  |
 | [Tradizionale Fiera di Novembre](https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/tradizionale-fiera-di-novembre-galliano.html) | 15/11/2026 | 15/11/2026 | Barberino di Mugello (FI), Toscana, Italia |  |
