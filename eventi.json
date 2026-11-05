@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-04",
+  "extracted_at": "2026-11-05",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "page": 8,
-      "count": 4
+      "count": 5
     }
   ],
   "events": [
@@ -5106,6 +5106,22 @@
       "note": ""
     },
     {
+      "name": "L'Incanto del Natale",
+      "url": "https://www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-sinalunga.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "04274f8107530c44604c4fc776f8fd502507d8b09ec847fe2c4163824a7d8ebc",
+      "modified_at": "20261105T131852Z",
+      "status": "CONFIRMED",
+      "location": "Sinalunga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Barga in Cioccolato",
       "url": "https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html",
       "category": "Eventi enogastronomici",
@@ -5138,5 +5154,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261104T130522Z"
+  "updated_at": "20261105T131852Z"
 }

@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-04. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-05. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -7387,6 +7387,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
   variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-
  paese-degli-alberi-di-natale.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba0a164307ee373c1c7f30f29e67a69@sagre-toscana.jazia
+DTSTAMP:20261105T131852Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:L'Incanto del Natale
+LOCATION:Sinalunga (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-sinalunga.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-si
+ nalunga.html
 CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-04. 290 manifestazioni, 388 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-05. 291 manifestazioni, 389 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -390,5 +390,6 @@ Ultima modifica dati: 2026-11-04. 290 manifestazioni, 388 appuntamenti/periodi. 
 | [Il Desco](https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html) | 27/11/2026 | 29/11/2026 | Lucca (LU), Toscana, Italia |  |
 | [Mercatino di Piazza dei Ciompi](https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html) | 28/11/2026 | 29/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Ponteccio – Il Paese degli alberi di Natale](https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-paese-degli-alberi-di-natale.html) | 29/11/2026 | 29/11/2026 | Sillano Giuncugnano (LU), Toscana, Italia |  |
+| [L'Incanto del Natale](https://www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-sinalunga.html) | 05/12/2026 | 06/12/2026 | Sinalunga (SI), Toscana, Italia |  |
 | [Barga in Cioccolato](https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html) | 07/12/2026 | 08/12/2026 | Barga (LU), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Buonconvento](https://www.sagretoscane.com/fiere-mercati/si/buonconvento/l-angolo-del-collezionista-a-buonconvento.html) | 08/12/2026 | 08/12/2026 | Buonconvento (SI), Toscana, Italia |  |
