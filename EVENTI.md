@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-05. 291 manifestazioni, 389 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-06. 293 manifestazioni, 391 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -266,7 +266,6 @@ Ultima modifica dati: 2026-11-05. 291 manifestazioni, 389 appuntamenti/periodi. 
 | [RiCircolO - Mercato del Riuso](https://www.sagretoscane.com/fiere-mercati/fi/firenze/ricircolo-mercato-del-riuso.html) | 25/10/2026 | 25/10/2026 | Firenze (FI), Toscana, Italia |  |
 | [Santo Spirito in Fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html) | 25/10/2026 | 25/10/2026 | Piazza Santo Spirito, Firenze (FI), Toscana, Italia |  |
 | [Fiera dell’ottobre capannorese](https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-ottobre-capannorese-capannori.html) | 25/10/2026 | 25/10/2026 | Capannori (LU), Toscana, Italia |  |
-| [Pescia Antiqua](https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html) | 25/10/2026 | 25/10/2026 | Pescia (PT), Toscana, Italia |  |
 | [Festa dell'olio novo](https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html) | 25/10/2026 | 25/10/2026 | Scandicci (FI), Toscana, Italia |  |
 | [Camminata tra gli Olivi](https://www.sagretoscane.com/rassegne/fi/vinci/camminata-tra-gli-olivi-vinci.html) | 25/10/2026 | 25/10/2026 | Vinci (FI), Toscana, Italia |  |
 | [Castagnata in allegria](https://www.sagretoscane.com/rassegne/lu/gallicano/castagnata-in-allegria.html) | 25/10/2026 | 25/10/2026 | Gallicano (LU), Toscana, Italia |  |
@@ -332,6 +331,7 @@ Ultima modifica dati: 2026-11-05. 291 manifestazioni, 389 appuntamenti/periodi. 
 | [Castagnata nel Borgo](https://www.sagretoscane.com/sagre/ms/filattiera/festa-della-castagna-ponticello.html) | 08/11/2026 | 08/11/2026 | Filattiera (MS), Toscana, Italia |  |
 | [Festa delle Castagne](https://www.sagretoscane.com/sagre/ms/fivizzano/festa-delle-castagne-sassalbo.html) | 01/11/2026 | 01/11/2026 | Fivizzano (MS), Toscana, Italia |  |
 | [Festa dei Sapori d'Autunno](https://www.sagretoscane.com/sagre/po/carmignano/festa-dei-sapori-d-autunno.html) | 01/11/2026 | 01/11/2026 | Carmignano (PO), Toscana, Italia |  |
+| [Festa dell'Olio](https://www.sagretoscane.com/rassegne/fi/sesto-fiorentino/festa-dell-olio-sesto.html) | 05/11/2026 | 06/12/2026 | Sesto Fiorentino (FI), Toscana, Italia |  |
 | [Autumnia](https://www.sagretoscane.com/fiere-mercati/fi/figline-valdarno/autumnia.html) | 06/11/2026 | 08/11/2026 | Figline Valdarno (FI), Toscana, Italia |  |
 | [Mostra Mercato dell'Olio Extravergine d'Oliva](https://www.sagretoscane.com/rassegne/fi/calenzano/mostra-mercato-dell-olio-extravergine-d-oliva.html) | 06/11/2026 | 08/11/2026 | Calenzano (FI), Toscana, Italia |  |
 | [Santi Vinai](https://www.sagretoscane.com/rassegne/gr/pitigliano/santi-vinai.html) | 06/11/2026 | 08/11/2026 | Pitigliano (GR), Toscana, Italia |  |
@@ -386,7 +386,9 @@ Ultima modifica dati: 2026-11-05. 291 manifestazioni, 389 appuntamenti/periodi. 
 | [Benvenuto Brunello](https://www.sagretoscane.com/rassegne/si/montalcino/benvenuto-brunello.html) | 19/11/2026 | 23/11/2026 | Montalcino (SI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 21/11/2026 | 21/11/2026 | Grosseto (GR), Toscana, Italia |  |
 | [Mostra Mercato del Tartufo Bianco e Nero del Mugello](https://www.sagretoscane.com/rassegne/fi/borgo-san-lorenzo/mostra-mercato-del-tartufo-bianco-e-nero-del-mugello.html) | 21/11/2026 | 22/11/2026 | Borgo San Lorenzo (FI), Toscana, Italia |  |
+| [Mont'Olio](https://www.sagretoscane.com/rassegne/pt/monsummano/mont-olio-montevettolini.html) | 21/11/2026 | 22/11/2026 | Monsummano Terme (PT), Toscana, Italia |  |
 | [Collezionare in Dalmazia](https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-dalmazia.html) | 22/11/2026 | 22/11/2026 | Piazza Dalmazia, Firenze (FI), Toscana, Italia |  |
+| [Pescia Antiqua](https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html) | 22/11/2026 | 22/11/2026 | Pescia (PT), Toscana, Italia |  |
 | [Il Desco](https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html) | 27/11/2026 | 29/11/2026 | Lucca (LU), Toscana, Italia |  |
 | [Mercatino di Piazza dei Ciompi](https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html) | 28/11/2026 | 29/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Ponteccio – Il Paese degli alberi di Natale](https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-paese-degli-alberi-di-natale.html) | 29/11/2026 | 29/11/2026 | Sillano Giuncugnano (LU), Toscana, Italia |  |

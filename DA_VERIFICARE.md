@@ -2,6 +2,7 @@
 
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
+- [Sagra del Tortello, Polenta e Cinghiale](https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-tortello-polenta-e-cinghiale-pontassieve.html): Date del programma discordanti con intestazione.
 - [Florence Vintage Market](https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-vintage-market.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Fiera di novembre](https://www.sagretoscane.com/fiere-mercati/fi/fucecchio/fiera-di-novembre-fucecchio.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
@@ -10,6 +11,7 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Festa di San Martino](https://www.sagretoscane.com/feste/pt/buggiano/festa-di-san-martino-borgo-a-buggiano.html): Date del programma discordanti con intestazione.
 - [Festa dell’Olio Novo](https://www.sagretoscane.com/sagre/gr/manciano/festa-dell-olio-novo-marsiliana.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.
+- [Il Cigoli e il tartufo](https://www.sagretoscane.com/rassegne/pi/san-miniato/il-cigoli-e-il-tartufo.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Tortellini e trippa](https://www.sagretoscane.com/rassegne/pi/buti/tortellini-e-trippa-cascine-di-buti.html): Date del programma discordanti con intestazione.
 - [Weihnachtsmarkt, Mercato di Natale](https://www.sagretoscane.com/fiere-mercati/fi/firenze/weihnachtsmarkt-mercatino-di-natale-tedesco.html): Rassegna lunga: serve controllo del programma.

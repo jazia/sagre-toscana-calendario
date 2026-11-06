@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-05. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-06. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -5045,25 +5045,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:54c2ce669ba12822591513d13e9a62fd@sagre-toscana.jazia
-DTSTAMP:20261025T095459Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY;LANGUAGE=it:Pescia Antiqua
-LOCATION:Pescia (PT)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html\nLe dat
- e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
- rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
- le.
-URL:https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.htm
- l
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:fd134af29292b7617265b8bb60e9c59e@sagre-toscana.jazia
 DTSTAMP:20261006T120542Z
 DTSTART;VALUE=DATE:20261025
@@ -6296,6 +6277,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:93c825f1b9a76400072f7d016a2b2270@sagre-toscana.jazia
+DTSTAMP:20261106T130200Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Festa dell'Olio
+LOCATION:Sesto Fiorentino (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/sesto-fiorentino/festa-dell-olio-sesto.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/rassegne/fi/sesto-fiorentino/festa-dell-ol
+ io-sesto.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:f4322d8594cb0a596c42d94f4bcc9b01@sagre-toscana.jazia
 DTSTAMP:20261029T113616Z
 DTSTART;VALUE=DATE:20261106
@@ -7075,7 +7075,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0551cda43fbc716985cf4e824db4b9@sagre-toscana.jazia
-DTSTAMP:20261031T105851Z
+DTSTAMP:20261106T130200Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Fiera del Vinile\, del Fumetto e del Collezionismo
@@ -7319,6 +7319,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:e8b946e0babfaa678fffa877d4e51124@sagre-toscana.jazia
+DTSTAMP:20261106T130200Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Mont'Olio
+LOCATION:Monsummano Terme (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pt/monsummano/mont-olio-montevettolini.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/rassegne/pt/monsummano/mont-olio-montevett
+ olini.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7856c84b9603e51357e271ebc13258a2@sagre-toscana.jazia
 DTSTAMP:20261030T112757Z
 DTSTART;VALUE=DATE:20261122
@@ -7332,6 +7351,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  eda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-d
  almazia.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:69faa61243edc863e00cfd39c53f0cc0@sagre-toscana.jazia
+DTSTAMP:20261106T130200Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Pescia Antiqua
+LOCATION:Pescia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.htm
+ l
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

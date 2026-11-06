@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-05",
+  "extracted_at": "2026-11-06",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "page": 8,
-      "count": 5
+      "count": 10
     }
   ],
   "events": [
@@ -3280,22 +3280,6 @@
       "note": ""
     },
     {
-      "name": "Pescia Antiqua",
-      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "source_hash": "5c65cfa4b551c9da14ece127f245447320dc5688c7c92caea61e3be14452f4d9",
-      "modified_at": "20261025T095459Z",
-      "status": "CONFIRMED",
-      "location": "Pescia (PT), Toscana, Italia",
-      "note": ""
-    },
-    {
       "name": "Festa dell'olio novo",
       "url": "https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html",
       "category": "Eventi enogastronomici",
@@ -4240,6 +4224,22 @@
       "note": ""
     },
     {
+      "name": "Festa dell'Olio",
+      "url": "https://www.sagretoscane.com/rassegne/fi/sesto-fiorentino/festa-dell-olio-sesto.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-05",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "f2cb17402a2c4da0ac662d4afe1f9143d3897f9b59550730c50bb89b2c1eb7e5",
+      "modified_at": "20261106T130200Z",
+      "status": "CONFIRMED",
+      "location": "Sesto Fiorentino (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Autumnia",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/figline-valdarno/autumnia.html",
       "category": "Fiere e Mercati",
@@ -4835,8 +4835,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "aed817b80712c3da1ed898a222ba1d38623ae948ef0cd2936f1b34da8ef293d4",
-      "modified_at": "20261031T105851Z",
+      "source_hash": "6c07a97af5c6228587f3554f12c44c776b84350b56d0c4eb563d7c4720f00b91",
+      "modified_at": "20261106T130200Z",
       "status": "CONFIRMED",
       "location": "Arezzo (AR), Toscana, Italia",
       "note": ""
@@ -5040,6 +5040,22 @@
       "note": ""
     },
     {
+      "name": "Mont'Olio",
+      "url": "https://www.sagretoscane.com/rassegne/pt/monsummano/mont-olio-montevettolini.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-21",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "50b836641c2db17f7846757ae6794fcab041d702b62fdb92d45a4daf2df3ae3d",
+      "modified_at": "20261106T130200Z",
+      "status": "CONFIRMED",
+      "location": "Monsummano Terme (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 25,
       "name": "Collezionare in Dalmazia",
       "location": "Piazza Dalmazia, Firenze (FI), Toscana, Italia",
@@ -5056,6 +5072,22 @@
       "source_hash": "5eeea50d2df88a782df0888bed1925c9429fec1a83e924e50396d582d808192b",
       "modified_at": "20261030T112757Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Pescia Antiqua",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-22",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "45b298124b6ad97f0814453229d9752cf0f90df42e7e405e313eda995dbfa464",
+      "modified_at": "20261106T130200Z",
+      "status": "CONFIRMED",
+      "location": "Pescia (PT), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Il Desco",
@@ -5154,5 +5186,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261105T131852Z"
+  "updated_at": "20261106T130200Z"
 }
