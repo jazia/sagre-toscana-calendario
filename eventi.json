@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-06",
+  "extracted_at": "2026-11-07",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -33,6 +33,14 @@
     {
       "page": 8,
       "count": 10
+    },
+    {
+      "page": 9,
+      "count": 10
+    },
+    {
+      "page": 10,
+      "count": 4
     }
   ],
   "events": [
@@ -4428,6 +4436,22 @@
       "note": ""
     },
     {
+      "name": "Olio in Castello",
+      "url": "https://www.sagretoscane.com/rassegne/pi/buti/olio-in-castello-buti.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-07",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "8ca48f4d3ac888cb8340c95e7aad0cc676f3e27455afd813bc2f13775c97dad4",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Buti (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Assaggi d'Autunno",
       "url": "https://www.sagretoscane.com/rassegne/pi/santa-luce/assaggi-d-autunno.html",
       "category": "Eventi enogastronomici",
@@ -4586,6 +4610,22 @@
       "note": ""
     },
     {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/feste/lu/altopascio/festa-della-castagna-spianate.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "9444ccab8e1c063b78811b6986a02f7b90219f0d6e5560bd9a852b14582476a9",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Altopascio (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Fiera d'Autunno a Camucia",
       "url": "https://www.sagretoscane.com/fiere-mercati/ar/cortona/fiera-d-autunno-camucia.html",
       "category": "Fiere e Mercati",
@@ -4618,6 +4658,38 @@
       "note": ""
     },
     {
+      "name": "Empolissima d'Inverno",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/empoli/empolissima-d-inverno.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "18ac7a6ec50a6ccb1b5181ca3e05b3aac1e77c4f25723c0aee75143ca2e3d740",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Empoli (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Bio Mercato Mangiasano",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/impruneta/bio-mercatino-mangiasano.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "4065bc617a99e17bfaa0466484ff78af090138093a8e9c4eb04d7152555f2a44",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Impruneta (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Prato Antiquaria",
       "url": "https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.html",
       "category": "Fiere e Mercati",
@@ -4631,6 +4703,22 @@
       "modified_at": "20261030T112757Z",
       "status": "CONFIRMED",
       "location": "Prato (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Fiera di San Leonardo",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/torrita-di-siena/fiera-di-san-leonardo.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "ef6a0e73759ac6ed39c0953e2001c959f1233647338559c1a30bec41bf567ae9",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Torrita di Siena (SI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4679,6 +4767,22 @@
       "modified_at": "20261102T133848Z",
       "status": "CONFIRMED",
       "location": "Montepulciano (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "La Castagnata",
+      "url": "https://www.sagretoscane.com/rassegne/si/monteroni-darbia/la-castagnata-monteroni-d-arbia.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-08",
+          "2026-11-08"
+        ]
+      ],
+      "source_hash": "020c2a05f68ddcbd73ab97d12d874d51221549658bb916ea5e1c7718d7b5c523",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Monteroni dʼArbia (SI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4826,6 +4930,22 @@
       "note": ""
     },
     {
+      "name": "A tutto Autunno",
+      "url": "https://www.sagretoscane.com/feste/si/rapolano-terme/a-tutto-autunno.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "8afdba71bcd5605e40efe36bbe43b18b91030aaca256ccacb801944aed4f4eeb",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Rapolano Terme (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Fiera del Vinile, del Fumetto e del Collezionismo",
       "url": "https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html",
       "category": "Fiere e Mercati",
@@ -4835,8 +4955,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "6c07a97af5c6228587f3554f12c44c776b84350b56d0c4eb563d7c4720f00b91",
-      "modified_at": "20261106T130200Z",
+      "source_hash": "f0b628a5523930cf9a60bec49dc19319fc648e0efc3b5264863697cfb9155993",
+      "modified_at": "20261107T114826Z",
       "status": "CONFIRMED",
       "location": "Arezzo (AR), Toscana, Italia",
       "note": ""
@@ -4906,6 +5026,22 @@
       "note": ""
     },
     {
+      "name": "Salunta e Sapori d'Autunno",
+      "url": "https://www.sagretoscane.com/rassegne/fi/fiesole/salunta-e-sapori-d-autunno.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "d2d9d91668d71b8cd89c5e1f42aef6f7a845b7b169c1a36f558ee49944237a7e",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Fiesole (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Castagnata Lorese",
       "url": "https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castagne-loro-ciuffenna.html",
       "category": "Sagre gastronomiche",
@@ -4919,6 +5055,22 @@
       "modified_at": "20261025T095459Z",
       "status": "CONFIRMED",
       "location": "Loro Ciuffenna (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Ce l'ho con l'olio",
+      "url": "https://www.sagretoscane.com/sagre/fi/calenzano/ce-l-ho-con-l-olio.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "9129f5a4461098e35563ad8cdc4856a9388b2acda038840ae48f8dbb0035eb74",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Calenzano (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4954,6 +5106,38 @@
       "source_hash": "4368467cd5f0c967dac787c3ff464ee47eb757be9a270bb799657a5bb7393fda",
       "modified_at": "20261030T112757Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Castiglioncello in Fiera",
+      "url": "https://www.sagretoscane.com/fiere-mercati/li/rosignano-marittimo/castiglioncello-in-fiera.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "9e58b230f33e34fb80619fbf636fa126add067abceab557c54b2dec80389edce",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Rosignano Marittimo (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Tradizionale Fiera di Santa Cecilia",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/borgo-a-mozzano/tradizionale-fiera-di-santa-cecilia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "a6497f856759db0575fcee79fddc751db1a93728ff2eb670cf09d0aa9e6bc15f",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Borgo a Mozzano (LU), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 87,
@@ -5138,6 +5322,22 @@
       "note": ""
     },
     {
+      "name": "Mercato nel Campo",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/mercato-nel-campo.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-04",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "363337aeda9ab3dd5dcf013f1c20f69c245cc5bcc2e73dbcc98ec022ce4d03e7",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Siena (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "L'Incanto del Natale",
       "url": "https://www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-sinalunga.html",
       "category": "Feste e Folclore",
@@ -5170,6 +5370,22 @@
       "note": ""
     },
     {
+      "name": "Villaggio di Natale di Campocatino",
+      "url": "https://www.sagretoscane.com/feste/lu/vagli-sotto/villaggio-di-natale-di-campocatino.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "8fc1ed4e66236ec36e348a6f55c6b8c79f83cfdfb391b623bf95fa802b0e9943",
+      "modified_at": "20261107T114826Z",
+      "status": "CONFIRMED",
+      "location": "Vagli Sotto (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 115,
       "name": "L'Angolo del Collezionista a Buonconvento",
       "location": "Buonconvento (SI), Toscana, Italia",
@@ -5186,5 +5402,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261106T130200Z"
+  "updated_at": "20261107T114826Z"
 }

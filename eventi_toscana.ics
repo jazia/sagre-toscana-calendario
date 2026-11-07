@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-06. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-07. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -6560,6 +6560,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:d7354df8606ebe2cbbf193aa6ebcdde7@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Olio in Castello
+LOCATION:Buti (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pi/buti/olio-in-castello-buti.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/rassegne/pi/buti/olio-in-castello-buti.htm
+ l
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:0474abd96f4d9199f56a06641e5d581b@sagre-toscana.jazia
 DTSTAMP:20261029T113616Z
 DTSTART;VALUE=DATE:20261107
@@ -6789,6 +6808,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:e7a1ca7bf008a811290414cfeb3cfa4c@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Altopascio (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/lu/altopascio/festa-della-castagna-spianate.h
+ tml\nLe date indicano i giorni della manifestazione\, non un’apertura di
+  24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sch
+ eda originale.
+URL:https://www.sagretoscane.com/feste/lu/altopascio/festa-della-castagna-s
+ pianate.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:a8fb5080c3fe99cd5650377c538ef532@sagre-toscana.jazia
 DTSTAMP:20261101T115417Z
 DTSTART;VALUE=DATE:20261108
@@ -6827,6 +6865,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:a1dae3f5daf250107f7b5f702f22fc42@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Empolissima d'Inverno
+LOCATION:Empoli (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/empoli/empolissima-d-inverno.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/empoli/empolissima-d-inve
+ rno.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:67ac406a7e2e270959e9b25325abba55@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Bio Mercato Mangiasano
+LOCATION:Impruneta (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/impruneta/bio-mercatino-mangiasano
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/impruneta/bio-mercatino-m
+ angiasano.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:afa413d6ce655a13e4b12915d8267363@sagre-toscana.jazia
 DTSTAMP:20261030T112757Z
 DTSTART;VALUE=DATE:20261108
@@ -6840,6 +6916,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ale.
 URL:https://www.sagretoscane.com/fiere-mercati/po/prato/prato-antiquaria.ht
  ml
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c702fb6ad20e5e8844512a013b324d7e@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:Fiera di San Leonardo
+LOCATION:Torrita di Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/torrita-di-siena/fiera-di-san-leon
+ ardo.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/torrita-di-siena/fiera-di
+ -san-leonardo.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6897,6 +6992,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  la scheda originale.
 URL:https://www.sagretoscane.com/rassegne/si/montepulciano/festa-d-autunno-
  montepulciano.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:67fe979e60cb7696182c4dbd0a85afab@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY;LANGUAGE=it:La Castagnata
+LOCATION:Monteroni dʼArbia (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/monteroni-darbia/la-castagnata-monteron
+ i-d-arbia.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/si/monteroni-darbia/la-castagnata
+ -monteroni-d-arbia.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7074,8 +7188,27 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:8dc33d2af0682a476a059cba3eebaaad@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:A tutto Autunno
+LOCATION:Rapolano Terme (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/si/rapolano-terme/a-tutto-autunno.html\nLe da
+ te indicano i giorni della manifestazione\, non un’apertura di 24 ore. V
+ erificare orari\, prenotazioni ed eventuali variazioni nella scheda origin
+ ale.
+URL:https://www.sagretoscane.com/feste/si/rapolano-terme/a-tutto-autunno.ht
+ ml
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:4b0551cda43fbc716985cf4e824db4b9@sagre-toscana.jazia
-DTSTAMP:20261106T130200Z
+DTSTAMP:20261107T114826Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Fiera del Vinile\, del Fumetto e del Collezionismo
@@ -7166,6 +7299,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:b8d2414927a258539855e4bf3210ce53@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Salunta e Sapori d'Autunno
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/fiesole/salunta-e-sapori-d-autunno.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/rassegne/fi/fiesole/salunta-e-sapori-d-aut
+ unno.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:42de27ba4eef2462abd5257f88a8c3b3@sagre-toscana.jazia
 DTSTAMP:20261025T095459Z
 DTSTART;VALUE=DATE:20261114
@@ -7179,6 +7331,24 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
   nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castag
  ne-loro-ciuffenna.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:967fd042bfd6d168c2fba3185b221782@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Ce l'ho con l'olio
+LOCATION:Calenzano (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/calenzano/ce-l-ho-con-l-olio.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/sagre/fi/calenzano/ce-l-ho-con-l-olio.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7218,6 +7388,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ginale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera
  .html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a3ff56c69614ed6665d6a36bf96ad3f0@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Castiglioncello in Fiera
+LOCATION:Rosignano Marittimo (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/rosignano-marittimo/castiglioncell
+ o-in-fiera.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/rosignano-marittimo/casti
+ glioncello-in-fiera.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:c8b8cf726fbd631c07b07875d5608a47@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Tradizionale Fiera di Santa Cecilia
+LOCATION:Borgo a Mozzano (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/borgo-a-mozzano/tradizionale-fiera
+ -di-santa-cecilia.html\nLe date indicano i giorni della manifestazione\, n
+ on un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali v
+ ariazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/borgo-a-mozzano/tradizion
+ ale-fiera-di-santa-cecilia.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7431,6 +7639,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:3b78f8a761d7cb9ef70ad8e10d94a1ce@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Mercato nel Campo
+LOCATION:Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/siena/mercato-nel-campo.html\nLe d
+ ate indicano i giorni della manifestazione\, non un’apertura di 24 ore. 
+ Verificare orari\, prenotazioni ed eventuali variazioni nella scheda origi
+ nale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/siena/mercato-nel-campo.h
+ tml
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7ba0a164307ee373c1c7f30f29e67a69@sagre-toscana.jazia
 DTSTAMP:20261105T131852Z
 DTSTART;VALUE=DATE:20261205
@@ -7463,6 +7690,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  e.
 URL:https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:58b6dc96b9717e1e1485d4b08c9cb501@sagre-toscana.jazia
+DTSTAMP:20261107T114826Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Villaggio di Natale di Campocatino
+LOCATION:Vagli Sotto (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/lu/vagli-sotto/villaggio-di-natale-di-campoca
+ tino.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/feste/lu/vagli-sotto/villaggio-di-natale-d
+ i-campocatino.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
