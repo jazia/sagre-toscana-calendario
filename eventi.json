@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-07",
+  "extracted_at": "2026-11-08",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "page": 10,
-      "count": 4
+      "count": 3
     }
   ],
   "events": [
@@ -5402,5 +5402,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261107T114826Z"
+  "updated_at": "20261108T120002Z"
 }
