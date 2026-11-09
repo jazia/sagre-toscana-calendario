@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-08. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-09. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -6144,25 +6144,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:7bb86d2955b524933b7c561928d9ea69@sagre-toscana.jazia
-DTSTAMP:20261031T105851Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY;LANGUAGE=it:Mercatini in Val d'Orcia
-LOCATION:San Quirico dʼOrcia (SI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-va
- l-d-orcia-san-quirico-d-orcia.html\nLe date indicano i giorni della manife
- stazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed
-  eventuali variazioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercat
- ini-in-val-d-orcia-san-quirico-d-orcia.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:fac90ef9a1a5c553e8fc2c3283818f52@sagre-toscana.jazia
 DTSTAMP:20261022T101849Z
 DTSTART;VALUE=DATE:20261101
@@ -7131,6 +7112,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:2a3cd7b189b82303f9b4f300b43f4efa@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Bricolando
+LOCATION:Livorno (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/livorno/bricolando-livorno.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/livorno/bricolando-livorn
+ o.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:600c2ef12f747ee2ac51b35aafeaf25a@sagre-toscana.jazia
 DTSTAMP:20261027T104139Z
 DTSTART;VALUE=DATE:20261113
@@ -7208,7 +7208,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0551cda43fbc716985cf4e824db4b9@sagre-toscana.jazia
-DTSTAMP:20261107T114826Z
+DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Fiera del Vinile\, del Fumetto e del Collezionismo
@@ -7282,7 +7282,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:965e1bc8ae121efa26e982cbff2a8383@sagre-toscana.jazia
-DTSTAMP:20261029T113616Z
+DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Prim.Olio
@@ -7313,6 +7313,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/fi/fiesole/salunta-e-sapori-d-aut
  unno.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:309aa2af2bef2571d1db1e749e77662e@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY;LANGUAGE=it:Sapori d’autunno in borgo
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/pi/pisa/sapori-d-autunno-in-borgo.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/rassegne/pi/pisa/sapori-d-autunno-in-borgo
+ .html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:83790aa9104470292ad9d93d3f291162@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Festa di San Martino e dei Bringoli
+LOCATION:Anghiari (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/anghiari/festa-di-san-martino-e-dei-bringo
+ li.html\nLe date indicano i giorni della manifestazione\, non un’apertur
+ a di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella
+  scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/anghiari/festa-di-san-martino-e-d
+ ei-bringoli.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -7394,6 +7432,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:881133920591476092f680485f479306@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:San Martino Village
+LOCATION:Campo nell'Elba (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/campo-nell-elba/san-martino-villag
+ e-campo-nell-elba.html\nLe date indicano i giorni della manifestazione\, n
+ on un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali v
+ ariazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/campo-nell-elba/san-marti
+ no-village-campo-nell-elba.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:a3ff56c69614ed6665d6a36bf96ad3f0@sagre-toscana.jazia
 DTSTAMP:20261107T114826Z
 DTSTART;VALUE=DATE:20261115
@@ -7432,6 +7489,63 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:baf27ff5bdee5eeaffd7798a01e4f859@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Lugnano in soffitta
+LOCATION:Vicopisano (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pi/vicopisano/lugnano-in-soffitta.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/fiere-mercati/pi/vicopisano/lugnano-in-sof
+ fitta.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4dae40edddb470f23903927717865fc2@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Fiera VINTAGEmania
+LOCATION:Pescia (PT)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pt/pescia/fiera-vintage-mania.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/pt/pescia/fiera-vintage-mani
+ a.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:662556a2da695ea09d7695377fd24c64@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Autunno in Chianti
+LOCATION:Castellina in Chianti (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/autunno-in-c
+ hianti-castellina-in-chianti.html\nLe date indicano i giorni della manifes
+ tazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed 
+ eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/aut
+ unno-in-chianti-castellina-in-chianti.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:889bb4b3affa7636b9eaf488faa757b8@sagre-toscana.jazia
 DTSTAMP:20261025T095459Z
 DTSTART;VALUE=DATE:20261115
@@ -7446,6 +7560,43 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
  ionista-siena.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9edc64a82e947628f1352112e656fca4@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Varchi d'Olio
+LOCATION:Montevarchi (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/ar/montevarchi/varchi-d-olio.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/rassegne/ar/montevarchi/varchi-d-olio.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:6407a5fb9cf7afe5866edda363152028@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Festa dell’Olio e dei prodotti del territorio
+LOCATION:Capraia e Limite (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/capraia-e-limite/festa-dell-olio-castra
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/rassegne/fi/capraia-e-limite/festa-dell-ol
+ io-castra.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -7502,6 +7653,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-col
  lezionista-grosseto.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:98d7f9cf86557d5cf6bde6d768bc7229@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY;LANGUAGE=it:Mercatini in Val d'Orcia
+LOCATION:San Quirico dʼOrcia (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-va
+ l-d-orcia-san-quirico-d-orcia.html\nLe date indicano i giorni della manife
+ stazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed
+  eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercat
+ ini-in-val-d-orcia-san-quirico-d-orcia.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7601,6 +7771,82 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:7a86064c1df9a9b20f9dc9e009e6ddd1@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:La Fabbrica di Babbo Natale
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.
+ html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:da7b88efe3388621e3a9bb1a366aa17b@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:La Fabbrica di Babbo Natale
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.
+ html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:589420a6cc73afebe1ced0af117f2f4b@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+SUMMARY;LANGUAGE=it:La Fabbrica di Babbo Natale
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html\nLe 
+ date indicano i giorni della manifestazione\, non un’apertura di 24 ore.
+  Verificare orari\, prenotazioni ed eventuali variazioni nella scheda orig
+ inale.
+URL:https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.
+ html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa9b76c4ad9b3b38315390f715551d1@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Joulutori – Mercato di Natale Nordico
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/joulutori-mercato-di-natal
+ e-nordico.html\nLe date indicano i giorni della manifestazione\, non un’
+ apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazion
+ i nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/joulutori-mercato
+ -di-natale-nordico.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:f231ed6f3b2eea09756ca9fd63dfa1a4@sagre-toscana.jazia
 DTSTAMP:20261030T112757Z
 DTSTART;VALUE=DATE:20261128
@@ -7615,6 +7861,61 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piaz
  za-dei-ciompi.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3189ac4a75eb962d8f32675f74081ff4@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Antica Fiera di Carmignano
+LOCATION:Carmignano (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/po/carmignano/fiera-di-carmignano.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/fiere-mercati/po/carmignano/fiera-di-carmi
+ gnano.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:740fe009013bf299e88c350cf8570521@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY;LANGUAGE=it:Antica Fiera di Carmignano
+LOCATION:Carmignano (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/po/carmignano/fiera-di-carmignano.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/fiere-mercati/po/carmignano/fiera-di-carmi
+ gnano.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:32283e424106115ef26a294e5e8d89a4@sagre-toscana.jazia
+DTSTAMP:20261109T140148Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261201
+SUMMARY;LANGUAGE=it:MareDiVino e DiGusto
+LOCATION:Livorno (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/li/livorno/mare-di-vino.html\nLe date indi
+ cano i giorni della manifestazione\, non un’apertura di 24 ore. Verifica
+ re orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/li/livorno/mare-di-vino.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

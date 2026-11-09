@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-08",
+  "extracted_at": "2026-11-09",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,15 +32,7 @@
     },
     {
       "page": 8,
-      "count": 10
-    },
-    {
-      "page": 9,
-      "count": 10
-    },
-    {
-      "page": 10,
-      "count": 3
+      "count": 5
     }
   ],
   "events": [
@@ -4132,22 +4124,6 @@
       "status": "CONFIRMED"
     },
     {
-      "name": "Mercatini in Val d'Orcia",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-11-01",
-          "2026-11-01"
-        ]
-      ],
-      "source_hash": "f6407df3c9bf9597c3f57f426206c96bc932199ff10019d3570d4a594548bb99",
-      "modified_at": "20261031T105851Z",
-      "status": "CONFIRMED",
-      "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
-      "note": ""
-    },
-    {
       "name": "Sagra della Polenta",
       "url": "https://www.sagretoscane.com/sagre/ar/montemignaio/festa-della-polenta.html",
       "category": "Sagre gastronomiche",
@@ -4882,6 +4858,22 @@
       "note": ""
     },
     {
+      "name": "Bricolando",
+      "url": "https://www.sagretoscane.com/fiere-mercati/li/livorno/bricolando-livorno.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-13",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "fadf6edf4d967e2a8ade8ac9d5e9e4d7893dc16189861da4dac4345cdeb5c591",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Livorno (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "PietrasantaKlaus – Mercatino di Natale in Versiliana",
       "url": "https://www.sagretoscane.com/fiere-mercati/lu/pietrasanta/pietrasantaklaus-mercatino-di-natale-in-versiliana.html",
       "category": "Fiere e Mercati",
@@ -4955,8 +4947,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "f0b628a5523930cf9a60bec49dc19319fc648e0efc3b5264863697cfb9155993",
-      "modified_at": "20261107T114826Z",
+      "source_hash": "faa70f47112f5041940061a98a660fee0eef93cc975ea645fdca83ee6b13f5e2",
+      "modified_at": "20261109T140148Z",
       "status": "CONFIRMED",
       "location": "Arezzo (AR), Toscana, Italia",
       "note": ""
@@ -5019,8 +5011,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "a98392ca3fe5972f3a08d7343453fde7939c11a8b07c65c9afcb289219bdd975",
-      "modified_at": "20261029T113616Z",
+      "source_hash": "b5c448bda5356268f396107ab2a6c4f51712b21a65f9d3213cf6f64f5937bd8f",
+      "modified_at": "20261109T140148Z",
       "status": "CONFIRMED",
       "location": "Bagno a Ripoli (FI), Toscana, Italia",
       "note": ""
@@ -5039,6 +5031,38 @@
       "modified_at": "20261107T114826Z",
       "status": "CONFIRMED",
       "location": "Fiesole (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sapori d’autunno in borgo",
+      "url": "https://www.sagretoscane.com/rassegne/pi/pisa/sapori-d-autunno-in-borgo.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-14"
+        ]
+      ],
+      "source_hash": "6d1151f7fa8d3977bae941b63bc5fcdba2aa36b7980f8a4de46ecf55cbc7f2e8",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Pisa (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa di San Martino e dei Bringoli",
+      "url": "https://www.sagretoscane.com/sagre/ar/anghiari/festa-di-san-martino-e-dei-bringoli.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "c5f4a3b39e0b709f00cc334f93ee371f74c240cdba0f482c63d6e258e09984e6",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Anghiari (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -5108,6 +5132,22 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "San Martino Village",
+      "url": "https://www.sagretoscane.com/fiere-mercati/li/campo-nell-elba/san-martino-village-campo-nell-elba.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "25ad0afd0ae2ddad1d1df62a93b055ec7f6de8c03126f38b36e90c7618f7bd83",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Campo nell'Elba (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Castiglioncello in Fiera",
       "url": "https://www.sagretoscane.com/fiere-mercati/li/rosignano-marittimo/castiglioncello-in-fiera.html",
       "category": "Fiere e Mercati",
@@ -5140,6 +5180,54 @@
       "note": ""
     },
     {
+      "name": "Lugnano in soffitta",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/vicopisano/lugnano-in-soffitta.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "c214c2d141051b2ad48db8bf82e9e087f4f2fd1cf0d498cbf4d227a0a54c5496",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Vicopisano (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Fiera VINTAGEmania",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pescia/fiera-vintage-mania.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "1c5c0e843e7c55d5a1a99d70e526893d6d0fe5a06e7f195f83b5e9477c5ce446",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Pescia (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Autunno in Chianti",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/autunno-in-chianti-castellina-in-chianti.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "83574530616edeafdb3884f6d3c1a181ead3bb33007c660d9ab19ad23c517e3d",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Castellina in Chianti (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 87,
       "name": "L'Angolo del Collezionista a Siena",
       "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
@@ -5156,6 +5244,38 @@
       "source_hash": "9f0ac555fc8be0b8a2037632433473cfd05987bf0a3d84b40ac7fa172d519c71",
       "modified_at": "20261025T095459Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Varchi d'Olio",
+      "url": "https://www.sagretoscane.com/rassegne/ar/montevarchi/varchi-d-olio.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "51bbeeb368f1f95227e0135a4b40df417bed8ee0c6593d7bae75e5b3fb876503",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Montevarchi (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dell’Olio e dei prodotti del territorio",
+      "url": "https://www.sagretoscane.com/rassegne/fi/capraia-e-limite/festa-dell-olio-castra.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "3d7310c1a1f094c3e455c3533134c279dc3a8b7e73f202ad9ab33d58ddb75bef",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Capraia e Limite (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Festa d'Autunno",
@@ -5206,6 +5326,22 @@
       "source_hash": "2e498e8ea1e763607b4bc7045346642a0391fffb65a236380ba64dd88b26a433",
       "modified_at": "20261029T113616Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Mercatini in Val d'Orcia",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-21",
+          "2026-11-21"
+        ]
+      ],
+      "source_hash": "d5d3b1b2ec42cf9848a3ce94f1d1ea8df86b0543074f4a10786c5d32cdeebdc1",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Mostra Mercato del Tartufo Bianco e Nero del Mugello",
@@ -5290,6 +5426,46 @@
       "note": ""
     },
     {
+      "name": "La Fabbrica di Babbo Natale",
+      "url": "https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ],
+        [
+          "2026-12-04",
+          "2026-12-08"
+        ],
+        [
+          "2026-12-11",
+          "2026-12-13"
+        ]
+      ],
+      "source_hash": "cd3e32b6203adf1e8dfc529959e14c33020a1cd8e2e44669ec30973f6ce82bbc",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Pisa (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Joulutori – Mercato di Natale Nordico",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/joulutori-mercato-di-natale-nordico.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "02ad38809e6c41a873ae39a6e76f2d4dddf4df3c6454ef8cc862bc4fd0655df7",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercatino di Piazza dei Ciompi",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html",
       "category": "Fiere e Mercati",
@@ -5303,6 +5479,42 @@
       "modified_at": "20261030T112757Z",
       "status": "CONFIRMED",
       "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Antica Fiera di Carmignano",
+      "url": "https://www.sagretoscane.com/fiere-mercati/po/carmignano/fiera-di-carmignano.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ],
+        [
+          "2026-12-01",
+          "2026-12-01"
+        ]
+      ],
+      "source_hash": "2d8c8b0717ea9d366fb1c1b7e3818bc5a3ad21ffb888b2916aa5705cb70860cf",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Carmignano (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "MareDiVino e DiGusto",
+      "url": "https://www.sagretoscane.com/rassegne/li/livorno/mare-di-vino.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-30"
+        ]
+      ],
+      "source_hash": "24d978e315049ed4b09b612a9aafe05108466f74c817fab0862b09a08113ea36",
+      "modified_at": "20261109T140148Z",
+      "status": "CONFIRMED",
+      "location": "Livorno (LI), Toscana, Italia",
       "note": ""
     },
     {
@@ -5402,5 +5614,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261108T120002Z"
+  "updated_at": "20261109T140148Z"
 }
