@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-09. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-10. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -5007,25 +5007,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:7783c57827c0c64febf122604a8fd8f7@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY;LANGUAGE=it:Santo Spirito in Fiera
-LOCATION:Piazza Santo Spirito\, Firenze (FI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.htm
- l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
- 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
- a originale.
-URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-
- fiera.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:e0fd47ed0778677469db1f10d5cc72de@sagre-toscana.jazia
 DTSTAMP:20261014T101933Z
 DTSTART;VALUE=DATE:20261025
@@ -7208,10 +7189,10 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0551cda43fbc716985cf4e824db4b9@sagre-toscana.jazia
-DTSTAMP:20261109T140148Z
+DTSTAMP:20261110T133552Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
-SUMMARY;LANGUAGE=it:Fiera del Vinile\, del Fumetto e del Collezionismo
+SUMMARY;LANGUAGE=it:Fiera del Vinile\, del Fumetto e delle Carte da gioco
 LOCATION:Arezzo (AR)\, Toscana\, Italia
 DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  //www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumett
@@ -7489,6 +7470,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:9051909e158df7bac478e296995e0b14@sagre-toscana.jazia
+DTSTAMP:20261110T133552Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Mercatino del riuso a Pisa
+LOCATION:Pisa (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pi/pisa/fiera-del-riuso-pisa.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/fiere-mercati/pi/pisa/fiera-del-riuso-pisa
+ .html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:baf27ff5bdee5eeaffd7798a01e4f859@sagre-toscana.jazia
 DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261115
@@ -7729,6 +7729,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  eda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-d
  almazia.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ef73b2dc623c60902bc7749864947c@sagre-toscana.jazia
+DTSTAMP:20261110T133552Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Santo Spirito in Fiera
+LOCATION:Piazza Santo Spirito\, Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.htm
+ l\nLe date indicano i giorni della manifestazione\, non un’apertura di 2
+ 4 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sched
+ a originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-
+ fiera.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

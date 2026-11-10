@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-09. 319 manifestazioni, 420 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-10. 320 manifestazioni, 421 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -264,7 +264,6 @@ Ultima modifica dati: 2026-11-09. 319 manifestazioni, 420 appuntamenti/periodi. 
 | [Castagnata in piazza](https://www.sagretoscane.com/sagre/si/radicondoli/castagnata-in-piazza-radicondoli.html) | 24/10/2026 | 24/10/2026 | Radicondoli (SI), Toscana, Italia |  |
 | [Festa d'Autunno](https://www.sagretoscane.com/feste/ms/fosdinovo/festa-d-autunno-fosdinovo.html) | 25/10/2026 | 25/10/2026 | Fosdinovo (MS), Toscana, Italia |  |
 | [RiCircolO - Mercato del Riuso](https://www.sagretoscane.com/fiere-mercati/fi/firenze/ricircolo-mercato-del-riuso.html) | 25/10/2026 | 25/10/2026 | Firenze (FI), Toscana, Italia |  |
-| [Santo Spirito in Fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html) | 25/10/2026 | 25/10/2026 | Piazza Santo Spirito, Firenze (FI), Toscana, Italia |  |
 | [Fiera dell’ottobre capannorese](https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-ottobre-capannorese-capannori.html) | 25/10/2026 | 25/10/2026 | Capannori (LU), Toscana, Italia |  |
 | [Festa dell'olio novo](https://www.sagretoscane.com/rassegne/fi/scandicci/festa-dell-olio-novo-scandicci.html) | 25/10/2026 | 25/10/2026 | Scandicci (FI), Toscana, Italia |  |
 | [Camminata tra gli Olivi](https://www.sagretoscane.com/rassegne/fi/vinci/camminata-tra-gli-olivi-vinci.html) | 25/10/2026 | 25/10/2026 | Vinci (FI), Toscana, Italia |  |
@@ -380,7 +379,7 @@ Ultima modifica dati: 2026-11-09. 319 manifestazioni, 420 appuntamenti/periodi. 
 | [Estate di San Martino](https://www.sagretoscane.com/sagre/si/castelnuovo-berardenga/estate-di-san-martino.html) | 13/11/2026 | 15/11/2026 | Castelnuovo Berardenga (SI), Toscana, Italia |  |
 | [Rocca before Christmas](https://www.sagretoscane.com/feste/gr/roccastrada/rocca-before-christmas-roccatederighi.html) | 14/11/2026 | 15/11/2026 | Roccastrada (GR), Toscana, Italia |  |
 | [A tutto Autunno](https://www.sagretoscane.com/feste/si/rapolano-terme/a-tutto-autunno.html) | 14/11/2026 | 15/11/2026 | Rapolano Terme (SI), Toscana, Italia |  |
-| [Fiera del Vinile, del Fumetto e del Collezionismo](https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html) | 14/11/2026 | 15/11/2026 | Arezzo (AR), Toscana, Italia |  |
+| [Fiera del Vinile, del Fumetto e delle Carte da gioco](https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html) | 14/11/2026 | 15/11/2026 | Arezzo (AR), Toscana, Italia |  |
 | [Hand Made MMXXVI – Le Eccellenze Artigiane](https://www.sagretoscane.com/fiere-mercati/fi/firenze/hand-made-mmxxiiiv.html) | 14/11/2026 | 15/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Vintage Fest Pisa](https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html) | 14/11/2026 | 15/11/2026 | Pisa (PI), Toscana, Italia |  |
 | [Il Mercatino da Forte dei Marmi](https://www.sagretoscane.com/fiere-mercati/si/monteroni-darbia/mercatino-da-forte-dei-marmi-monteroni-d-arbia.html) | 14/11/2026 | 14/11/2026 | Monteroni dʼArbia (SI), Toscana, Italia |  |
@@ -395,6 +394,7 @@ Ultima modifica dati: 2026-11-09. 319 manifestazioni, 420 appuntamenti/periodi. 
 | [San Martino Village](https://www.sagretoscane.com/fiere-mercati/li/campo-nell-elba/san-martino-village-campo-nell-elba.html) | 15/11/2026 | 15/11/2026 | Campo nell'Elba (LI), Toscana, Italia |  |
 | [Castiglioncello in Fiera](https://www.sagretoscane.com/fiere-mercati/li/rosignano-marittimo/castiglioncello-in-fiera.html) | 15/11/2026 | 15/11/2026 | Rosignano Marittimo (LI), Toscana, Italia |  |
 | [Tradizionale Fiera di Santa Cecilia](https://www.sagretoscane.com/fiere-mercati/lu/borgo-a-mozzano/tradizionale-fiera-di-santa-cecilia.html) | 15/11/2026 | 15/11/2026 | Borgo a Mozzano (LU), Toscana, Italia |  |
+| [Mercatino del riuso a Pisa](https://www.sagretoscane.com/fiere-mercati/pi/pisa/fiera-del-riuso-pisa.html) | 15/11/2026 | 15/11/2026 | Pisa (PI), Toscana, Italia |  |
 | [Lugnano in soffitta](https://www.sagretoscane.com/fiere-mercati/pi/vicopisano/lugnano-in-soffitta.html) | 15/11/2026 | 15/11/2026 | Vicopisano (PI), Toscana, Italia |  |
 | [Fiera VINTAGEmania](https://www.sagretoscane.com/fiere-mercati/pt/pescia/fiera-vintage-mania.html) | 15/11/2026 | 15/11/2026 | Pescia (PT), Toscana, Italia |  |
 | [Autunno in Chianti](https://www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/autunno-in-chianti-castellina-in-chianti.html) | 15/11/2026 | 15/11/2026 | Castellina in Chianti (SI), Toscana, Italia |  |
@@ -408,6 +408,7 @@ Ultima modifica dati: 2026-11-09. 319 manifestazioni, 420 appuntamenti/periodi. 
 | [Mostra Mercato del Tartufo Bianco e Nero del Mugello](https://www.sagretoscane.com/rassegne/fi/borgo-san-lorenzo/mostra-mercato-del-tartufo-bianco-e-nero-del-mugello.html) | 21/11/2026 | 22/11/2026 | Borgo San Lorenzo (FI), Toscana, Italia |  |
 | [Mont'Olio](https://www.sagretoscane.com/rassegne/pt/monsummano/mont-olio-montevettolini.html) | 21/11/2026 | 22/11/2026 | Monsummano Terme (PT), Toscana, Italia |  |
 | [Collezionare in Dalmazia](https://www.sagretoscane.com/fiere-mercati/fi/firenze/collezionare-in-dalmazia.html) | 22/11/2026 | 22/11/2026 | Piazza Dalmazia, Firenze (FI), Toscana, Italia |  |
+| [Santo Spirito in Fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html) | 22/11/2026 | 22/11/2026 | Piazza Santo Spirito, Firenze (FI), Toscana, Italia |  |
 | [Pescia Antiqua](https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html) | 22/11/2026 | 22/11/2026 | Pescia (PT), Toscana, Italia |  |
 | [Il Desco](https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html) | 27/11/2026 | 29/11/2026 | Lucca (LU), Toscana, Italia |  |
 | [La Fabbrica di Babbo Natale](https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html) | 28/11/2026 | 29/11/2026 | Pisa (PI), Toscana, Italia |  |

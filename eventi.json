@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-09",
+  "extracted_at": "2026-11-10",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "page": 8,
-      "count": 5
+      "count": 6
     }
   ],
   "events": [
@@ -3248,22 +3248,6 @@
       "note": ""
     },
     {
-      "id": 109,
-      "name": "Santo Spirito in Fiera",
-      "location": "Piazza Santo Spirito, Firenze (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html",
-      "source_page": 11,
-      "periods": [
-        [
-          "2026-10-25",
-          "2026-10-25"
-        ]
-      ],
-      "note": "",
-      "source_hash": "8cb2725fe42f593ffcf5fab562b7b6354ccd2ab5aa7c4ed6ad7cc1d063ec061e"
-    },
-    {
       "name": "Fiera dell’ottobre capannorese",
       "url": "https://www.sagretoscane.com/fiere-mercati/lu/capannori/fiera-dell-ottobre-capannorese-capannori.html",
       "category": "Fiere e Mercati",
@@ -4938,7 +4922,7 @@
       "note": ""
     },
     {
-      "name": "Fiera del Vinile, del Fumetto e del Collezionismo",
+      "name": "Fiera del Vinile, del Fumetto e delle Carte da gioco",
       "url": "https://www.sagretoscane.com/fiere-mercati/ar/arezzo/fiera-del-vinile-del-fumetto-e-collezionismo.html",
       "category": "Fiere e Mercati",
       "periods": [
@@ -4947,8 +4931,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "faa70f47112f5041940061a98a660fee0eef93cc975ea645fdca83ee6b13f5e2",
-      "modified_at": "20261109T140148Z",
+      "source_hash": "279f7b1d0b264e1db65cc79fc238ca1b1383dbf739b9484d02f2fdc4f0995b11",
+      "modified_at": "20261110T133552Z",
       "status": "CONFIRMED",
       "location": "Arezzo (AR), Toscana, Italia",
       "note": ""
@@ -5180,6 +5164,22 @@
       "note": ""
     },
     {
+      "name": "Mercatino del riuso a Pisa",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/pisa/fiera-del-riuso-pisa.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-15",
+          "2026-11-15"
+        ]
+      ],
+      "source_hash": "5260cc1ef94a4d503e69afaddd2d8950db96eda545187dd16e36fc4331b9ec7b",
+      "modified_at": "20261110T133552Z",
+      "status": "CONFIRMED",
+      "location": "Pisa (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Lugnano in soffitta",
       "url": "https://www.sagretoscane.com/fiere-mercati/pi/vicopisano/lugnano-in-soffitta.html",
       "category": "Fiere e Mercati",
@@ -5391,6 +5391,24 @@
       "note": "",
       "source_hash": "5eeea50d2df88a782df0888bed1925c9429fec1a83e924e50396d582d808192b",
       "modified_at": "20261030T112757Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "id": 109,
+      "name": "Santo Spirito in Fiera",
+      "location": "Piazza Santo Spirito, Firenze (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/santo-spirito-in-fiera.html",
+      "source_page": 11,
+      "periods": [
+        [
+          "2026-11-22",
+          "2026-11-22"
+        ]
+      ],
+      "note": "",
+      "source_hash": "f8bc7fc8650ed56a684906c0e7f9260fec6528063035a61eb0d268d5092b28c0",
+      "modified_at": "20261110T133552Z",
       "status": "CONFIRMED"
     },
     {
@@ -5614,5 +5632,5 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     }
   ],
-  "updated_at": "20261109T140148Z"
+  "updated_at": "20261110T133552Z"
 }
