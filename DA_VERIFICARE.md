@@ -3,6 +3,7 @@
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
 - [Sagra del Tortello, Polenta e Cinghiale](https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-tortello-polenta-e-cinghiale-pontassieve.html): Date del programma discordanti con intestazione.
+- [Brocantage 3.0](https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.html): Date del programma discordanti con intestazione.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
 - [Festa della Castagna](https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Festa dell'Olio](https://www.sagretoscane.com/rassegne/po/montemurlo/festa-dell-olio.html): Date del programma discordanti con intestazione.
@@ -10,12 +11,15 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Festa dell’Olio Novo](https://www.sagretoscane.com/sagre/gr/manciano/festa-dell-olio-novo-marsiliana.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.
 - [Il Cigoli e il tartufo](https://www.sagretoscane.com/rassegne/pi/san-miniato/il-cigoli-e-il-tartufo.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [Sagra della Fettunta](https://www.sagretoscane.com/sagre/fi/impruneta/sagra-della-fettunta.html): Date del programma discordanti con intestazione.
 - [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Natale a Castelfalfi](https://www.sagretoscane.com/feste/fi/montaione/natale-a-castelfalfi.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [Natale a Sant'Angelo](https://www.sagretoscane.com/fiere-mercati/lu/lucca/natale-a-sant-angelo-in-campo.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Tortellini e trippa](https://www.sagretoscane.com/rassegne/pi/buti/tortellini-e-trippa-cascine-di-buti.html): Date del programma discordanti con intestazione.
 - [Weihnachtsmarkt, Mercato di Natale](https://www.sagretoscane.com/fiere-mercati/fi/firenze/weihnachtsmarkt-mercatino-di-natale-tedesco.html): Rassegna lunga: serve controllo del programma.
 - [Mercatini di Natale](https://www.sagretoscane.com/fiere-mercati/po/prato/mercatini-di-natale-prato.html): Intervallo non chiaro.
 - [La Baita di Babbo Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/la-baita-di-babbo-natale.html): Rassegna lunga: serve controllo del programma.
+- [Presepe Vivente di Equi Terme](https://www.sagretoscane.com/feste/ms/fivizzano/presepe-vivente-2.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Arezzo Città del Natale](https://www.sagretoscane.com/feste/ar/arezzo/mercatini-di-natale-arezzo.html): Intervallo a cavallo di due anni da verificare.
 - [Natale Castellano](https://www.sagretoscane.com/feste/fi/castelfiorentino/natale-a-castelfiorentino.html): Intervallo a cavallo di due anni da verificare.
 - [Destinazione Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/natale-a-montecatini-terme.html): Intervallo a cavallo di due anni da verificare.
