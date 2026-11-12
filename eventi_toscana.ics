@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-11. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-12. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -2454,25 +2454,6 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  a scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/impruneta/svuota-cantine-
  a-tavarnuzze.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:1b7880b22b37929693aba999bc5ccc47@sagre-toscana.jazia
-DTSTAMP:20261007T115120Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY;LANGUAGE=it:Brocantage 3.0
-LOCATION:Livorno (LI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.
- html\nLe date indicano i giorni della manifestazione\, non un’apertura d
- i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
- heda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-port
- a-a-mare.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7263,6 +7244,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:95b9c20f4bb8b8d5f4b344976693a4e1@sagre-toscana.jazia
+DTSTAMP:20261112T135225Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY;LANGUAGE=it:Brocantage 3.0
+LOCATION:Livorno (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-port
+ a-a-mare.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:fe953b1103c6852890bc89f2ec3f1fa0@sagre-toscana.jazia
 DTSTAMP:20261029T113616Z
 DTSTART;VALUE=DATE:20261114
@@ -7337,7 +7337,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:309aa2af2bef2571d1db1e749e77662e@sagre-toscana.jazia
-DTSTAMP:20261109T140148Z
+DTSTAMP:20261112T135225Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY;LANGUAGE=it:Sapori d’autunno in borgo
@@ -7356,7 +7356,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:83790aa9104470292ad9d93d3f291162@sagre-toscana.jazia
-DTSTAMP:20261109T140148Z
+DTSTAMP:20261112T135225Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY;LANGUAGE=it:Festa di San Martino e dei Bringoli
@@ -7692,6 +7692,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/si/montalcino/benvenuto-brunello.
  html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:019633a1cd689a8685920b82d792426b@sagre-toscana.jazia
+DTSTAMP:20261112T135225Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Festa della Trippa e del Fegatello
+LOCATION:Bientina (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/bientina/festa-della-trippa-e-del-fegatell
+ o-bientina.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/bientina/festa-della-trippa-e-del
+ -fegatello-bientina.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:600d348a03eb9b7e5a06fdc06780a67d@sagre-toscana.jazia
+DTSTAMP:20261112T135225Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261122
+SUMMARY;LANGUAGE=it:La Zuppa del Lago Perduto
+LOCATION:Bientina (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/bientina/la-zuppa-del-lago-perduto.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/sagre/pi/bientina/la-zuppa-del-lago-perdut
+ o.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -8199,6 +8237,63 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/il-salotto-del-ca
  rmine.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc6e5cfd6758ea9ea9da9449a05000c@sagre-toscana.jazia
+DTSTAMP:20261112T135225Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Mercatino di Natale
+LOCATION:San Godenzo (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/san-godenzo/mercatino-di-natale.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/san-godenzo/mercatino-di-
+ natale.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7b7dd11ae6fe04cf12e3860e15ec390d@sagre-toscana.jazia
+DTSTAMP:20261112T135225Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Mercatino Natalizio
+LOCATION:Scandicci (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/scandicci/natale-della-piana.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/scandicci/natale-della-pi
+ ana.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7cad25e77d57867828f72a944aeb3516@sagre-toscana.jazia
+DTSTAMP:20261112T135225Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Festa della Castagna
+LOCATION:Castel Focognano (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/ar/castel-focognano/sagra-della-castagna-card
+ a.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/sagre/ar/castel-focognano/sagra-della-cast
+ agna-carda.html
+CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

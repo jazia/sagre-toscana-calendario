@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-11",
+  "extracted_at": "2026-11-12",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -41,6 +41,10 @@
     {
       "page": 10,
       "count": 10
+    },
+    {
+      "page": 11,
+      "count": 4
     }
   ],
   "events": [
@@ -1425,22 +1429,6 @@
       "modified_at": "20261010T111452Z",
       "status": "CONFIRMED",
       "location": "Impruneta (FI), Toscana, Italia",
-      "note": ""
-    },
-    {
-      "name": "Brocantage 3.0",
-      "url": "https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-10-10",
-          "2026-10-10"
-        ]
-      ],
-      "source_hash": "3f18ee238a7055d7fac3793639a53adaec652115d763e97004aacc68f34c32a7",
-      "modified_at": "20261007T115120Z",
-      "status": "CONFIRMED",
-      "location": "Livorno (LI), Toscana, Italia",
       "note": ""
     },
     {
@@ -4992,6 +4980,22 @@
       "note": ""
     },
     {
+      "name": "Brocantage 3.0",
+      "url": "https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-14"
+        ]
+      ],
+      "source_hash": "64106c8697d638f3d4586f367de3c65453c3121f558b03f0bcf92b1e40969053",
+      "modified_at": "20261112T135225Z",
+      "status": "CONFIRMED",
+      "location": "Livorno (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Vintage Fest Pisa",
       "url": "https://www.sagretoscane.com/fiere-mercati/pi/pisa/pisa-vintage.html",
       "category": "Fiere e Mercati",
@@ -5065,8 +5069,8 @@
           "2026-11-14"
         ]
       ],
-      "source_hash": "6d1151f7fa8d3977bae941b63bc5fcdba2aa36b7980f8a4de46ecf55cbc7f2e8",
-      "modified_at": "20261109T140148Z",
+      "source_hash": "86626fdc671f9a2ece7245db39e9bc791bb60e8507e3859c2824a86ebe2afc12",
+      "modified_at": "20261112T135225Z",
       "status": "CONFIRMED",
       "location": "Pisa (PI), Toscana, Italia",
       "note": ""
@@ -5081,8 +5085,8 @@
           "2026-11-15"
         ]
       ],
-      "source_hash": "c5f4a3b39e0b709f00cc334f93ee371f74c240cdba0f482c63d6e258e09984e6",
-      "modified_at": "20261109T140148Z",
+      "source_hash": "427cdaea0de0c8de8bbb90594c1c8672ffed759d88990cc8bd6a5a0c83c502db",
+      "modified_at": "20261112T135225Z",
       "status": "CONFIRMED",
       "location": "Anghiari (AR), Toscana, Italia",
       "note": ""
@@ -5361,6 +5365,38 @@
       "modified_at": "20261101T115417Z",
       "status": "CONFIRMED",
       "location": "Montalcino (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa della Trippa e del Fegatello",
+      "url": "https://www.sagretoscane.com/sagre/pi/bientina/festa-della-trippa-e-del-fegatello-bientina.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-20",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "4a770aa58dbf9bf2d01346f695836cf33e6c452e69daed3e8e22ebea7a15d15d",
+      "modified_at": "20261112T135225Z",
+      "status": "CONFIRMED",
+      "location": "Bientina (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "La Zuppa del Lago Perduto",
+      "url": "https://www.sagretoscane.com/sagre/pi/bientina/la-zuppa-del-lago-perduto.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-20",
+          "2026-11-21"
+        ]
+      ],
+      "source_hash": "3e7ea90b6fd217b97def0cc7ece85fb6302321b393c3e42d8a765216fdbb9f75",
+      "modified_at": "20261112T135225Z",
+      "status": "CONFIRMED",
+      "location": "Bientina (PI), Toscana, Italia",
       "note": ""
     },
     {
@@ -5766,6 +5802,54 @@
       "note": ""
     },
     {
+      "name": "Mercatino di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/san-godenzo/mercatino-di-natale.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "c796da6089c8642ac1d860ae3f669f05835f2e919ba97ebf44c499a30b3abf03",
+      "modified_at": "20261112T135225Z",
+      "status": "CONFIRMED",
+      "location": "San Godenzo (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino Natalizio",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/scandicci/natale-della-piana.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "e0e39bf3f03a3c8fa1e01650c6864a7c422190e2e8fc5324f38686d73dd1abac",
+      "modified_at": "20261112T135225Z",
+      "status": "CONFIRMED",
+      "location": "Scandicci (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/ar/castel-focognano/sagra-della-castagna-carda.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "1b9b215d0561e5fddf5c5f0e4910916030761a394fe8a199c41130426edf7aa5",
+      "modified_at": "20261112T135225Z",
+      "status": "CONFIRMED",
+      "location": "Castel Focognano (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercato nel Campo",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/mercato-nel-campo.html",
       "category": "Fiere e Mercati",
@@ -5944,5 +6028,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261111T124802Z"
+  "updated_at": "20261112T135225Z"
 }

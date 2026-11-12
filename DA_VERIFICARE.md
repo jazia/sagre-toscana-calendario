@@ -3,7 +3,6 @@
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
 - [Sagra del Tortello, Polenta e Cinghiale](https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-tortello-polenta-e-cinghiale-pontassieve.html): Date del programma discordanti con intestazione.
-- [Brocantage 3.0](https://www.sagretoscane.com/fiere-mercati/li/livorno/brocantage-a-porta-a-mare.html): Date del programma discordanti con intestazione.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
 - [Festa della Castagna](https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Festa dell'Olio](https://www.sagretoscane.com/rassegne/po/montemurlo/festa-dell-olio.html): Date del programma discordanti con intestazione.
@@ -26,3 +25,4 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Natale a Montepulciano](https://www.sagretoscane.com/fiere-mercati/si/montepulciano/natale-a-montepulciano.html): Intervallo a cavallo di due anni da verificare.
 - [Empoli Città del Natale](https://www.sagretoscane.com/feste/fi/empoli/empoli-citta-del-natale.html): Intervallo a cavallo di due anni da verificare.
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.
+- [La Zuppa del Lago Perduto](https://www.sagretoscane.com/sagre/pi/pisa/la-zuppa-del-lago-perduto.html): Evento futuro non più nell’elenco: conservato, assenza non equivale ad annullamento.
