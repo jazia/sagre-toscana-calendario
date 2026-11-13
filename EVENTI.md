@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-12. 344 manifestazioni, 445 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-13. 345 manifestazioni, 448 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -391,6 +391,9 @@ Ultima modifica dati: 2026-11-12. 344 manifestazioni, 445 appuntamenti/periodi. 
 | [Festa di San Martino e dei Bringoli](https://www.sagretoscane.com/sagre/ar/anghiari/festa-di-san-martino-e-dei-bringoli.html) | 14/11/2026 | 15/11/2026 | Anghiari (AR), Toscana, Italia |  |
 | [Castagnata Lorese](https://www.sagretoscane.com/sagre/ar/loro-ciuffenna/sagra-delle-castagne-loro-ciuffenna.html) | 14/11/2026 | 15/11/2026 | Loro Ciuffenna (AR), Toscana, Italia |  |
 | [Ce l'ho con l'olio](https://www.sagretoscane.com/sagre/fi/calenzano/ce-l-ho-con-l-olio.html) | 14/11/2026 | 22/11/2026 | Calenzano (FI), Toscana, Italia |  |
+| [Mostra Mercato Nazionale del Tartufo Bianco](https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-tartufo-bianco.html) | 14/11/2026 | 15/11/2026 | San Miniato (PI), Toscana, Italia |  |
+| [Mostra Mercato Nazionale del Tartufo Bianco](https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-tartufo-bianco.html) | 21/11/2026 | 22/11/2026 | San Miniato (PI), Toscana, Italia |  |
+| [Mostra Mercato Nazionale del Tartufo Bianco](https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-tartufo-bianco.html) | 28/11/2026 | 29/11/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Tradizionale Fiera di Novembre](https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/tradizionale-fiera-di-novembre-galliano.html) | 15/11/2026 | 15/11/2026 | Barberino di Mugello (FI), Toscana, Italia |  |
 | [Chi Cerca Trova - Mercato Svuotacantine - Edizione Caccia al Tesoro](https://www.sagretoscane.com/fiere-mercati/fi/firenze/chi-cerca-trova-mercato-svuotacantine-firenze.html) | 15/11/2026 | 15/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Galluzzo in fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html) | 15/11/2026 | 15/11/2026 | Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia |  |

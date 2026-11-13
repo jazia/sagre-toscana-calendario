@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-12. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-13. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -7405,6 +7405,63 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
  e.
 URL:https://www.sagretoscane.com/sagre/fi/calenzano/ce-l-ho-con-l-olio.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:668876e32f2a6493ada84186ef61e61a@sagre-toscana.jazia
+DTSTAMP:20261113T131353Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY;LANGUAGE=it:Mostra Mercato Nazionale del Tartufo Bianco
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-t
+ artufo-bianco.html\nLe date indicano i giorni della manifestazione\, non u
+ n’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali varia
+ zioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazion
+ ale-del-tartufo-bianco.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:d576ef7d0c0c33423ad77b855ed0269f@sagre-toscana.jazia
+DTSTAMP:20261113T131353Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Mostra Mercato Nazionale del Tartufo Bianco
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-t
+ artufo-bianco.html\nLe date indicano i giorni della manifestazione\, non u
+ n’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali varia
+ zioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazion
+ ale-del-tartufo-bianco.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:97e4ba9a51639c805274abe5a787e5a8@sagre-toscana.jazia
+DTSTAMP:20261113T131353Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Mostra Mercato Nazionale del Tartufo Bianco
+LOCATION:San Miniato (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-t
+ artufo-bianco.html\nLe date indicano i giorni della manifestazione\, non u
+ n’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali varia
+ zioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazion
+ ale-del-tartufo-bianco.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

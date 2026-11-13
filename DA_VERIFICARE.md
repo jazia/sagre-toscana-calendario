@@ -2,6 +2,8 @@
 
 Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l’ultima versione verificata.
 
+- [Il Cigoli e il tartufo](https://www.sagretoscane.com/rassegne/pi/san-miniato/il-cigoli-e-il-tartufo.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [Sagra della Fettunta](https://www.sagretoscane.com/sagre/fi/impruneta/sagra-della-fettunta.html): Date del programma discordanti con intestazione.
 - [Sagra del Tortello, Polenta e Cinghiale](https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-tortello-polenta-e-cinghiale-pontassieve.html): Date del programma discordanti con intestazione.
 - [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/pi/chianni/sagra-del-cinghiale-chianni.html): Date del programma discordanti con intestazione.
 - [Festa della Castagna](https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-montuliveto.html): Giorni effettivi non ricavabili con certezza dal testo.
@@ -9,8 +11,6 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Festa di San Martino](https://www.sagretoscane.com/feste/pt/buggiano/festa-di-san-martino-borgo-a-buggiano.html): Date del programma discordanti con intestazione.
 - [Festa dell’Olio Novo](https://www.sagretoscane.com/sagre/gr/manciano/festa-dell-olio-novo-marsiliana.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.
-- [Il Cigoli e il tartufo](https://www.sagretoscane.com/rassegne/pi/san-miniato/il-cigoli-e-il-tartufo.html): Giorni effettivi non ricavabili con certezza dal testo.
-- [Sagra della Fettunta](https://www.sagretoscane.com/sagre/fi/impruneta/sagra-della-fettunta.html): Date del programma discordanti con intestazione.
 - [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Natale a Castelfalfi](https://www.sagretoscane.com/feste/fi/montaione/natale-a-castelfalfi.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Natale a Sant'Angelo](https://www.sagretoscane.com/fiere-mercati/lu/lucca/natale-a-sant-angelo-in-campo.html): Giorni effettivi non ricavabili con certezza dal testo.

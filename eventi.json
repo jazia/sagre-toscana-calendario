@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-12",
+  "extracted_at": "2026-11-13",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "page": 11,
-      "count": 4
+      "count": 5
     }
   ],
   "events": [
@@ -5124,6 +5124,30 @@
       "note": ""
     },
     {
+      "name": "Mostra Mercato Nazionale del Tartufo Bianco",
+      "url": "https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-tartufo-bianco.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-14",
+          "2026-11-15"
+        ],
+        [
+          "2026-11-21",
+          "2026-11-22"
+        ],
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "570cab29b57ac0f0102e9a4872492d5b8e583ce15d9ca9c092478500bdc358c0",
+      "modified_at": "20261113T131353Z",
+      "status": "CONFIRMED",
+      "location": "San Miniato (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Tradizionale Fiera di Novembre",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/tradizionale-fiera-di-novembre-galliano.html",
       "category": "Fiere e Mercati",
@@ -6028,5 +6052,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261112T135225Z"
+  "updated_at": "20261113T131353Z"
 }
