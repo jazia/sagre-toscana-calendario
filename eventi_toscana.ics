@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-15. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-16. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -8206,6 +8206,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:0847c0e17dc4dc1322a628b01fda141c@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Corsa dei Carretti a Fiano
+LOCATION:Certaldo (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/fi/certaldo/corsa-dei-carretti-a-fiano.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/feste/fi/certaldo/corsa-dei-carretti-a-fia
+ no.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:42452782381fd294c872859e03d009ef@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Festa del Caracuto
+LOCATION:Campo nell'Elba (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/li/campo-nell-elba/festa-del-caracuto.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/feste/li/campo-nell-elba/festa-del-caracut
+ o.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:6b90b85bcbd136ebc84585071c4861f2@sagre-toscana.jazia
 DTSTAMP:20261101T115417Z
 DTSTART;VALUE=DATE:20261129
@@ -8356,6 +8394,63 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:e3d03120882b7d7e819a2e16b0a96fe2@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Sagra del Cinghiale
+LOCATION:Suvereto (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suvereto.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suve
+ reto.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a99dbf8cecbd10759a715f25f4d7a507@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Sagra del Cinghiale
+LOCATION:Suvereto (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suvereto.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suve
+ reto.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:0cdd2dd9ad7556112519c861df2e3ff0@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Sagra del Cinghiale
+LOCATION:Suvereto (LI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suvereto.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suve
+ reto.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:3b78f8a761d7cb9ef70ad8e10d94a1ce@sagre-toscana.jazia
 DTSTAMP:20261107T114826Z
 DTSTART;VALUE=DATE:20261204
@@ -8427,6 +8522,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/atm
  osfere-d-inverno-in-palazzo.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:267149731cf13e2ee1cd2acccbab8474@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Mercatino dell’Immacolata
+LOCATION:Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/siena/mercatino-dell-immacolata.ht
+ ml\nLe date indicano i giorni della manifestazione\, non un’apertura di 
+ 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sche
+ da originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/siena/mercatino-dell-imma
+ colata.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb15f68e6bd51c0d747c46198aeb8ec@sagre-toscana.jazia
+DTSTAMP:20261116T134710Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Vinicoli
+LOCATION:Anghiari (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/ar/anghiari/vinicoli-anghiari.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/rassegne/ar/anghiari/vinicoli-anghiari.htm
+ l
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

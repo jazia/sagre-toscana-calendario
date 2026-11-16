@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-15",
+  "extracted_at": "2026-11-16",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -28,23 +28,7 @@
     },
     {
       "page": 7,
-      "count": 10
-    },
-    {
-      "page": 8,
-      "count": 10
-    },
-    {
-      "page": 9,
-      "count": 10
-    },
-    {
-      "page": 10,
-      "count": 10
-    },
-    {
-      "page": 11,
-      "count": 2
+      "count": 9
     }
   ],
   "events": [
@@ -5746,6 +5730,38 @@
       "note": ""
     },
     {
+      "name": "Corsa dei Carretti a Fiano",
+      "url": "https://www.sagretoscane.com/feste/fi/certaldo/corsa-dei-carretti-a-fiano.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "54965f9c4895b8194711e7b774fb0e2a75f88424a4c4a0a9771b38163463ffc6",
+      "modified_at": "20261116T134710Z",
+      "status": "CONFIRMED",
+      "location": "Certaldo (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa del Caracuto",
+      "url": "https://www.sagretoscane.com/feste/li/campo-nell-elba/festa-del-caracuto.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "50fa5fd45133fa997de90551846947803ecc45a62a2dec5420672d37712040de",
+      "modified_at": "20261116T134710Z",
+      "status": "CONFIRMED",
+      "location": "Campo nell'Elba (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Ponteccio – Il Paese degli alberi di Natale",
       "url": "https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-paese-degli-alberi-di-natale.html",
       "category": "Feste e Folclore",
@@ -5874,6 +5890,30 @@
       "note": ""
     },
     {
+      "name": "Sagra del Cinghiale",
+      "url": "https://www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suvereto.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ],
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ],
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "c845f2e1f32e88acacd432ee5bfa3aa58bb4937c26382ce60921dd5a90da0167",
+      "modified_at": "20261116T134710Z",
+      "status": "CONFIRMED",
+      "location": "Suvereto (LI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercato nel Campo",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/mercato-nel-campo.html",
       "category": "Fiere e Mercati",
@@ -5935,6 +5975,38 @@
       "modified_at": "20261111T124802Z",
       "status": "CONFIRMED",
       "location": "Scarperia e San Piero (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino dell’Immacolata",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/mercatino-dell-immacolata.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "8f0f9bdf10f1047d8171f53054d3c8c4086a914e6b5f7cd8bb35433a3e1fe013",
+      "modified_at": "20261116T134710Z",
+      "status": "CONFIRMED",
+      "location": "Siena (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Vinicoli",
+      "url": "https://www.sagretoscane.com/rassegne/ar/anghiari/vinicoli-anghiari.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "7bf2e8df025e7fdee3b472e69b49292d8a55420e9dde4c3b1a2ccb22d98cac6a",
+      "modified_at": "20261116T134710Z",
+      "status": "CONFIRMED",
+      "location": "Anghiari (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -6052,5 +6124,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261115T124958Z"
+  "updated_at": "20261116T134710Z"
 }
