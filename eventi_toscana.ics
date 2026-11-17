@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-16. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-17. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -7754,6 +7754,26 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:1b5a392bca3dc8998b040446193a648a@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Fiera del Disco\, Fumetti\, Carte da collezione e Video
+ giochi
+LOCATION:Grosseto (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/gr/grosseto/fiera-del-disco-fumetti-s
+ ubbuteo-figurine-e-manga.html\nLe date indicano i giorni della manifestazi
+ one\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed even
+ tuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/fiera-del-disco-
+ fumetti-subbuteo-figurine-e-manga.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:019633a1cd689a8685920b82d792426b@sagre-toscana.jazia
 DTSTAMP:20261112T135225Z
 DTSTART;VALUE=DATE:20261120
@@ -7830,6 +7850,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:16c7c866bc970ecaef4d89d5cd285be6@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY;LANGUAGE=it:Mercatino del vintage
+LOCATION:Aulla (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ms/aulla/mercatino-del-vintage.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/fiere-mercati/ms/aulla/mercatino-del-vinta
+ ge.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:98d7f9cf86557d5cf6bde6d768bc7229@sagre-toscana.jazia
 DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261121
@@ -7882,6 +7921,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/rassegne/pt/monsummano/mont-olio-montevett
  olini.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b2fb96576066dee69b43105e0081704d@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Mostra Scambio di cose vecchie e usate
+LOCATION:Castiglion Fiorentino (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/castiglion-fiorentino/mostra-scamb
+ io-di-cose-vecchie-e-usate.html\nLe date indicano i giorni della manifesta
+ zione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed ev
+ entuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/castiglion-fiorentino/mos
+ tra-scambio-di-cose-vecchie-e-usate.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -8189,6 +8247,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:5ae450012a728cbf29d2f6aecda75c0e@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Festival dell’Olio di Fiesole
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/fiesole/festival-dell-olio-fiesole.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/rassegne/fi/fiesole/festival-dell-olio-fie
+ sole.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:32283e424106115ef26a294e5e8d89a4@sagre-toscana.jazia
 DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261128
@@ -8375,6 +8452,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:4a3220db25f13f0372d929d5b4eff719@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Aspettando il Natale
+LOCATION:Signa (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/signa/mercatino-di-natale-di-oberd
+ rauburg.html\nLe date indicano i giorni della manifestazione\, non un’ap
+ ertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni 
+ nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/signa/mercatino-di-natale
+ -di-oberdrauburg.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7cad25e77d57867828f72a944aeb3516@sagre-toscana.jazia
 DTSTAMP:20261112T135225Z
 DTSTART;VALUE=DATE:20261129
@@ -8527,8 +8623,27 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:9b5f64240d1f0c75d930461760f9e87a@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Mercatini di Natale a Poggiole
+LOCATION:Vernio (PO)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/po/vernio/mercatini-di-natale-a-poggi
+ ole.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/po/vernio/mercatini-di-natal
+ e-a-poggiole.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:267149731cf13e2ee1cd2acccbab8474@sagre-toscana.jazia
-DTSTAMP:20261116T134710Z
+DTSTAMP:20261117T143900Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261209
 SUMMARY;LANGUAGE=it:Mercatino dell’Immacolata
@@ -8604,6 +8719,23 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:d7355786aaf2674871ff9df884d45d40@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Il CampaNatal
+LOCATION:Capannoli (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pi/capannoli/il-campanatal.html\nLe date indi
+ cano i giorni della manifestazione\, non un’apertura di 24 ore. Verifica
+ re orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/feste/pi/capannoli/il-campanatal.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:8682b11fa6a4ea5102cd4aacf0be7f37@sagre-toscana.jazia
 DTSTAMP:20261111T124802Z
 DTSTART;VALUE=DATE:20261206
@@ -8619,6 +8751,23 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/col
  lezionisti-in-piazza.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:8022ea3e5a4437dd99c81f4dba662a6e@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Natale a Fiesole
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/fi/fiesole/natale-a-fiesole.html\nLe date ind
+ icano i giorni della manifestazione\, non un’apertura di 24 ore. Verific
+ are orari\, prenotazioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/feste/fi/fiesole/natale-a-fiesole.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -8680,6 +8829,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:b818bb08d1319485fb7ad00a43011ed4@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY;LANGUAGE=it:Magia di Natale a San Casciano Val di Pesa
+LOCATION:San Casciano in Val di Pesa (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/san-casciano-in-val-di-pesa/magia-
+ di-natale-san-casciano-val-di-pesa.html\nLe date indicano i giorni della m
+ anifestazione\, non un’apertura di 24 ore. Verificare orari\, prenotazio
+ ni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/san-casciano-in-val-di-pe
+ sa/magia-di-natale-san-casciano-val-di-pesa.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:8e156cc7c0fd311f78fc7c5b27c2d5c9@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY;LANGUAGE=it:Mercatini di Natale
+LOCATION:Castiglione di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/castiglione-di-garfagnana/mercatin
+ i-di-natale-castiglione-di-garfagnana.html\nLe date indicano i giorni dell
+ a manifestazione\, non un’apertura di 24 ore. Verificare orari\, prenota
+ zioni ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/castiglione-di-garfagnana
+ /mercatini-di-natale-castiglione-di-garfagnana.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:f4c93106158328c700544feb3a2887a4@sagre-toscana.jazia
 DTSTAMP:20261111T124802Z
 DTSTART;VALUE=DATE:20261212
@@ -8693,6 +8880,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  iginale.
 URL:https://www.sagretoscane.com/fiere-mercati/pi/pisa/fashion-in-flair-pis
  a.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1d412211a1e111d32c76b55088c253e3@sagre-toscana.jazia
+DTSTAMP:20261117T143900Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY;LANGUAGE=it:Antica fiera del Ceppo
+LOCATION:Lucignano (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo
+ .html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

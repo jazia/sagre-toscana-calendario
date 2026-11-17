@@ -13,13 +13,17 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Natale a Sant'Angelo](https://www.sagretoscane.com/fiere-mercati/lu/lucca/natale-a-sant-angelo-in-campo.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Tortellini e trippa](https://www.sagretoscane.com/rassegne/pi/buti/tortellini-e-trippa-cascine-di-buti.html): Date del programma discordanti con intestazione.
 - [Weihnachtsmarkt, Mercato di Natale](https://www.sagretoscane.com/fiere-mercati/fi/firenze/weihnachtsmarkt-mercatino-di-natale-tedesco.html): Rassegna lunga: serve controllo del programma.
+- [Natale in Corso](https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/natale-in-corso.html): Date del programma discordanti con intestazione.
 - [Mercatini di Natale](https://www.sagretoscane.com/fiere-mercati/po/prato/mercatini-di-natale-prato.html): Intervallo non chiaro.
 - [La Baita di Babbo Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/la-baita-di-babbo-natale.html): Rassegna lunga: serve controllo del programma.
 - [Presepe Vivente di Equi Terme](https://www.sagretoscane.com/feste/ms/fivizzano/presepe-vivente-2.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Arezzo Città del Natale](https://www.sagretoscane.com/feste/ar/arezzo/mercatini-di-natale-arezzo.html): Intervallo a cavallo di due anni da verificare.
+- [I Presepi di Sovicille](https://www.sagretoscane.com/feste/si/sovicille/i-presepi-di-sovicille.html): Intervallo a cavallo di due anni da verificare.
+- [1000 Presepi](https://www.sagretoscane.com/feste/fi/palazzuolo-sul-senio/1000-presepi-per-palazzuolo.html): Intervallo a cavallo di due anni da verificare.
 - [Natale Castellano](https://www.sagretoscane.com/feste/fi/castelfiorentino/natale-a-castelfiorentino.html): Intervallo a cavallo di due anni da verificare.
 - [Destinazione Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/natale-a-montecatini-terme.html): Intervallo a cavallo di due anni da verificare.
 - [Natale a Montepulciano](https://www.sagretoscane.com/fiere-mercati/si/montepulciano/natale-a-montepulciano.html): Intervallo a cavallo di due anni da verificare.
 - [Empoli Città del Natale](https://www.sagretoscane.com/feste/fi/empoli/empoli-citta-del-natale.html): Intervallo a cavallo di due anni da verificare.
+- [Presepe Artistico](https://www.sagretoscane.com/feste/pi/san-miniato/presepe-artistico.html): Intervallo a cavallo di due anni da verificare.
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.
 - [La Zuppa del Lago Perduto](https://www.sagretoscane.com/sagre/pi/pisa/la-zuppa-del-lago-perduto.html): Evento futuro non più nell’elenco: conservato, assenza non equivale ad annullamento.

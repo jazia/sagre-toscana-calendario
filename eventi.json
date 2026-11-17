@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-16",
+  "extracted_at": "2026-11-17",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -28,7 +28,15 @@
     },
     {
       "page": 7,
-      "count": 9
+      "count": 10
+    },
+    {
+      "page": 8,
+      "count": 10
+    },
+    {
+      "page": 9,
+      "count": 4
     }
   ],
   "events": [
@@ -5376,6 +5384,22 @@
       "note": ""
     },
     {
+      "name": "Fiera del Disco, Fumetti, Carte da collezione e Videogiochi",
+      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/fiera-del-disco-fumetti-subbuteo-figurine-e-manga.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-20",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "9b6d77eebc16311cec6bf11a5b1475b242d6824e23f48d026809ae06748a1bb1",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Grosseto (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa della Trippa e del Fegatello",
       "url": "https://www.sagretoscane.com/sagre/pi/bientina/festa-della-trippa-e-del-fegatello-bientina.html",
       "category": "Sagre gastronomiche",
@@ -5442,6 +5466,22 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Mercatino del vintage",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ms/aulla/mercatino-del-vintage.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-21",
+          "2026-11-21"
+        ]
+      ],
+      "source_hash": "98ea4cd5c8695290072fd40cd69b0d21c5d8af207f96cb8030a7e84b9287a03c",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Aulla (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercatini in Val d'Orcia",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
       "category": "Fiere e Mercati",
@@ -5487,6 +5527,22 @@
       "modified_at": "20261106T130200Z",
       "status": "CONFIRMED",
       "location": "Monsummano Terme (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mostra Scambio di cose vecchie e usate",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/castiglion-fiorentino/mostra-scambio-di-cose-vecchie-e-usate.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-22",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "22d0d00053957099126d7e145484f59c4a4fc65b95dd28f31f6ef4d1dac3dafb",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Castiglion Fiorentino (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -5714,6 +5770,22 @@
       "note": ""
     },
     {
+      "name": "Festival dell’Olio di Fiesole",
+      "url": "https://www.sagretoscane.com/rassegne/fi/fiesole/festival-dell-olio-fiesole.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "acc710f8e16bcc7f2530dcbf6cb53dbdf7723044d56cb9bfad10590d2f45eef0",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Fiesole (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "MareDiVino e DiGusto",
       "url": "https://www.sagretoscane.com/rassegne/li/livorno/mare-di-vino.html",
       "category": "Eventi enogastronomici",
@@ -5874,6 +5946,22 @@
       "note": ""
     },
     {
+      "name": "Aspettando il Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/signa/mercatino-di-natale-di-oberdrauburg.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "c37db79b80ebb9bada769f9cc89e83cac61482cc83f2bad04975375514684d6f",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Signa (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa della Castagna",
       "url": "https://www.sagretoscane.com/sagre/ar/castel-focognano/sagra-della-castagna-carda.html",
       "category": "Sagre gastronomiche",
@@ -5978,6 +6066,22 @@
       "note": ""
     },
     {
+      "name": "Mercatini di Natale a Poggiole",
+      "url": "https://www.sagretoscane.com/fiere-mercati/po/vernio/mercatini-di-natale-a-poggiole.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "c47fd2bf8d4280dcd65b2241fb48b4ed7a1471d0a437c182a07185f1b14c67db",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Vernio (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercatino dell’Immacolata",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/mercatino-dell-immacolata.html",
       "category": "Fiere e Mercati",
@@ -5987,8 +6091,8 @@
           "2026-12-08"
         ]
       ],
-      "source_hash": "8f0f9bdf10f1047d8171f53054d3c8c4086a914e6b5f7cd8bb35433a3e1fe013",
-      "modified_at": "20261116T134710Z",
+      "source_hash": "85e51a1d02f1496a26f2bcd61870e55310751c73762966743911beb3c9acd155",
+      "modified_at": "20261117T143900Z",
       "status": "CONFIRMED",
       "location": "Siena (SI), Toscana, Italia",
       "note": ""
@@ -6042,6 +6146,22 @@
       "note": ""
     },
     {
+      "name": "Il CampaNatal",
+      "url": "https://www.sagretoscane.com/feste/pi/capannoli/il-campanatal.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "945988285b82eddcdca3b9d1eda8af0f28ed421acb8c20ed83fcd95859072729",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Capannoli (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 40,
       "name": "Collezionisti in Piazza",
       "location": "Centro storico di Scarperia, Scarperia e San Piero (FI), Toscana, Italia",
@@ -6058,6 +6178,22 @@
       "source_hash": "7d77c6c6151f9dc910a7b21f6aa012e27c888ec28a2f4c41a57c74e0225455a3",
       "modified_at": "20261111T124802Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Natale a Fiesole",
+      "url": "https://www.sagretoscane.com/feste/fi/fiesole/natale-a-fiesole.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-07",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "0dd4f25b911c2ac2a7391500cef32550cb48dd19b1a0a0f751d7b293618b6429",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Fiesole (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Barga in Cioccolato",
@@ -6108,6 +6244,38 @@
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
     },
     {
+      "name": "Magia di Natale a San Casciano Val di Pesa",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/san-casciano-in-val-di-pesa/magia-di-natale-san-casciano-val-di-pesa.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-12",
+          "2026-12-13"
+        ]
+      ],
+      "source_hash": "70cdd766d992c6a3556cd365d1d23672e6ecb2092415f2ea57d0cac387a49aef",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "San Casciano in Val di Pesa (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatini di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/castiglione-di-garfagnana/mercatini-di-natale-castiglione-di-garfagnana.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-12",
+          "2026-12-12"
+        ]
+      ],
+      "source_hash": "e8007d13ddce9463fd0c1b262e2ef2b6d36388f95d04c41fa082183d55435a6c",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Castiglione di Garfagnana (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Fashion in Flair – Regalo di Natale",
       "url": "https://www.sagretoscane.com/fiere-mercati/pi/pisa/fashion-in-flair-pisa.html",
       "category": "Fiere e Mercati",
@@ -6122,7 +6290,23 @@
       "status": "CONFIRMED",
       "location": "Pisa (PI), Toscana, Italia",
       "note": ""
+    },
+    {
+      "name": "Antica fiera del Ceppo",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-20",
+          "2026-12-20"
+        ]
+      ],
+      "source_hash": "a81c3c58a685fc0cf5b19a4e8958a8378fd53334cf77da9ce137c9384a6bc002",
+      "modified_at": "20261117T143900Z",
+      "status": "CONFIRMED",
+      "location": "Lucignano (AR), Toscana, Italia",
+      "note": ""
     }
   ],
-  "updated_at": "20261116T134710Z"
+  "updated_at": "20261117T143900Z"
 }
