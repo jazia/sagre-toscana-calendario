@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-17",
+  "extracted_at": "2026-11-19",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -36,7 +36,11 @@
     },
     {
       "page": 9,
-      "count": 4
+      "count": 10
+    },
+    {
+      "page": 10,
+      "count": 3
     }
   ],
   "events": [
@@ -3024,22 +3028,6 @@
       "note": ""
     },
     {
-      "name": "Camaiore Antiqua",
-      "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-10-24",
-          "2026-10-24"
-        ]
-      ],
-      "source_hash": "14c373609b928dca5b5e78fc678cb8bc9ddb861b9c9c11ad2ddca88e08ea2647",
-      "modified_at": "20261022T101849Z",
-      "status": "CONFIRMED",
-      "location": "Camaiore (LU), Toscana, Italia",
-      "note": ""
-    },
-    {
       "name": "Mostra Mercato del Tartufo Bianco",
       "url": "https://www.sagretoscane.com/fiere-mercati/pi/montopoli-in-val-darno/mostra-mercato-del-tartufo-bianco-montopoli-in-val-d-arno.html",
       "category": "Fiere e Mercati",
@@ -3924,24 +3912,6 @@
       "status": "CONFIRMED",
       "location": "Pistoia (PT), Toscana, Italia",
       "note": ""
-    },
-    {
-      "id": 30,
-      "name": "L’Angolo del Tempo",
-      "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-tempo-castelfiorentino.html",
-      "source_page": 3,
-      "periods": [
-        [
-          "2026-11-01",
-          "2026-11-01"
-        ]
-      ],
-      "note": "",
-      "source_hash": "f045da222812d8fd84967a557eb1498d5375ff7d2fcce8448375f5489b9a5018",
-      "modified_at": "20261029T113616Z",
-      "status": "CONFIRMED"
     },
     {
       "id": 112,
@@ -5482,6 +5452,22 @@
       "note": ""
     },
     {
+      "name": "Il Sabato nel Villaggio",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/il-sabato-nel-villaggio-castellina-in-chianti.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-21",
+          "2026-11-21"
+        ]
+      ],
+      "source_hash": "12f025eee0ae3169e2853bc6810db7d4c7c1426f5597e33722a52697b2721d40",
+      "modified_at": "20261119T143045Z",
+      "status": "CONFIRMED",
+      "location": "Castellina in Chianti (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercatini in Val d'Orcia",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/san-quirico-dorcia/mercatini-in-val-d-orcia-san-quirico-d-orcia.html",
       "category": "Fiere e Mercati",
@@ -5614,6 +5600,22 @@
       "note": ""
     },
     {
+      "name": "BientinAntiquaria",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/bientina/bientinantiquaria.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-22",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "ea6b7bcef4a21360429bea001c886fac281d1bb64e75140a2187608d42f5bdf0",
+      "modified_at": "20261119T143045Z",
+      "status": "CONFIRMED",
+      "location": "Bientina (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Pescia Antiqua",
       "url": "https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html",
       "category": "Fiere e Mercati",
@@ -5743,10 +5745,26 @@
           "2026-11-29"
         ]
       ],
-      "source_hash": "7434e3d3da232d70f5be094e828bf570b64fab41a52be0d3fe29a85567b9e3e8",
-      "modified_at": "20261030T112757Z",
+      "source_hash": "6d120f6b0bce9ea59f76a42bcb96c446f17fe036db4fd241a450584a78a1c73c",
+      "modified_at": "20261119T143045Z",
       "status": "CONFIRMED",
       "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Camaiore Antiqua",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-28"
+        ]
+      ],
+      "source_hash": "ead5dfbea7f7a05981a214c3a0ae9f1c8077fe49ed5ffb3ab89eda522a3fa929",
+      "modified_at": "20261119T143045Z",
+      "status": "CONFIRMED",
+      "location": "Camaiore (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -6034,6 +6052,22 @@
       "note": ""
     },
     {
+      "name": "Il Fuoco di San Nicolò",
+      "url": "https://www.sagretoscane.com/feste/ms/villafranca-in-lunigiana/il-fuoco-di-san-nicolo.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-05"
+        ]
+      ],
+      "source_hash": "4b82af804a333cb44e8da8abbfc3f7b340d21a5869e07d7a526e64a74b165d68",
+      "modified_at": "20261119T143045Z",
+      "status": "CONFIRMED",
+      "location": "Villafranca in Lunigiana (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "L'Incanto del Natale",
       "url": "https://www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-sinalunga.html",
       "category": "Feste e Folclore",
@@ -6160,6 +6194,24 @@
       "status": "CONFIRMED",
       "location": "Capannoli (PI), Toscana, Italia",
       "note": ""
+    },
+    {
+      "id": 30,
+      "name": "L’Angolo del Tempo",
+      "location": "Piazza Gramsci, Castelfiorentino (FI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-tempo-castelfiorentino.html",
+      "source_page": 3,
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ]
+      ],
+      "note": "",
+      "source_hash": "7ba39ffce23cd3c1f7688d89f3dcab9d9df1b22e7e922929ae9a03fb89bb9e97",
+      "modified_at": "20261119T143045Z",
+      "status": "CONFIRMED"
     },
     {
       "id": 40,
@@ -6292,6 +6344,22 @@
       "note": ""
     },
     {
+      "name": "Regnano il Paese dei 300 Presepi",
+      "url": "https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/regnano-il-paese-dei-300-presepi.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-13",
+          "2026-12-13"
+        ]
+      ],
+      "source_hash": "712e0eb95c6b7b7c3264586ae50edde5e1a89a444f0bfa4d76f576265c1028bf",
+      "modified_at": "20261119T143045Z",
+      "status": "CONFIRMED",
+      "location": "Casola in Lunigiana (MS), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Antica fiera del Ceppo",
       "url": "https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo.html",
       "category": "Fiere e Mercati",
@@ -6308,5 +6376,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261117T143900Z"
+  "updated_at": "20261119T143045Z"
 }

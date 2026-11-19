@@ -7,6 +7,7 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Sagra del Tortello, Polenta e Cinghiale](https://www.sagretoscane.com/sagre/fi/pontassieve/sagra-del-tortello-polenta-e-cinghiale-pontassieve.html): Date del programma discordanti con intestazione.
 - [Festa dell’Olio Novo](https://www.sagretoscane.com/sagre/gr/manciano/festa-dell-olio-novo-marsiliana.html): Date del programma discordanti con intestazione.
 - [Sagra dell'Hamburger Artigianale](https://www.sagretoscane.com/rassegne/fi/firenze/sagra-dell-hamburger-artigianale.html): Date del programma discordanti con intestazione.
+- [La Cinghialata](https://www.sagretoscane.com/rassegne/pi/buti/la-cinghialata.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Zaragustando](https://www.sagretoscane.com/sagre/gr/castellazzara/zaragustando.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Natale a Castelfalfi](https://www.sagretoscane.com/feste/fi/montaione/natale-a-castelfalfi.html): Giorni effettivi non ricavabili con certezza dal testo.
@@ -17,7 +18,9 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Mercatini di Natale](https://www.sagretoscane.com/fiere-mercati/po/prato/mercatini-di-natale-prato.html): Intervallo non chiaro.
 - [La Baita di Babbo Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/la-baita-di-babbo-natale.html): Rassegna lunga: serve controllo del programma.
 - [Presepe Vivente di Equi Terme](https://www.sagretoscane.com/feste/ms/fivizzano/presepe-vivente-2.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [Dicembre in Festa](https://www.sagretoscane.com/feste/li/san-vincenzo/dicembre-in-festa.html): Intervallo a cavallo di due anni da verificare.
 - [Arezzo Città del Natale](https://www.sagretoscane.com/feste/ar/arezzo/mercatini-di-natale-arezzo.html): Intervallo a cavallo di due anni da verificare.
+- [Natale a Castelnuovo](https://www.sagretoscane.com/feste/lu/castelnuovo-di-garfagnana/natale-a-castelnuovo.html): Intervallo a cavallo di due anni da verificare.
 - [I Presepi di Sovicille](https://www.sagretoscane.com/feste/si/sovicille/i-presepi-di-sovicille.html): Intervallo a cavallo di due anni da verificare.
 - [1000 Presepi](https://www.sagretoscane.com/feste/fi/palazzuolo-sul-senio/1000-presepi-per-palazzuolo.html): Intervallo a cavallo di due anni da verificare.
 - [Natale Castellano](https://www.sagretoscane.com/feste/fi/castelfiorentino/natale-a-castelfiorentino.html): Intervallo a cavallo di due anni da verificare.

@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-17. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-19. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -4722,25 +4722,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:740889126038898975e6c93535d934c2@sagre-toscana.jazia
-DTSTAMP:20261022T101849Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY;LANGUAGE=it:Camaiore Antiqua
-LOCATION:Camaiore (LU)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html\nLe
-  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
- . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
- ginale.
-URL:https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua
- .html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:dd373e14fe1cc7f9fccda4b05ca03ec4@sagre-toscana.jazia
 DTSTAMP:20261021T101803Z
 DTSTART;VALUE=DATE:20261024
@@ -5909,25 +5890,6 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/feste/pt/pistoia/festa-della-castagna-mont
  uliveto.html
 CATEGORIES:Feste e Folclore
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:633509d7be8c3f814e885ca13f7650e8@sagre-toscana.jazia
-DTSTAMP:20261029T113616Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY;LANGUAGE=it:L’Angolo del Tempo
-LOCATION:Piazza Gramsci\, Castelfiorentino (FI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-temp
- o-castelfiorentino.html\nLe date indicano i giorni della manifestazione\, 
- non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali 
- variazioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo
- -del-tempo-castelfiorentino.html
-CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -7869,6 +7831,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:152e92467dfd58f92423210c8f66bcea@sagre-toscana.jazia
+DTSTAMP:20261119T143045Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY;LANGUAGE=it:Il Sabato nel Villaggio
+LOCATION:Castellina in Chianti (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/il-sabato-ne
+ l-villaggio-castellina-in-chianti.html\nLe date indicano i giorni della ma
+ nifestazione\, non un’apertura di 24 ore. Verificare orari\, prenotazion
+ i ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/castellina-in-chianti/il-
+ sabato-nel-villaggio-castellina-in-chianti.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:98d7f9cf86557d5cf6bde6d768bc7229@sagre-toscana.jazia
 DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261121
@@ -8015,6 +7996,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  i nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/vinci/mercato-del-forte-s
  picchio-sovigliana.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe8458a4e46b69ba35bda9b3a0e5588@sagre-toscana.jazia
+DTSTAMP:20261119T143045Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:BientinAntiquaria
+LOCATION:Bientina (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/pi/bientina/bientinantiquaria.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/pi/bientina/bientinantiquari
+ a.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8191,7 +8191,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:f231ed6f3b2eea09756ca9fd63dfa1a4@sagre-toscana.jazia
-DTSTAMP:20261030T112757Z
+DTSTAMP:20261119T143045Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY;LANGUAGE=it:Mercatino di Piazza dei Ciompi
@@ -8203,6 +8203,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  la scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piaz
  za-dei-ciompi.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d28dc89853f8e687a54c6dd70f8c3c@sagre-toscana.jazia
+DTSTAMP:20261119T143045Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY;LANGUAGE=it:Camaiore Antiqua
+LOCATION:Camaiore (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua.html\nLe
+  date indicano i giorni della manifestazione\, non un’apertura di 24 ore
+ . Verificare orari\, prenotazioni ed eventuali variazioni nella scheda ori
+ ginale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/camaiore/camaiore-antiqua
+ .html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8585,6 +8604,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:1d2d7707a93d94b76521b0ac78727482@sagre-toscana.jazia
+DTSTAMP:20261119T143045Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY;LANGUAGE=it:Il Fuoco di San Nicolò
+LOCATION:Villafranca in Lunigiana (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/ms/villafranca-in-lunigiana/il-fuoco-di-san-n
+ icolo.html\nLe date indicano i giorni della manifestazione\, non un’aper
+ tura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni ne
+ lla scheda originale.
+URL:https://www.sagretoscane.com/feste/ms/villafranca-in-lunigiana/il-fuoco
+ -di-san-nicolo.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:7ba0a164307ee373c1c7f30f29e67a69@sagre-toscana.jazia
 DTSTAMP:20261105T131852Z
 DTSTART;VALUE=DATE:20261205
@@ -8736,6 +8774,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:68f1ad5daf82bdd2f9cdd1a32df6922c@sagre-toscana.jazia
+DTSTAMP:20261119T143045Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:L’Angolo del Tempo
+LOCATION:Piazza Gramsci\, Castelfiorentino (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo-del-temp
+ o-castelfiorentino.html\nLe date indicano i giorni della manifestazione\, 
+ non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali 
+ variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/castelfiorentino/l-angolo
+ -del-tempo-castelfiorentino.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:8682b11fa6a4ea5102cd4aacf0be7f37@sagre-toscana.jazia
 DTSTAMP:20261111T124802Z
 DTSTART;VALUE=DATE:20261206
@@ -8881,6 +8938,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/pi/pisa/fashion-in-flair-pis
  a.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:efb816ec11c12084ee196f2c4c2d63b7@sagre-toscana.jazia
+DTSTAMP:20261119T143045Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY;LANGUAGE=it:Regnano il Paese dei 300 Presepi
+LOCATION:Casola in Lunigiana (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/ms/casola-in-lunigiana/regnano-il-paese-dei-3
+ 00-presepi.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/regnano-il-pa
+ ese-dei-300-presepi.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
