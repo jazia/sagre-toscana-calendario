@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-19",
+  "extracted_at": "2026-11-20",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "page": 10,
-      "count": 3
+      "count": 5
     }
   ],
   "events": [
@@ -5745,8 +5745,8 @@
           "2026-11-29"
         ]
       ],
-      "source_hash": "6d120f6b0bce9ea59f76a42bcb96c446f17fe036db4fd241a450584a78a1c73c",
-      "modified_at": "20261119T143045Z",
+      "source_hash": "074c200ae3edb9d382d453d4eb4dbbe1c4e5d7ca1af095456113769bbb8207e3",
+      "modified_at": "20261120T140838Z",
       "status": "CONFIRMED",
       "location": "Firenze (FI), Toscana, Italia",
       "note": ""
@@ -6374,7 +6374,23 @@
       "status": "CONFIRMED",
       "location": "Lucignano (AR), Toscana, Italia",
       "note": ""
+    },
+    {
+      "name": "La Befana parte da Regnano",
+      "url": "https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/la-befana-parte-da-regnano.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2027-01-03",
+          "2027-01-03"
+        ]
+      ],
+      "source_hash": "c47e9f6dd8cd53fe983e27f86751158a770731073e1b2eb17e2cee1deee54870",
+      "modified_at": "20261120T140838Z",
+      "status": "CONFIRMED",
+      "location": "Casola in Lunigiana (MS), Toscana, Italia",
+      "note": ""
     }
   ],
-  "updated_at": "20261119T143045Z"
+  "updated_at": "20261120T140838Z"
 }

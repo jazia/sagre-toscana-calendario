@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-19. 365 manifestazioni, 470 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-20. 366 manifestazioni, 471 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -474,3 +474,4 @@ Ultima modifica dati: 2026-11-19. 365 manifestazioni, 470 appuntamenti/periodi. 
 | [Fashion in Flair – Regalo di Natale](https://www.sagretoscane.com/fiere-mercati/pi/pisa/fashion-in-flair-pisa.html) | 12/12/2026 | 13/12/2026 | Pisa (PI), Toscana, Italia |  |
 | [Regnano il Paese dei 300 Presepi](https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/regnano-il-paese-dei-300-presepi.html) | 13/12/2026 | 13/12/2026 | Casola in Lunigiana (MS), Toscana, Italia |  |
 | [Antica fiera del Ceppo](https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo.html) | 20/12/2026 | 20/12/2026 | Lucignano (AR), Toscana, Italia |  |
+| [La Befana parte da Regnano](https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/la-befana-parte-da-regnano.html) | 03/01/2027 | 03/01/2027 | Casola in Lunigiana (MS), Toscana, Italia |  |

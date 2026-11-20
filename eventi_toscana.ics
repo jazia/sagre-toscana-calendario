@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-19. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-20. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -8191,7 +8191,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:f231ed6f3b2eea09756ca9fd63dfa1a4@sagre-toscana.jazia
-DTSTAMP:20261119T143045Z
+DTSTAMP:20261120T140838Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY;LANGUAGE=it:Mercatino di Piazza dei Ciompi
@@ -8976,6 +8976,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo
  .html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a44f9965b7e032317c9516c73bbe433b@sagre-toscana.jazia
+DTSTAMP:20261120T140838Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY;LANGUAGE=it:La Befana parte da Regnano
+LOCATION:Casola in Lunigiana (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/ms/casola-in-lunigiana/la-befana-parte-da-reg
+ nano.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/la-befana-par
+ te-da-regnano.html
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

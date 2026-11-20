@@ -24,6 +24,7 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [I Presepi di Sovicille](https://www.sagretoscane.com/feste/si/sovicille/i-presepi-di-sovicille.html): Intervallo a cavallo di due anni da verificare.
 - [1000 Presepi](https://www.sagretoscane.com/feste/fi/palazzuolo-sul-senio/1000-presepi-per-palazzuolo.html): Intervallo a cavallo di due anni da verificare.
 - [Natale Castellano](https://www.sagretoscane.com/feste/fi/castelfiorentino/natale-a-castelfiorentino.html): Intervallo a cavallo di due anni da verificare.
+- [Presepe Vivente a Le Ville](https://www.sagretoscane.com/feste/ar/monterchi/presepe-vivente-a-le-ville.html): Intervallo a cavallo di due anni da verificare.
 - [Destinazione Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/natale-a-montecatini-terme.html): Intervallo a cavallo di due anni da verificare.
 - [Natale a Montepulciano](https://www.sagretoscane.com/fiere-mercati/si/montepulciano/natale-a-montepulciano.html): Intervallo a cavallo di due anni da verificare.
 - [Empoli Città del Natale](https://www.sagretoscane.com/feste/fi/empoli/empoli-citta-del-natale.html): Intervallo a cavallo di due anni da verificare.
