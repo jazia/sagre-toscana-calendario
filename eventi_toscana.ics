@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-20. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-21. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -8053,6 +8053,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  la scheda originale.
 URL:https://www.sagretoscane.com/rassegne/ar/bucine/valdambra-terra-di-ecce
  llenze-bucine.html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:463c8c199f3fde120692f5c2a49fdf8e@sagre-toscana.jazia
+DTSTAMP:20261121T133359Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY;LANGUAGE=it:Chianti & Stianti
+LOCATION:Castelnuovo Berardenga (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/si/castelnuovo-berardenga/chianti-stianti-
+ castelnuovo-berardenga.html\nLe date indicano i giorni della manifestazion
+ e\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventu
+ ali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/rassegne/si/castelnuovo-berardenga/chianti
+ -stianti-castelnuovo-berardenga.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

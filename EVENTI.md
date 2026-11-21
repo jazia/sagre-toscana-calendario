@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-20. 366 manifestazioni, 471 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-21. 367 manifestazioni, 472 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -425,6 +425,7 @@ Ultima modifica dati: 2026-11-20. 366 manifestazioni, 471 appuntamenti/periodi. 
 | [BientinAntiquaria](https://www.sagretoscane.com/fiere-mercati/pi/bientina/bientinantiquaria.html) | 22/11/2026 | 22/11/2026 | Bientina (PI), Toscana, Italia |  |
 | [Pescia Antiqua](https://www.sagretoscane.com/fiere-mercati/pt/pescia/pescia-antiqua.html) | 22/11/2026 | 22/11/2026 | Pescia (PT), Toscana, Italia |  |
 | [Valdambra Terra di Eccellenze](https://www.sagretoscane.com/rassegne/ar/bucine/valdambra-terra-di-eccellenze-bucine.html) | 22/11/2026 | 22/11/2026 | Bucine (AR), Toscana, Italia |  |
+| [Chianti & Stianti](https://www.sagretoscane.com/rassegne/si/castelnuovo-berardenga/chianti-stianti-castelnuovo-berardenga.html) | 22/11/2026 | 22/11/2026 | Castelnuovo Berardenga (SI), Toscana, Italia |  |
 | [Il Desco](https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html) | 27/11/2026 | 29/11/2026 | Lucca (LU), Toscana, Italia |  |
 | [Mercatini di Natale](https://www.sagretoscane.com/feste/ms/fosdinovo/mercatini-di-natale-fosdinovo.html) | 28/11/2026 | 29/11/2026 | Fosdinovo (MS), Toscana, Italia |  |
 | [La Fabbrica di Babbo Natale](https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html) | 28/11/2026 | 29/11/2026 | Pisa (PI), Toscana, Italia |  |

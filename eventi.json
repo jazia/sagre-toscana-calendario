@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-20",
+  "extracted_at": "2026-11-21",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "page": 10,
-      "count": 5
+      "count": 10
     }
   ],
   "events": [
@@ -5648,6 +5648,22 @@
       "note": ""
     },
     {
+      "name": "Chianti & Stianti",
+      "url": "https://www.sagretoscane.com/rassegne/si/castelnuovo-berardenga/chianti-stianti-castelnuovo-berardenga.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-11-22",
+          "2026-11-22"
+        ]
+      ],
+      "source_hash": "dadc7c377cf154aa908c211818158255816ec97c2cefe0a2a42e97649c1a6383",
+      "modified_at": "20261121T133359Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo Berardenga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Il Desco",
       "url": "https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html",
       "category": "Eventi enogastronomici",
@@ -6392,5 +6408,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261120T140838Z"
+  "updated_at": "20261121T133359Z"
 }
