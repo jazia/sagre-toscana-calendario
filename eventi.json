@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-21",
+  "extracted_at": "2026-11-22",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -41,6 +41,10 @@
     {
       "page": 10,
       "count": 10
+    },
+    {
+      "page": 11,
+      "count": 5
     }
   ],
   "events": [
@@ -5272,24 +5276,6 @@
       "note": ""
     },
     {
-      "id": 87,
-      "name": "L'Angolo del Collezionista a Siena",
-      "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html",
-      "source_page": 9,
-      "periods": [
-        [
-          "2026-11-15",
-          "2026-11-15"
-        ]
-      ],
-      "note": "",
-      "source_hash": "9f0ac555fc8be0b8a2037632433473cfd05987bf0a3d84b40ac7fa172d519c71",
-      "modified_at": "20261025T095459Z",
-      "status": "CONFIRMED"
-    },
-    {
       "name": "Varchi d'Olio",
       "url": "https://www.sagretoscane.com/rassegne/ar/montevarchi/varchi-d-olio.html",
       "category": "Eventi enogastronomici",
@@ -5416,24 +5402,6 @@
       "status": "CONFIRMED",
       "location": "Pisa (PI), Toscana, Italia",
       "note": ""
-    },
-    {
-      "id": 94,
-      "name": "L'Angolo del Collezionista a Grosseto",
-      "location": "Grosseto (GR), Toscana, Italia",
-      "category": "Fiere e Mercati",
-      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html",
-      "source_page": 10,
-      "periods": [
-        [
-          "2026-11-21",
-          "2026-11-21"
-        ]
-      ],
-      "note": "",
-      "source_hash": "2e498e8ea1e763607b4bc7045346642a0391fffb65a236380ba64dd88b26a433",
-      "modified_at": "20261029T113616Z",
-      "status": "CONFIRMED"
     },
     {
       "name": "Mercatino del vintage",
@@ -5675,6 +5643,38 @@
       ],
       "source_hash": "fee259885ce01703871411991a7582a2963755a5d266af9eb64fe72eae485bba",
       "modified_at": "20261025T095459Z",
+      "status": "CONFIRMED",
+      "location": "Lucca (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatini di Natale",
+      "url": "https://www.sagretoscane.com/feste/lu/fosciandora/aspettando-il-natale-fosciadora.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "9fce1ed7933ad6ebbe5d6059ac00ac906f5112202353fc9432d93ea94194e80d",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "Fosciandora (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Preludio al Natale",
+      "url": "https://www.sagretoscane.com/feste/lu/lucca/preludio-al-natale-lucca.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "e152b65ac1c1f9bceb40e874586f94f0d2894705d622e5f2f7209fdda997b4c0",
+      "modified_at": "20261122T132703Z",
       "status": "CONFIRMED",
       "location": "Lucca (LU), Toscana, Italia",
       "note": ""
@@ -6100,6 +6100,22 @@
       "note": ""
     },
     {
+      "name": "Mercatini di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/reggello/mercatini-di-natale-saltino-vallombrosa.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "b2728c43162f60467fd80795fdceb91b727d5afb6a88281ac2f6c3a0572ac5b4",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "Reggello (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Atmosfere d’Inverno in Palazzo",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/atmosfere-d-inverno-in-palazzo.html",
       "category": "Fiere e Mercati",
@@ -6129,6 +6145,38 @@
       "modified_at": "20261117T143900Z",
       "status": "CONFIRMED",
       "location": "Vernio (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Le Luci del Fuoco ad Abbadia San Salvatore",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/abbadia-san-salvatore/le-luci-del-fuoco-abbadia-san-salvatore.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-27"
+        ]
+      ],
+      "source_hash": "ee75413e3bf09f416bb7e27b481963b5008d00b7a32e668a2dda7255b5f893bc",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "Abbadia San Salvatore (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatini nell'arte",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/pienza/mercatini-nell-arte.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "63c7895dcdd9a997bc2a27e23bdafc0204a7c666a81e00d6a5b1b23331d3b8f2",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "Pienza (SI), Toscana, Italia",
       "note": ""
     },
     {
@@ -6177,6 +6225,22 @@
       "modified_at": "20261111T124802Z",
       "status": "CONFIRMED",
       "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Borgo DiVino",
+      "url": "https://www.sagretoscane.com/rassegne/fi/scarperia-e-san-piero/borgo-divino.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "8e73a3101d430e191d9d84b2c138874c432a513aa836280d3e55860d14909a79",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "Scarperia e San Piero (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -6246,6 +6310,38 @@
       "source_hash": "7d77c6c6151f9dc910a7b21f6aa012e27c888ec28a2f4c41a57c74e0225455a3",
       "modified_at": "20261111T124802Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Mercatini di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/gr/gavorrano/mercatini-di-natale-caldana.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "c0015267e179b3f8433428e7ab99269eb9a03b6e531970c4625597ca5dba6709",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "Gavorrano (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/san-casciano-dei-bagni/mercatino-di-natale-san-casciano-dei-bagni.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "13696881ff04fec44d093d96444736ebe2669fbf72c332bc0bc0af1a876709f8",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED",
+      "location": "San Casciano dei Bagni (SI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Natale a Fiesole",
@@ -6376,6 +6472,24 @@
       "note": ""
     },
     {
+      "id": 94,
+      "name": "L'Angolo del Collezionista a Grosseto",
+      "location": "Grosseto (GR), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html",
+      "source_page": 10,
+      "periods": [
+        [
+          "2026-12-19",
+          "2026-12-19"
+        ]
+      ],
+      "note": "",
+      "source_hash": "8aecbf17b1f66ee258a62a3ce1b6e2a93b075200309a747fb0b4956ec0e4f22a",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED"
+    },
+    {
       "name": "Antica fiera del Ceppo",
       "url": "https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo.html",
       "category": "Fiere e Mercati",
@@ -6390,6 +6504,24 @@
       "status": "CONFIRMED",
       "location": "Lucignano (AR), Toscana, Italia",
       "note": ""
+    },
+    {
+      "id": 87,
+      "name": "L'Angolo del Collezionista a Siena",
+      "location": "Piazza del Mercato, Siena (SI), Toscana, Italia",
+      "category": "Fiere e Mercati",
+      "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html",
+      "source_page": 9,
+      "periods": [
+        [
+          "2026-12-20",
+          "2026-12-20"
+        ]
+      ],
+      "note": "",
+      "source_hash": "42993a1639cca79b162486d88be89f03e49b096fafa53a835f47e77282279eb5",
+      "modified_at": "20261122T132703Z",
+      "status": "CONFIRMED"
     },
     {
       "name": "La Befana parte da Regnano",
@@ -6408,5 +6540,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261121T133359Z"
+  "updated_at": "20261122T132703Z"
 }

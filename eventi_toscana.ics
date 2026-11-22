@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-21. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-22. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -7622,25 +7622,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:889bb4b3affa7636b9eaf488faa757b8@sagre-toscana.jazia
-DTSTAMP:20261025T095459Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Siena
-LOCATION:Piazza del Mercato\, Siena (SI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-s
- iena.html\nLe date indicano i giorni della manifestazione\, non un’apert
- ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
- la scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
- ionista-siena.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:9edc64a82e947628f1352112e656fca4@sagre-toscana.jazia
 DTSTAMP:20261109T140148Z
 DTSTART;VALUE=DATE:20261115
@@ -7788,25 +7769,6 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/sagre/pi/pisa/la-zuppa-del-lago-perduto.ht
  ml
 CATEGORIES:Sagre gastronomiche
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:ab94b1fb9de2ad4d39a6d7265cd47166@sagre-toscana.jazia
-DTSTAMP:20261029T113616Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Grosseto
-LOCATION:Grosseto (GR)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionist
- a-grosseto.html\nLe date indicano i giorni della manifestazione\, non un
- ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
- ioni nella scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-col
- lezionista-grosseto.html
-CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -8090,6 +8052,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ri\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/rassegne/lu/lucca/il-desco.html
 CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3773e4bde36348c23690ce4b348a53c7@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Mercatini di Natale
+LOCATION:Fosciandora (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/lu/fosciandora/aspettando-il-natale-fosciador
+ a.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/feste/lu/fosciandora/aspettando-il-natale-
+ fosciadora.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:29aa405c5e29f62879c8425fd6fc1b2b@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Preludio al Natale
+LOCATION:Lucca (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/lu/lucca/preludio-al-natale-lucca.html\nLe da
+ te indicano i giorni della manifestazione\, non un’apertura di 24 ore. V
+ erificare orari\, prenotazioni ed eventuali variazioni nella scheda origin
+ ale.
+URL:https://www.sagretoscane.com/feste/lu/lucca/preludio-al-natale-lucca.ht
+ ml
+CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -8661,6 +8661,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:cac151fa5d5a2578b58e34a3f7a93a15@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Mercatini di Natale
+LOCATION:Reggello (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/reggello/mercatini-di-natale-salti
+ no-vallombrosa.html\nLe date indicano i giorni della manifestazione\, non 
+ un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali vari
+ azioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/reggello/mercatini-di-nat
+ ale-saltino-vallombrosa.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:f27ae5549a685cd8e8fd579634141261@sagre-toscana.jazia
 DTSTAMP:20261111T124802Z
 DTSTART;VALUE=DATE:20261205
@@ -8693,6 +8712,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  a scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/po/vernio/mercatini-di-natal
  e-a-poggiole.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1e06ae209fc0f8598c428d3aac423cf4@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261228
+SUMMARY;LANGUAGE=it:Le Luci del Fuoco ad Abbadia San Salvatore
+LOCATION:Abbadia San Salvatore (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/abbadia-san-salvatore/le-luci-del-
+ fuoco-abbadia-san-salvatore.html\nLe date indicano i giorni della manifest
+ azione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni ed e
+ ventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/abbadia-san-salvatore/le-
+ luci-del-fuoco-abbadia-san-salvatore.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea1984993dcef1919f70b7023a46743@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Mercatini nell'arte
+LOCATION:Pienza (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/pienza/mercatini-nell-arte.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/pienza/mercatini-nell-art
+ e.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8750,6 +8807,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  inale.
 URL:https://www.sagretoscane.com/rassegne/fi/firenze/calici-sotto-l-albero.
  html
+CATEGORIES:Eventi enogastronomici
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a8db438ae845b5b77d435c56c04607@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Borgo DiVino
+LOCATION:Scarperia e San Piero (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/fi/scarperia-e-san-piero/borgo-divino.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/rassegne/fi/scarperia-e-san-piero/borgo-di
+ vino.html
 CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8826,6 +8902,44 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/col
  lezionisti-in-piazza.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:3534755d582da08f87bf6bcac48258ca@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Mercatini di Natale
+LOCATION:Gavorrano (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/gr/gavorrano/mercatini-di-natale-cald
+ ana.html\nLe date indicano i giorni della manifestazione\, non un’apertu
+ ra di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nell
+ a scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/gr/gavorrano/mercatini-di-na
+ tale-caldana.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:21da41bdd837d9aafb7b80949e6776b8@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Mercatino di Natale
+LOCATION:San Casciano dei Bagni (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/san-casciano-dei-bagni/mercatino-d
+ i-natale-san-casciano-dei-bagni.html\nLe date indicano i giorni della mani
+ festazione\, non un’apertura di 24 ore. Verificare orari\, prenotazioni 
+ ed eventuali variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/san-casciano-dei-bagni/me
+ rcatino-di-natale-san-casciano-dei-bagni.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8981,6 +9095,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:39790ab561453d80cc0868ddb6edcbee@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Grosseto
+LOCATION:Grosseto (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionist
+ a-grosseto.html\nLe date indicano i giorni della manifestazione\, non un
+ ’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variaz
+ ioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-col
+ lezionista-grosseto.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:1d412211a1e111d32c76b55088c253e3@sagre-toscana.jazia
 DTSTAMP:20261117T143900Z
 DTSTART;VALUE=DATE:20261220
@@ -8994,6 +9127,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ginale.
 URL:https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo
  .html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:cf66a3c3b7f18ca092df09eab71c16d6@sagre-toscana.jazia
+DTSTAMP:20261122T132703Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY;LANGUAGE=it:L'Angolo del Collezionista a Siena
+LOCATION:Piazza del Mercato\, Siena (SI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-s
+ iena.html\nLe date indicano i giorni della manifestazione\, non un’apert
+ ura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nel
+ la scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collez
+ ionista-siena.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

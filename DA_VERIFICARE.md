@@ -34,4 +34,3 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.
 - [Presepe Artistico](https://www.sagretoscane.com/feste/pi/san-miniato/presepe-artistico.html): Intervallo a cavallo di due anni da verificare.
 - [Festa Invernale](https://www.sagretoscane.com/feste/pi/pomarance/festa-invernale.html): Intervallo a cavallo di due anni da verificare.
-- [La Zuppa del Lago Perduto](https://www.sagretoscane.com/sagre/pi/pisa/la-zuppa-del-lago-perduto.html): Evento futuro non più nell’elenco: conservato, assenza non equivale ad annullamento.
