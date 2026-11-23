@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-22",
+  "extracted_at": "2026-11-23",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -40,11 +40,7 @@
     },
     {
       "page": 10,
-      "count": 10
-    },
-    {
-      "page": 11,
-      "count": 5
+      "count": 7
     }
   ],
   "events": [
@@ -5836,6 +5832,22 @@
       "note": ""
     },
     {
+      "name": "Sagra della Polenta e Sapori d'inverno",
+      "url": "https://www.sagretoscane.com/sagre/fi/pontassieve/polentata.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-28",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "4801ee415a266eaf5b0bd652ddea63576497f7b1f0e18a05b8072ae83b59403c",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Pontassieve (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Corsa dei Carretti a Fiano",
       "url": "https://www.sagretoscane.com/feste/fi/certaldo/corsa-dei-carretti-a-fiano.html",
       "category": "Feste e Folclore",
@@ -5909,8 +5921,8 @@
           "2026-11-29"
         ]
       ],
-      "source_hash": "8b5e2170956c42f030a68cc1696251d343ced9c8775f328b6d97eab95fe8e35f",
-      "modified_at": "20261111T124802Z",
+      "source_hash": "0019435a720c3889a14c7a6cf50924493c9fb99a9ef218dcfd61ad3740bc6f30",
+      "modified_at": "20261123T161000Z",
       "status": "CONFIRMED",
       "location": "Casciana Terme Lari (PI), Toscana, Italia",
       "note": ""
@@ -5996,6 +6008,22 @@
       "note": ""
     },
     {
+      "name": "Soffitte in Strada",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/bagni-di-lucca/soffitte-in-piazza-bagni-di-lucca.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "67da371bf227961a63b0604bb86b1fa3bc38d1a56f65e2be03ff7539f47d7182",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Bagni di Lucca (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Festa della Castagna",
       "url": "https://www.sagretoscane.com/sagre/ar/castel-focognano/sagra-della-castagna-carda.html",
       "category": "Sagre gastronomiche",
@@ -6065,6 +6093,22 @@
       "modified_at": "20261111T124802Z",
       "status": "CONFIRMED",
       "location": "San Quirico dʼOrcia (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Sagra della Bruscagna",
+      "url": "https://www.sagretoscane.com/sagre/gr/capalbio/sagra-della-bruscagna.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-12-04",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "fc1a3b0c30d6e5c5e48a9fc84f84e86486408191c7edce080edf436a22111790",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Capalbio (GR), Toscana, Italia",
       "note": ""
     },
     {
@@ -6145,6 +6189,22 @@
       "modified_at": "20261117T143900Z",
       "status": "CONFIRMED",
       "location": "Vernio (PO), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino della Solidarietà",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/pistoia/mercatino-della-solidarieta.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "4a0e9a623876bc034237af47b67c66cde54e26b3f0c3d5da7894ecc4f185bc23",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Pistoia (PT), Toscana, Italia",
       "note": ""
     },
     {
@@ -6260,6 +6320,34 @@
       "note": ""
     },
     {
+      "name": "Natalia – Il Magico Paese della Parata di Babbo Natale",
+      "url": "https://www.sagretoscane.com/feste/fi/fucecchio/natalia.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ],
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ],
+        [
+          "2026-12-13",
+          "2026-12-13"
+        ],
+        [
+          "2026-12-20",
+          "2026-12-20"
+        ]
+      ],
+      "source_hash": "50ff72f18e55df6eedf8ad193cba23ea160acf8c0d100b34455533978cbb8442",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Fucecchio (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Il CampaNatal",
       "url": "https://www.sagretoscane.com/feste/pi/capannoli/il-campanatal.html",
       "category": "Feste e Folclore",
@@ -6292,6 +6380,22 @@
       "source_hash": "7ba39ffce23cd3c1f7688d89f3dcab9d9df1b22e7e922929ae9a03fb89bb9e97",
       "modified_at": "20261119T143045Z",
       "status": "CONFIRMED"
+    },
+    {
+      "name": "Marrone d'inverno",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/marradi/natale-a-marradi.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "4493e3cb17af493a7de635d739c9184d0c2fc9856c14fd4b52718b09e87ceac8",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Marradi (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "id": 40,
@@ -6392,6 +6496,22 @@
       "note": ""
     },
     {
+      "name": "Natale a San Baronto",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pt/lamporecchio/natale-a-san-baronto.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "be92c330db699b7997d77c2ce609ae7a1fc67c25f22c4912bfc94aeb84cf23a2",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Lamporecchio (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 115,
       "name": "L'Angolo del Collezionista a Buonconvento",
       "location": "Buonconvento (SI), Toscana, Italia",
@@ -6472,6 +6592,22 @@
       "note": ""
     },
     {
+      "name": "Presepe Vivente",
+      "url": "https://www.sagretoscane.com/feste/pi/santa-maria-a-monte/presepe-vivente-santa-maria-a-monte.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-13",
+          "2026-12-13"
+        ]
+      ],
+      "source_hash": "3ebd27308ff6197d2eaf0de5be0b0ba614cca6f795ce32819b5e3f39f826f4d2",
+      "modified_at": "20261123T161000Z",
+      "status": "CONFIRMED",
+      "location": "Santa Maria a Monte (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 94,
       "name": "L'Angolo del Collezionista a Grosseto",
       "location": "Grosseto (GR), Toscana, Italia",
@@ -6540,5 +6676,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261122T132703Z"
+  "updated_at": "20261123T161000Z"
 }
