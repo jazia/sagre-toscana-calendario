@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-23. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-24. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -1077,25 +1077,6 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  ginale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/scandicci/scandicci-fiera
  .html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:ef526a5056c4478b9e852e5520df51c8@sagre-toscana.jazia
-DTSTAMP:20261004T180000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY;LANGUAGE=it:Mercatini dell’usato e baratto
-LOCATION:Piazzale Don Baroni\, Lucca (LU)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usato-e-barat
- to.html\nLe date indicano i giorni della manifestazione\, non un’apertur
- a di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella
-  scheda originale.
-URL:https://www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usat
- o-e-baratto.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8171,6 +8152,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:db66e04996d6c7c568fe9b09dbc80999@sagre-toscana.jazia
+DTSTAMP:20261124T155859Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Calenzano Christmas
+LOCATION:Calenzano (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/calenzano/calenzano-christmas.html
+ \nLe date indicano i giorni della manifestazione\, non un’apertura di 24
+  ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda
+  originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/calenzano/calenzano-chris
+ tmas.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:c9cc48252a258c58bc33a2701ca454aa@sagre-toscana.jazia
 DTSTAMP:20261111T124802Z
 DTSTART;VALUE=DATE:20261128
@@ -8322,7 +8322,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:422dd7cdfe357ff0b1b244b60611f367@sagre-toscana.jazia
-DTSTAMP:20261123T161000Z
+DTSTAMP:20261124T155859Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY;LANGUAGE=it:Sagra della Polenta e Sapori d'inverno
@@ -8332,6 +8332,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  no i giorni della manifestazione\, non un’apertura di 24 ore. Verificare
   orari\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/sagre/fi/pontassieve/polentata.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4a04c4840f6c40c3be819c2b32c48392@sagre-toscana.jazia
+DTSTAMP:20261124T155859Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY;LANGUAGE=it:Festa dell'Olio
+LOCATION:Sesto Fiorentino (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/fi/sesto-fiorentino/festa-dell-olio-a-cercina
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/sagre/fi/sesto-fiorentino/festa-dell-olio-
+ a-cercina.html
 CATEGORIES:Sagre gastronomiche
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8450,6 +8469,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:c98f2fbfbfd299bff31fc71733fcf306@sagre-toscana.jazia
+DTSTAMP:20261124T155859Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Mercato della Terra a Fiesole
+LOCATION:Fiesole (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/fiesole/mercato-della-terra-fiesol
+ e.html\nLe date indicano i giorni della manifestazione\, non un’apertura
+  di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella 
+ scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/fiesole/mercato-della-ter
+ ra-fiesole.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:8e4851959b96f26c188a7b39a82b538e@sagre-toscana.jazia
 DTSTAMP:20261111T124802Z
 DTSTART;VALUE=DATE:20261129
@@ -8463,6 +8501,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  a originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/il-salotto-del-ca
  rmine.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ff3b03f59687ed95367e8ea1121cfcc9@sagre-toscana.jazia
+DTSTAMP:20261124T155859Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Non lo Butto
+LOCATION:Montespertoli (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/montespertoli/non-lo-butto.html\nL
+ e date indicano i giorni della manifestazione\, non un’apertura di 24 or
+ e. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda or
+ iginale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/montespertoli/non-lo-butt
+ o.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8539,6 +8596,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  azioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/lu/bagni-di-lucca/soffitte-i
  n-piazza-bagni-di-lucca.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:311e1c9de094c51181774e832185af3c@sagre-toscana.jazia
+DTSTAMP:20261124T155859Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Fiera di Santa Caterina
+LOCATION:Bagnone (MS)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ms/bagnone/fiera-di-santa-caterina-ba
+ gnone.html\nLe date indicano i giorni della manifestazione\, non un’aper
+ tura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni ne
+ lla scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ms/bagnone/fiera-di-santa-ca
+ terina-bagnone.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8748,6 +8824,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
  variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/atm
  osfere-d-inverno-in-palazzo.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:abea86a34f5cac3bae28afd24287035e@sagre-toscana.jazia
+DTSTAMP:20261124T155859Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Mercatini dell’usato e baratto
+LOCATION:Piazzale Don Baroni\, Lucca (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usato-e-barat
+ to.html\nLe date indicano i giorni della manifestazione\, non un’apertur
+ a di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella
+  scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usat
+ o-e-baratto.html
 CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-23. 383 manifestazioni, 491 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-24. 388 manifestazioni, 496 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -58,7 +58,6 @@ Ultima modifica dati: 2026-11-23. 383 manifestazioni, 491 appuntamenti/periodi. 
 | [Antica Fiera di Antella](https://www.sagretoscane.com/fiere-mercati/fi/bagno-a-ripoli/antica-fiera-di-antella.html) | 03/10/2026 | 05/10/2026 | Antella, Bagno a Ripoli (FI), Toscana, Italia |  |
 | [Fiera Internazionale della Ceramica](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fiera-internazionale-della-ceramica.html) | 03/10/2026 | 04/10/2026 | Piazza Santa Croce, Firenze (FI), Toscana, Italia |  |
 | [Scandicci Fiera](https://www.sagretoscane.com/fiere-mercati/fi/scandicci/scandicci-fiera.html) | 03/10/2026 | 11/10/2026 | Piazza Resistenza e area fieristica, Scandicci (FI), Toscana, Italia |  |
-| [Mercatini dell’usato e baratto](https://www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usato-e-baratto.html) | 03/10/2026 | 04/10/2026 | Piazzale Don Baroni, Lucca (LU), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Gaiole in Chianti](https://www.sagretoscane.com/fiere-mercati/si/gaiole-in-chianti/angolo-del-collezionista-gaiole-in-chianti.html) | 03/10/2026 | 04/10/2026 | Via Roma, Gaiole in Chianti (SI), Toscana, Italia |  |
 | [Firenze Sake Days](https://www.sagretoscane.com/rassegne/fi/firenze/firenze-sake-days.html) | 03/10/2026 | 04/10/2026 | Firenze (FI), Toscana, Italia |  |
 | [Festa del Vino](https://www.sagretoscane.com/rassegne/pi/montescudaio/festa-del-vino-montescudaio.html) | 03/10/2026 | 04/10/2026 | Montescudaio (PI), Toscana, Italia |  |
@@ -431,6 +430,7 @@ Ultima modifica dati: 2026-11-23. 383 manifestazioni, 491 appuntamenti/periodi. 
 | [La Fabbrica di Babbo Natale](https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html) | 28/11/2026 | 29/11/2026 | Pisa (PI), Toscana, Italia |  |
 | [La Fabbrica di Babbo Natale](https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html) | 04/12/2026 | 08/12/2026 | Pisa (PI), Toscana, Italia |  |
 | [La Fabbrica di Babbo Natale](https://www.sagretoscane.com/feste/pi/pisa/la-fabbrica-di-babbo-natale.html) | 11/12/2026 | 13/12/2026 | Pisa (PI), Toscana, Italia |  |
+| [Calenzano Christmas](https://www.sagretoscane.com/fiere-mercati/fi/calenzano/calenzano-christmas.html) | 28/11/2026 | 29/11/2026 | Calenzano (FI), Toscana, Italia |  |
 | [Eno Weekend Expo](https://www.sagretoscane.com/fiere-mercati/fi/empoli/eno-weekend-expo-empoli.html) | 28/11/2026 | 30/11/2026 | Empoli (FI), Toscana, Italia |  |
 | [Joulutori – Mercato di Natale Nordico](https://www.sagretoscane.com/fiere-mercati/fi/firenze/joulutori-mercato-di-natale-nordico.html) | 28/11/2026 | 29/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Mercatino di Piazza dei Ciompi](https://www.sagretoscane.com/fiere-mercati/fi/firenze/mercatino-di-piazza-dei-ciompi.html) | 28/11/2026 | 29/11/2026 | Firenze (FI), Toscana, Italia |  |
@@ -440,17 +440,21 @@ Ultima modifica dati: 2026-11-23. 383 manifestazioni, 491 appuntamenti/periodi. 
 | [Festival dell’Olio di Fiesole](https://www.sagretoscane.com/rassegne/fi/fiesole/festival-dell-olio-fiesole.html) | 28/11/2026 | 29/11/2026 | Fiesole (FI), Toscana, Italia |  |
 | [MareDiVino e DiGusto](https://www.sagretoscane.com/rassegne/li/livorno/mare-di-vino.html) | 28/11/2026 | 30/11/2026 | Livorno (LI), Toscana, Italia |  |
 | [Sagra della Polenta e Sapori d'inverno](https://www.sagretoscane.com/sagre/fi/pontassieve/polentata.html) | 28/11/2026 | 29/11/2026 | Pontassieve (FI), Toscana, Italia |  |
+| [Festa dell'Olio](https://www.sagretoscane.com/sagre/fi/sesto-fiorentino/festa-dell-olio-a-cercina.html) | 28/11/2026 | 28/11/2026 | Sesto Fiorentino (FI), Toscana, Italia |  |
 | [Corsa dei Carretti a Fiano](https://www.sagretoscane.com/feste/fi/certaldo/corsa-dei-carretti-a-fiano.html) | 29/11/2026 | 29/11/2026 | Certaldo (FI), Toscana, Italia |  |
 | [Festa del Caracuto](https://www.sagretoscane.com/feste/li/campo-nell-elba/festa-del-caracuto.html) | 29/11/2026 | 29/11/2026 | Campo nell'Elba (LI), Toscana, Italia |  |
 | [Ponteccio – Il Paese degli alberi di Natale](https://www.sagretoscane.com/feste/lu/sillano-giuncugnano/ponteccio-il-paese-degli-alberi-di-natale.html) | 29/11/2026 | 29/11/2026 | Sillano Giuncugnano (LU), Toscana, Italia |  |
 | [Accendiamo il Natale](https://www.sagretoscane.com/feste/ms/aulla/accendiamo-il-natale.html) | 29/11/2026 | 29/11/2026 | Aulla (MS), Toscana, Italia |  |
 | [Scopri Lari... Aspettando il Natale](https://www.sagretoscane.com/feste/pi/casciana-terme-lari/scopri-lari-a-natale.html) | 29/11/2026 | 29/11/2026 | Casciana Terme Lari (PI), Toscana, Italia |  |
 | [Aspettando il Natale](https://www.sagretoscane.com/feste/pi/montopoli-in-val-darno/aspettando-il-natale-marti.html) | 29/11/2026 | 29/11/2026 | Montopoli in Val dʼArno (PI), Toscana, Italia |  |
+| [Mercato della Terra a Fiesole](https://www.sagretoscane.com/fiere-mercati/fi/fiesole/mercato-della-terra-fiesole.html) | 29/11/2026 | 29/11/2026 | Fiesole (FI), Toscana, Italia |  |
 | [Il Salotto del Carmine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/il-salotto-del-carmine.html) | 29/11/2026 | 29/11/2026 | Firenze (FI), Toscana, Italia |  |
+| [Non lo Butto](https://www.sagretoscane.com/fiere-mercati/fi/montespertoli/non-lo-butto.html) | 29/11/2026 | 29/11/2026 | Montespertoli (FI), Toscana, Italia |  |
 | [Mercatino di Natale](https://www.sagretoscane.com/fiere-mercati/fi/san-godenzo/mercatino-di-natale.html) | 29/11/2026 | 29/11/2026 | San Godenzo (FI), Toscana, Italia |  |
 | [Mercatino Natalizio](https://www.sagretoscane.com/fiere-mercati/fi/scandicci/natale-della-piana.html) | 29/11/2026 | 29/11/2026 | Scandicci (FI), Toscana, Italia |  |
 | [Aspettando il Natale](https://www.sagretoscane.com/fiere-mercati/fi/signa/mercatino-di-natale-di-oberdrauburg.html) | 29/11/2026 | 29/11/2026 | Signa (FI), Toscana, Italia |  |
 | [Soffitte in Strada](https://www.sagretoscane.com/fiere-mercati/lu/bagni-di-lucca/soffitte-in-piazza-bagni-di-lucca.html) | 29/11/2026 | 29/11/2026 | Bagni di Lucca (LU), Toscana, Italia |  |
+| [Fiera di Santa Caterina](https://www.sagretoscane.com/fiere-mercati/ms/bagnone/fiera-di-santa-caterina-bagnone.html) | 29/11/2026 | 29/11/2026 | Bagnone (MS), Toscana, Italia |  |
 | [Festa della Castagna](https://www.sagretoscane.com/sagre/ar/castel-focognano/sagra-della-castagna-carda.html) | 29/11/2026 | 29/11/2026 | Castel Focognano (AR), Toscana, Italia |  |
 | [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suvereto.html) | 29/11/2026 | 29/11/2026 | Suvereto (LI), Toscana, Italia |  |
 | [Sagra del Cinghiale](https://www.sagretoscane.com/sagre/li/suvereto/sagra-del-cinghiale-suvereto.html) | 06/12/2026 | 06/12/2026 | Suvereto (LI), Toscana, Italia |  |
@@ -462,6 +466,7 @@ Ultima modifica dati: 2026-11-23. 383 manifestazioni, 491 appuntamenti/periodi. 
 | [L'Incanto del Natale](https://www.sagretoscane.com/feste/si/sinalunga/l-incanto-del-natale-sinalunga.html) | 05/12/2026 | 06/12/2026 | Sinalunga (SI), Toscana, Italia |  |
 | [Mercatini di Natale](https://www.sagretoscane.com/fiere-mercati/fi/reggello/mercatini-di-natale-saltino-vallombrosa.html) | 05/12/2026 | 06/12/2026 | Reggello (FI), Toscana, Italia |  |
 | [Atmosfere d’Inverno in Palazzo](https://www.sagretoscane.com/fiere-mercati/fi/scarperia-e-san-piero/atmosfere-d-inverno-in-palazzo.html) | 05/12/2026 | 06/12/2026 | Scarperia e San Piero (FI), Toscana, Italia |  |
+| [Mercatini dell’usato e baratto](https://www.sagretoscane.com/fiere-mercati/lu/lucca/mercatini-dell-usato-e-baratto.html) | 05/12/2026 | 06/12/2026 | Piazzale Don Baroni, Lucca (LU), Toscana, Italia |  |
 | [Mercatini di Natale a Poggiole](https://www.sagretoscane.com/fiere-mercati/po/vernio/mercatini-di-natale-a-poggiole.html) | 05/12/2026 | 06/12/2026 | Vernio (PO), Toscana, Italia |  |
 | [Mercatino della Solidarietà](https://www.sagretoscane.com/fiere-mercati/pt/pistoia/mercatino-della-solidarieta.html) | 05/12/2026 | 08/12/2026 | Pistoia (PT), Toscana, Italia |  |
 | [Le Luci del Fuoco ad Abbadia San Salvatore](https://www.sagretoscane.com/fiere-mercati/si/abbadia-san-salvatore/le-luci-del-fuoco-abbadia-san-salvatore.html) | 05/12/2026 | 27/12/2026 | Abbadia San Salvatore (SI), Toscana, Italia |  |
