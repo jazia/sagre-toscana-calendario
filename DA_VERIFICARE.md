@@ -18,14 +18,18 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Mercatini di Natale](https://www.sagretoscane.com/fiere-mercati/po/prato/mercatini-di-natale-prato.html): Intervallo non chiaro.
 - [La Baita di Babbo Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/la-baita-di-babbo-natale.html): Rassegna lunga: serve controllo del programma.
 - [Presepe Vivente di Equi Terme](https://www.sagretoscane.com/feste/ms/fivizzano/presepe-vivente-2.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [La Torre di Babbo Natale e i suoi Mercatini](https://www.sagretoscane.com/feste/ar/castiglion-fiorentino/natale-castiglionese.html): Weekend non enumerati chiaramente.
 - [Dicembre in Festa](https://www.sagretoscane.com/feste/li/san-vincenzo/dicembre-in-festa.html): Intervallo a cavallo di due anni da verificare.
 - [Arezzo Città del Natale](https://www.sagretoscane.com/feste/ar/arezzo/mercatini-di-natale-arezzo.html): Intervallo a cavallo di due anni da verificare.
 - [Natale a Castelnuovo](https://www.sagretoscane.com/feste/lu/castelnuovo-di-garfagnana/natale-a-castelnuovo.html): Intervallo a cavallo di due anni da verificare.
+- [Varchi di Natale](https://www.sagretoscane.com/feste/ar/montevarchi/varchi-di-natale.html): Intervallo a cavallo di due anni da verificare.
 - [I Presepi di Sovicille](https://www.sagretoscane.com/feste/si/sovicille/i-presepi-di-sovicille.html): Intervallo a cavallo di due anni da verificare.
+- [Natale nel Mondo](https://www.sagretoscane.com/feste/ar/san-giovanni-valdarno/natale-nel-mondo.html): Intervallo a cavallo di due anni da verificare.
 - [1000 Presepi](https://www.sagretoscane.com/feste/fi/palazzuolo-sul-senio/1000-presepi-per-palazzuolo.html): Intervallo a cavallo di due anni da verificare.
 - [Natale Castellano](https://www.sagretoscane.com/feste/fi/castelfiorentino/natale-a-castelfiorentino.html): Intervallo a cavallo di due anni da verificare.
 - [La Via dei Presepi](https://www.sagretoscane.com/feste/fi/castelfiorentino/la-via-dei-presepi-2.html): Intervallo a cavallo di due anni da verificare.
 - [Presepe Vivente a Le Ville](https://www.sagretoscane.com/feste/ar/monterchi/presepe-vivente-a-le-ville.html): Intervallo a cavallo di due anni da verificare.
+- [Christmas Village – Abetone](https://www.sagretoscane.com/feste/pt/abetone-cutigliano/christmas-village-abetone.html): Intervallo a cavallo di due anni da verificare.
 - [Destinazione Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/natale-a-montecatini-terme.html): Intervallo a cavallo di due anni da verificare.
 - [Natale a Montepulciano](https://www.sagretoscane.com/fiere-mercati/si/montepulciano/natale-a-montepulciano.html): Intervallo a cavallo di due anni da verificare.
 - [Empoli Città del Natale](https://www.sagretoscane.com/feste/fi/empoli/empoli-citta-del-natale.html): Intervallo a cavallo di due anni da verificare.

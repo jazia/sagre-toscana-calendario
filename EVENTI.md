@@ -1,6 +1,6 @@
 # Elenco degli appuntamenti
 
-Ultima modifica dati: 2026-11-24. 388 manifestazioni, 496 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
+Ultima modifica dati: 2026-11-26. 394 manifestazioni, 502 appuntamenti/periodi. Date finali inclusive. Il controllo giornaliero è registrato in [stato.json](stato.json); le incertezze in [DA_VERIFICARE.md](DA_VERIFICARE.md).
 
 | Evento | Dal | Al | Luogo | Stato |
 |---|---|---|---|---|
@@ -392,7 +392,6 @@ Ultima modifica dati: 2026-11-24. 388 manifestazioni, 496 appuntamenti/periodi. 
 | [Mostra Mercato Nazionale del Tartufo Bianco](https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-tartufo-bianco.html) | 21/11/2026 | 22/11/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Mostra Mercato Nazionale del Tartufo Bianco](https://www.sagretoscane.com/sagre/pi/san-miniato/mostra-mercato-nazionale-del-tartufo-bianco.html) | 28/11/2026 | 29/11/2026 | San Miniato (PI), Toscana, Italia |  |
 | [Tradizionale Fiera di Novembre](https://www.sagretoscane.com/fiere-mercati/fi/barberino-di-mugello/tradizionale-fiera-di-novembre-galliano.html) | 15/11/2026 | 15/11/2026 | Barberino di Mugello (FI), Toscana, Italia |  |
-| [Chi Cerca Trova - Mercato Svuotacantine - Edizione Caccia al Tesoro](https://www.sagretoscane.com/fiere-mercati/fi/firenze/chi-cerca-trova-mercato-svuotacantine-firenze.html) | 15/11/2026 | 15/11/2026 | Firenze (FI), Toscana, Italia |  |
 | [Galluzzo in fiera](https://www.sagretoscane.com/fiere-mercati/fi/firenze/galluzzo-in-fiera.html) | 15/11/2026 | 15/11/2026 | Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia |  |
 | [San Martino Village](https://www.sagretoscane.com/fiere-mercati/li/campo-nell-elba/san-martino-village-campo-nell-elba.html) | 15/11/2026 | 15/11/2026 | Campo nell'Elba (LI), Toscana, Italia |  |
 | [Castiglioncello in Fiera](https://www.sagretoscane.com/fiere-mercati/li/rosignano-marittimo/castiglioncello-in-fiera.html) | 15/11/2026 | 15/11/2026 | Rosignano Marittimo (LI), Toscana, Italia |  |
@@ -489,14 +488,21 @@ Ultima modifica dati: 2026-11-24. 388 manifestazioni, 496 appuntamenti/periodi. 
 | [Natale a Fiesole](https://www.sagretoscane.com/feste/fi/fiesole/natale-a-fiesole.html) | 07/12/2026 | 08/12/2026 | Fiesole (FI), Toscana, Italia |  |
 | [Barga in Cioccolato](https://www.sagretoscane.com/rassegne/lu/barga/barga-in-cioccolato.html) | 07/12/2026 | 08/12/2026 | Barga (LU), Toscana, Italia |  |
 | [Villaggio di Natale di Campocatino](https://www.sagretoscane.com/feste/lu/vagli-sotto/villaggio-di-natale-di-campocatino.html) | 08/12/2026 | 08/12/2026 | Vagli Sotto (LU), Toscana, Italia |  |
+| [Fierucola dell'Immacolata](https://www.sagretoscane.com/fiere-mercati/fi/firenze/fierucola-di-santissima-annunziata.html) | 08/12/2026 | 08/12/2026 | Firenze (FI), Toscana, Italia |  |
+| [I Mercatini di Natale al Circolino](https://www.sagretoscane.com/fiere-mercati/fi/signa/i-mercatini-di-natale-al-circolino.html) | 08/12/2026 | 08/12/2026 | Signa (FI), Toscana, Italia |  |
+| [Mercatino di Natale](https://www.sagretoscane.com/fiere-mercati/pi/casale-marittimo/mercatini-di-natale-casale-marittimo.html) | 08/12/2026 | 08/12/2026 | Casale Marittimo (PI), Toscana, Italia |  |
 | [Natale a San Baronto](https://www.sagretoscane.com/fiere-mercati/pt/lamporecchio/natale-a-san-baronto.html) | 08/12/2026 | 08/12/2026 | Lamporecchio (PT), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Buonconvento](https://www.sagretoscane.com/fiere-mercati/si/buonconvento/l-angolo-del-collezionista-a-buonconvento.html) | 08/12/2026 | 08/12/2026 | Buonconvento (SI), Toscana, Italia |  |
+| [Natale a Serra](https://www.sagretoscane.com/feste/pt/marliana/natale-a-serra-pistoiese.html) | 12/12/2026 | 12/12/2026 | Marliana (PT), Toscana, Italia |  |
+| [Chi Cerca Trova - Mercato Svuotacantine](https://www.sagretoscane.com/fiere-mercati/fi/firenze/chi-cerca-trova-mercato-svuotacantine-firenze.html) | 12/12/2026 | 12/12/2026 | Firenze (FI), Toscana, Italia |  |
 | [Magia di Natale a San Casciano Val di Pesa](https://www.sagretoscane.com/fiere-mercati/fi/san-casciano-in-val-di-pesa/magia-di-natale-san-casciano-val-di-pesa.html) | 12/12/2026 | 13/12/2026 | San Casciano in Val di Pesa (FI), Toscana, Italia |  |
 | [Mercatini di Natale](https://www.sagretoscane.com/fiere-mercati/lu/castiglione-di-garfagnana/mercatini-di-natale-castiglione-di-garfagnana.html) | 12/12/2026 | 12/12/2026 | Castiglione di Garfagnana (LU), Toscana, Italia |  |
 | [Fashion in Flair – Regalo di Natale](https://www.sagretoscane.com/fiere-mercati/pi/pisa/fashion-in-flair-pisa.html) | 12/12/2026 | 13/12/2026 | Pisa (PI), Toscana, Italia |  |
 | [Regnano il Paese dei 300 Presepi](https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/regnano-il-paese-dei-300-presepi.html) | 13/12/2026 | 13/12/2026 | Casola in Lunigiana (MS), Toscana, Italia |  |
 | [Presepe Vivente](https://www.sagretoscane.com/feste/pi/santa-maria-a-monte/presepe-vivente-santa-maria-a-monte.html) | 13/12/2026 | 13/12/2026 | Santa Maria a Monte (PI), Toscana, Italia |  |
+| [Natale alle Finestre](https://www.sagretoscane.com/feste/si/sinalunga/natale-alle-finestre.html) | 19/12/2026 | 19/12/2026 | Sinalunga (SI), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Grosseto](https://www.sagretoscane.com/fiere-mercati/gr/grosseto/l-angolo-del-collezionista-grosseto.html) | 19/12/2026 | 19/12/2026 | Grosseto (GR), Toscana, Italia |  |
 | [Antica fiera del Ceppo](https://www.sagretoscane.com/fiere-mercati/ar/lucignano/fiera-del-ceppo.html) | 20/12/2026 | 20/12/2026 | Lucignano (AR), Toscana, Italia |  |
 | [L'Angolo del Collezionista a Siena](https://www.sagretoscane.com/fiere-mercati/si/siena/l-angolo-del-collezionista-siena.html) | 20/12/2026 | 20/12/2026 | Piazza del Mercato, Siena (SI), Toscana, Italia |  |
+| [Presepe Vivente Recitato](https://www.sagretoscane.com/feste/si/sinalunga/presepe-vivente-recitato.html) | 26/12/2026 | 27/12/2026 | Sinalunga (SI), Toscana, Italia |  |
 | [La Befana parte da Regnano](https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/la-befana-parte-da-regnano.html) | 03/01/2027 | 03/01/2027 | Casola in Lunigiana (MS), Toscana, Italia |  |

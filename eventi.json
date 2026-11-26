@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-24",
+  "extracted_at": "2026-11-26",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -44,7 +44,11 @@
     },
     {
       "page": 11,
-      "count": 2
+      "count": 10
+    },
+    {
+      "page": 12,
+      "count": 3
     }
   ],
   "events": [
@@ -5114,22 +5118,6 @@
       "note": ""
     },
     {
-      "name": "Chi Cerca Trova - Mercato Svuotacantine - Edizione Caccia al Tesoro",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/chi-cerca-trova-mercato-svuotacantine-firenze.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-11-15",
-          "2026-11-15"
-        ]
-      ],
-      "source_hash": "07587f5735befb824ae011a5ee09032c300c78be29b314590cb9c52b0586a044",
-      "modified_at": "20261111T124802Z",
-      "status": "CONFIRMED",
-      "location": "Firenze (FI), Toscana, Italia",
-      "note": ""
-    },
-    {
       "id": 86,
       "name": "Galluzzo in fiera",
       "location": "Piazza Niccolò Acciaioli, Galluzzo, Firenze (FI), Toscana, Italia",
@@ -5625,8 +5613,8 @@
           "2026-11-29"
         ]
       ],
-      "source_hash": "fee259885ce01703871411991a7582a2963755a5d266af9eb64fe72eae485bba",
-      "modified_at": "20261025T095459Z",
+      "source_hash": "85b71853d15ee75147ced9895209ed8ba4125fa97bc638a754d2da1ce7f2b37e",
+      "modified_at": "20261126T152720Z",
       "status": "CONFIRMED",
       "location": "Lucca (LU), Toscana, Italia",
       "note": ""
@@ -5941,8 +5929,8 @@
           "2026-11-29"
         ]
       ],
-      "source_hash": "0019435a720c3889a14c7a6cf50924493c9fb99a9ef218dcfd61ad3740bc6f30",
-      "modified_at": "20261123T161000Z",
+      "source_hash": "48bf0a349140f6ae45c16e0e9d4a689d61e5fc54a79b9449fef643c68827d006",
+      "modified_at": "20261126T152720Z",
       "status": "CONFIRMED",
       "location": "Casciana Terme Lari (PI), Toscana, Italia",
       "note": ""
@@ -6582,6 +6570,54 @@
       "note": ""
     },
     {
+      "name": "Fierucola dell'Immacolata",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/fierucola-di-santissima-annunziata.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "2907262a8a3bf4d4817590358492da858c701e06d3fb2040f83e865ad244a2e4",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "I Mercatini di Natale al Circolino",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/signa/i-mercatini-di-natale-al-circolino.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "6b33f9ab96d36a108a7aa4a916def7bd4768762cefd791d47ae777763cd9044a",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Signa (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Mercatino di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/pi/casale-marittimo/mercatini-di-natale-casale-marittimo.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-08",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "6b1e323e3f10c1d2c021f41748498029dd38c98d8bc9f01b705a47e2f1c9e7c8",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Casale Marittimo (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Natale a San Baronto",
       "url": "https://www.sagretoscane.com/fiere-mercati/pt/lamporecchio/natale-a-san-baronto.html",
       "category": "Fiere e Mercati",
@@ -6612,6 +6648,38 @@
       ],
       "note": "",
       "source_hash": "e32a422737f478c3c343aee394f92d8fe6b91bff6dc2706116897edb1eb7d32e"
+    },
+    {
+      "name": "Natale a Serra",
+      "url": "https://www.sagretoscane.com/feste/pt/marliana/natale-a-serra-pistoiese.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-12",
+          "2026-12-12"
+        ]
+      ],
+      "source_hash": "11850bd90d43f3963511466eedc9ee933527e6b6062705728be79db25fb2a0e7",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Marliana (PT), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Chi Cerca Trova - Mercato Svuotacantine",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/chi-cerca-trova-mercato-svuotacantine-firenze.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-12",
+          "2026-12-12"
+        ]
+      ],
+      "source_hash": "1fc7ce3f2a2ab335b1948c9569f256e87ba10aadcced042f393cac152b1d3174",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
+      "note": ""
     },
     {
       "name": "Magia di Natale a San Casciano Val di Pesa",
@@ -6694,6 +6762,22 @@
       "note": ""
     },
     {
+      "name": "Natale alle Finestre",
+      "url": "https://www.sagretoscane.com/feste/si/sinalunga/natale-alle-finestre.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-19",
+          "2026-12-19"
+        ]
+      ],
+      "source_hash": "49f954d3df525adc10b81e5efc7c7e2d00268d5cc432cea6b9fa09ade1b85ac1",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Sinalunga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "id": 94,
       "name": "L'Angolo del Collezionista a Grosseto",
       "location": "Grosseto (GR), Toscana, Italia",
@@ -6746,6 +6830,22 @@
       "status": "CONFIRMED"
     },
     {
+      "name": "Presepe Vivente Recitato",
+      "url": "https://www.sagretoscane.com/feste/si/sinalunga/presepe-vivente-recitato.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-26",
+          "2026-12-27"
+        ]
+      ],
+      "source_hash": "ff3382090517b15d4470292e8b3bf08fd49841ac3608420b6f1834e85801b838",
+      "modified_at": "20261126T152720Z",
+      "status": "CONFIRMED",
+      "location": "Sinalunga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "La Befana parte da Regnano",
       "url": "https://www.sagretoscane.com/feste/ms/casola-in-lunigiana/la-befana-parte-da-regnano.html",
       "category": "Feste e Folclore",
@@ -6762,5 +6862,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261124T155859Z"
+  "updated_at": "20261126T152720Z"
 }
