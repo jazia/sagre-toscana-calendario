@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-11-26",
+  "extracted_at": "2026-11-27",
   "source": "https://www.sagretoscane.com/cerca?category=&date=&area=&q=",
   "pages": [
     {
@@ -48,7 +48,11 @@
     },
     {
       "page": 12,
-      "count": 3
+      "count": 10
+    },
+    {
+      "page": 13,
+      "count": 5
     }
   ],
   "events": [
@@ -4272,22 +4276,6 @@
       "note": ""
     },
     {
-      "name": "Florence Cards Show",
-      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html",
-      "category": "Fiere e Mercati",
-      "periods": [
-        [
-          "2026-11-07",
-          "2026-11-08"
-        ]
-      ],
-      "source_hash": "b92bc267c69f4f3c4ebe81fe50d24773e438d9a0ec378d5cd8ffe34c175699e0",
-      "modified_at": "20261026T111552Z",
-      "status": "CONFIRMED",
-      "location": "Firenze (FI), Toscana, Italia",
-      "note": ""
-    },
-    {
       "name": "Festa dell'Olio Nuovo",
       "url": "https://www.sagretoscane.com/rassegne/ar/pergine-valdarno/festa-dell-olio-nuovo-pergine.html",
       "category": "Eventi enogastronomici",
@@ -5952,6 +5940,22 @@
       "note": ""
     },
     {
+      "name": "Mercatino di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/ar/montemignaio/mercatino-di-natale-castello-montemignaio.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "c742e23f1f91949028e262e7f810004b3398f1a8b25a672b6385c1c5763d78ed",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Montemignaio (AR), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercato della Terra a Fiesole",
       "url": "https://www.sagretoscane.com/fiere-mercati/fi/fiesole/mercato-della-terra-fiesole.html",
       "category": "Fiere e Mercati",
@@ -6120,6 +6124,22 @@
       "note": ""
     },
     {
+      "name": "Sagra della Crogiantina",
+      "url": "https://www.sagretoscane.com/sagre/pi/guardistallo/sagra-della-crogiantina.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-11-29",
+          "2026-11-29"
+        ]
+      ],
+      "source_hash": "65d23fe4a8cae585e7362e63be3f6205bdac5419158ec39949cfa37668cb638b",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Guardistallo (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Mercato nel Campo",
       "url": "https://www.sagretoscane.com/fiere-mercati/si/siena/mercato-nel-campo.html",
       "category": "Fiere e Mercati",
@@ -6225,8 +6245,8 @@
           "2026-12-06"
         ]
       ],
-      "source_hash": "9496f3d5824666d59e2d1b459c1cc5c749d1e6e314301cefa6f8f8ee8ddcd218",
-      "modified_at": "20261111T124802Z",
+      "source_hash": "ffd659aa0250776de5e9b9a65b42f331b21caec7727e1f2ef41eaee3b26aaad6",
+      "modified_at": "20261127T151713Z",
       "status": "CONFIRMED",
       "location": "Scarperia e San Piero (FI), Toscana, Italia",
       "note": ""
@@ -6394,6 +6414,38 @@
       "note": ""
     },
     {
+      "name": "Festa dell'Olio",
+      "url": "https://www.sagretoscane.com/sagre/gr/sorano/festa-dell-olio-sorano.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-08"
+        ]
+      ],
+      "source_hash": "854b1ff611a286a4313faccad6e3437d38709e9645d636e317a400a6e4bc4c23",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Sorano (GR), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Castelnuovo Città della Castagna",
+      "url": "https://www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castelnuovo-citta-della-castagna.html",
+      "category": "Sagre gastronomiche",
+      "periods": [
+        [
+          "2026-12-05",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "32d03fb5c8e1776082a8d2221c9a5e3fe144b5ab0482470e6f03fe311c9940c9",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Castelnuovo di Garfagnana (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Natalia – Il Magico Paese della Parata di Babbo Natale",
       "url": "https://www.sagretoscane.com/feste/fi/fucecchio/natalia.html",
       "category": "Feste e Folclore",
@@ -6419,6 +6471,22 @@
       "modified_at": "20261123T161000Z",
       "status": "CONFIRMED",
       "location": "Fucecchio (FI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Natale a Massarosa",
+      "url": "https://www.sagretoscane.com/feste/lu/massarosa/natale-a-massarosa.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-26"
+        ]
+      ],
+      "source_hash": "50c1128ef03c43588554504faffc721961e35fb138a2a98f05d812e66e516167",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Massarosa (LU), Toscana, Italia",
       "note": ""
     },
     {
@@ -6519,6 +6587,22 @@
       "modified_at": "20261122T132703Z",
       "status": "CONFIRMED",
       "location": "San Casciano dei Bagni (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Festa dell'Olio Nuovo",
+      "url": "https://www.sagretoscane.com/rassegne/ar/cortona/festa-dell-olio-nuovo-terontola.html",
+      "category": "Eventi enogastronomici",
+      "periods": [
+        [
+          "2026-12-06",
+          "2026-12-06"
+        ]
+      ],
+      "source_hash": "43e6f50d0ded6917a7293b711b11f2d26543240adbc45768deb5828e04130377",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Cortona (AR), Toscana, Italia",
       "note": ""
     },
     {
@@ -6746,6 +6830,22 @@
       "note": ""
     },
     {
+      "name": "Festa di Natale a Montopoli",
+      "url": "https://www.sagretoscane.com/feste/pi/montopoli-in-val-darno/festa-di-natale-a-montopoli.html",
+      "category": "Feste e Folclore",
+      "periods": [
+        [
+          "2026-12-13",
+          "2026-12-13"
+        ]
+      ],
+      "source_hash": "f92bf0e29bb0c59bf649d82b574f502e7a21eab33a34771012d4942715cdc012",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Montopoli in Val dʼArno (PI), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Presepe Vivente",
       "url": "https://www.sagretoscane.com/feste/pi/santa-maria-a-monte/presepe-vivente-santa-maria-a-monte.html",
       "category": "Feste e Folclore",
@@ -6762,6 +6862,22 @@
       "note": ""
     },
     {
+      "name": "Mercatino di Natale",
+      "url": "https://www.sagretoscane.com/fiere-mercati/lu/barga/mercatino-di-natale-mologno.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-13",
+          "2026-12-13"
+        ]
+      ],
+      "source_hash": "5a37b900ab064fd6b08039f7ad5443a6c3cafcdc01a52b0c382e877a929c20f4",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Barga (LU), Toscana, Italia",
+      "note": ""
+    },
+    {
       "name": "Natale alle Finestre",
       "url": "https://www.sagretoscane.com/feste/si/sinalunga/natale-alle-finestre.html",
       "category": "Feste e Folclore",
@@ -6775,6 +6891,22 @@
       "modified_at": "20261126T152720Z",
       "status": "CONFIRMED",
       "location": "Sinalunga (SI), Toscana, Italia",
+      "note": ""
+    },
+    {
+      "name": "Florence Cards Show",
+      "url": "https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html",
+      "category": "Fiere e Mercati",
+      "periods": [
+        [
+          "2026-12-19",
+          "2026-12-20"
+        ]
+      ],
+      "source_hash": "0b5e5ed9a033d934a1999dbc6a62da0354fcb03fd054f17afafa6d52cf7d8a13",
+      "modified_at": "20261127T151713Z",
+      "status": "CONFIRMED",
+      "location": "Firenze (FI), Toscana, Italia",
       "note": ""
     },
     {
@@ -6862,5 +6994,5 @@
       "note": ""
     }
   ],
-  "updated_at": "20261126T152720Z"
+  "updated_at": "20261127T151713Z"
 }

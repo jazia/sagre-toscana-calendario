@@ -4,7 +4,7 @@ PRODID:-//jazia//Eventi Toscana - calendario non ufficiale//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eventi in Toscana
-X-WR-CALDESC:Ultima modifica dati: 2026-11-26. Fonte: SagreToscane.com. Cal
+X-WR-CALDESC:Ultima modifica dati: 2026-11-27. Fonte: SagreToscane.com. Cal
  endario non ufficiale.
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
@@ -6331,25 +6331,6 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:0158832e7da9dd3d15321fea984c20d6@sagre-toscana.jazia
-DTSTAMP:20261026T111552Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-SUMMARY;LANGUAGE=it:Florence Cards Show
-LOCATION:Firenze (FI)\, Toscana\, Italia
-DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
- //www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html\n
- Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
- re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
- riginale.
-URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-sh
- ow.html
-CATEGORIES:Fiere e Mercati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:678e16cedbcc335dc25fe301ae554fcd@sagre-toscana.jazia
 DTSTAMP:20261024T093733Z
 DTSTART;VALUE=DATE:20261107
@@ -8449,6 +8430,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:2edaf69c8b7cd9ddecae9ce9db62a102@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Mercatino di Natale
+LOCATION:Montemignaio (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/ar/montemignaio/mercatino-di-natale-c
+ astello-montemignaio.html\nLe date indicano i giorni della manifestazione\
+ , non un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventual
+ i variazioni nella scheda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/ar/montemignaio/mercatino-di
+ -natale-castello-montemignaio.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:c98f2fbfbfd299bff31fc71733fcf306@sagre-toscana.jazia
 DTSTAMP:20261124T155859Z
 DTSTART;VALUE=DATE:20261129
@@ -8677,6 +8677,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:e2ab29da5a310e61c2384987a1d48c3d@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY;LANGUAGE=it:Sagra della Crogiantina
+LOCATION:Guardistallo (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/pi/guardistallo/sagra-della-crogiantina.html\
+ nLe date indicano i giorni della manifestazione\, non un’apertura di 24 
+ ore. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda 
+ originale.
+URL:https://www.sagretoscane.com/sagre/pi/guardistallo/sagra-della-crogiant
+ ina.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:3b78f8a761d7cb9ef70ad8e10d94a1ce@sagre-toscana.jazia
 DTSTAMP:20261107T114826Z
 DTSTART;VALUE=DATE:20261204
@@ -8792,7 +8811,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:f27ae5549a685cd8e8fd579634141261@sagre-toscana.jazia
-DTSTAMP:20261111T124802Z
+DTSTAMP:20261127T151713Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY;LANGUAGE=it:Atmosfere d’Inverno in Palazzo
@@ -9001,6 +9020,44 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:4fdadecb8e8b87120488a1c8f5371d65@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY;LANGUAGE=it:Festa dell'Olio
+LOCATION:Sorano (GR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/gr/sorano/festa-dell-olio-sorano.html\nLe dat
+ e indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ve
+ rificare orari\, prenotazioni ed eventuali variazioni nella scheda origina
+ le.
+URL:https://www.sagretoscane.com/sagre/gr/sorano/festa-dell-olio-sorano.htm
+ l
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:5e460367602d19be367e58da551605f8@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Castelnuovo Città della Castagna
+LOCATION:Castelnuovo di Garfagnana (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/castelnuovo-citt
+ a-della-castagna.html\nLe date indicano i giorni della manifestazione\, no
+ n un’apertura di 24 ore. Verificare orari\, prenotazioni ed eventuali va
+ riazioni nella scheda originale.
+URL:https://www.sagretoscane.com/sagre/lu/castelnuovo-di-garfagnana/casteln
+ uovo-citta-della-castagna.html
+CATEGORIES:Sagre gastronomiche
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:dfb0d2557ad57688ec7abbcc3764232a@sagre-toscana.jazia
 DTSTAMP:20261123T161000Z
 DTSTART;VALUE=DATE:20261206
@@ -9067,6 +9124,24 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
   giorni della manifestazione\, non un’apertura di 24 ore. Verificare ora
  ri\, prenotazioni ed eventuali variazioni nella scheda originale.
 URL:https://www.sagretoscane.com/feste/fi/fucecchio/natalia.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3eb2d786ae2c55e0d7f66ca0b054d4@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261227
+SUMMARY;LANGUAGE=it:Natale a Massarosa
+LOCATION:Massarosa (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/lu/massarosa/natale-a-massarosa.html\nLe date
+  indicano i giorni della manifestazione\, non un’apertura di 24 ore. Ver
+ ificare orari\, prenotazioni ed eventuali variazioni nella scheda original
+ e.
+URL:https://www.sagretoscane.com/feste/lu/massarosa/natale-a-massarosa.html
 CATEGORIES:Feste e Folclore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9181,6 +9256,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/fiere-mercati/si/san-casciano-dei-bagni/me
  rcatino-di-natale-san-casciano-dei-bagni.html
 CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:16c1a0c499a260240cc7509035c3ee32@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY;LANGUAGE=it:Festa dell'Olio Nuovo
+LOCATION:Cortona (AR)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/rassegne/ar/cortona/festa-dell-olio-nuovo-terontola
+ .html\nLe date indicano i giorni della manifestazione\, non un’apertura 
+ di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella s
+ cheda originale.
+URL:https://www.sagretoscane.com/rassegne/ar/cortona/festa-dell-olio-nuovo-
+ terontola.html
+CATEGORIES:Eventi enogastronomici
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -9449,6 +9543,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:33489af948a5a02424a447e81ef9d506@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY;LANGUAGE=it:Festa di Natale a Montopoli
+LOCATION:Montopoli in Val dʼArno (PI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/feste/pi/montopoli-in-val-darno/festa-di-natale-a-m
+ ontopoli.html\nLe date indicano i giorni della manifestazione\, non un’a
+ pertura di 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni
+  nella scheda originale.
+URL:https://www.sagretoscane.com/feste/pi/montopoli-in-val-darno/festa-di-n
+ atale-a-montopoli.html
+CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:851bf3ccbd12aefceecc0377e2e1e49e@sagre-toscana.jazia
 DTSTAMP:20261123T161000Z
 DTSTART;VALUE=DATE:20261213
@@ -9468,6 +9581,25 @@ TRANSP:TRANSPARENT
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:c5ba02bf971a37c70b3dcc7ec1b9e58f@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY;LANGUAGE=it:Mercatino di Natale
+LOCATION:Barga (LU)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/lu/barga/mercatino-di-natale-mologno.
+ html\nLe date indicano i giorni della manifestazione\, non un’apertura d
+ i 24 ore. Verificare orari\, prenotazioni ed eventuali variazioni nella sc
+ heda originale.
+URL:https://www.sagretoscane.com/fiere-mercati/lu/barga/mercatino-di-natale
+ -mologno.html
+CATEGORIES:Fiere e Mercati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:f4b78f99e75e7320d4d78862c91cce64@sagre-toscana.jazia
 DTSTAMP:20261126T152720Z
 DTSTART;VALUE=DATE:20261219
@@ -9482,6 +9614,25 @@ DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
 URL:https://www.sagretoscane.com/feste/si/sinalunga/natale-alle-finestre.ht
  ml
 CATEGORIES:Feste e Folclore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:cced1751f79c825d4106a4466d3539ec@sagre-toscana.jazia
+DTSTAMP:20261127T151713Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY;LANGUAGE=it:Florence Cards Show
+LOCATION:Firenze (FI)\, Toscana\, Italia
+DESCRIPTION;LANGUAGE=it:Fonte: SagreToscane.com\nScheda e programma: https:
+ //www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-show.html\n
+ Le date indicano i giorni della manifestazione\, non un’apertura di 24 o
+ re. Verificare orari\, prenotazioni ed eventuali variazioni nella scheda o
+ riginale.
+URL:https://www.sagretoscane.com/fiere-mercati/fi/firenze/florence-cards-sh
+ ow.html
+CATEGORIES:Fiere e Mercati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

@@ -10,6 +10,7 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Zaragustando](https://www.sagretoscane.com/sagre/gr/castellazzara/zaragustando.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Caldarroste in Piazza](https://www.sagretoscane.com/sagre/si/san-gimignano/castagne-e-vino-novo.html): Date del programma discordanti con intestazione.
 - [Natale a Castelfalfi](https://www.sagretoscane.com/feste/fi/montaione/natale-a-castelfalfi.html): Giorni effettivi non ricavabili con certezza dal testo.
+- [Fiera del Disco, Fumetto e Carte da collezione](https://www.sagretoscane.com/fiere-mercati/pt/pistoia/fiera-del-disco-e-del-fumetto-pistoia.html): Date del programma discordanti con intestazione.
 - [Natale a Sant'Angelo](https://www.sagretoscane.com/fiere-mercati/lu/lucca/natale-a-sant-angelo-in-campo.html): Giorni effettivi non ricavabili con certezza dal testo.
 - [Tortellini e trippa](https://www.sagretoscane.com/rassegne/pi/buti/tortellini-e-trippa-cascine-di-buti.html): Date del programma discordanti con intestazione.
 - [Weihnachtsmarkt, Mercato di Natale](https://www.sagretoscane.com/fiere-mercati/fi/firenze/weihnachtsmarkt-mercatino-di-natale-tedesco.html): Rassegna lunga: serve controllo del programma.
@@ -21,6 +22,7 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [La Torre di Babbo Natale e i suoi Mercatini](https://www.sagretoscane.com/feste/ar/castiglion-fiorentino/natale-castiglionese.html): Weekend non enumerati chiaramente.
 - [Dicembre in Festa](https://www.sagretoscane.com/feste/li/san-vincenzo/dicembre-in-festa.html): Intervallo a cavallo di due anni da verificare.
 - [Arezzo Città del Natale](https://www.sagretoscane.com/feste/ar/arezzo/mercatini-di-natale-arezzo.html): Intervallo a cavallo di due anni da verificare.
+- [Natale a Cortona](https://www.sagretoscane.com/feste/ar/cortona/natale-a-cortona.html): Intervallo a cavallo di due anni da verificare.
 - [Natale a Castelnuovo](https://www.sagretoscane.com/feste/lu/castelnuovo-di-garfagnana/natale-a-castelnuovo.html): Intervallo a cavallo di due anni da verificare.
 - [Varchi di Natale](https://www.sagretoscane.com/feste/ar/montevarchi/varchi-di-natale.html): Intervallo a cavallo di due anni da verificare.
 - [I Presepi di Sovicille](https://www.sagretoscane.com/feste/si/sovicille/i-presepi-di-sovicille.html): Intervallo a cavallo di due anni da verificare.
@@ -32,6 +34,7 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Christmas Village – Abetone](https://www.sagretoscane.com/feste/pt/abetone-cutigliano/christmas-village-abetone.html): Intervallo a cavallo di due anni da verificare.
 - [Destinazione Natale](https://www.sagretoscane.com/feste/pt/montecatini-terme/natale-a-montecatini-terme.html): Intervallo a cavallo di due anni da verificare.
 - [Natale a Montepulciano](https://www.sagretoscane.com/fiere-mercati/si/montepulciano/natale-a-montepulciano.html): Intervallo a cavallo di due anni da verificare.
+- [Monte Christmas - Natale a Montespertoli](https://www.sagretoscane.com/feste/fi/montespertoli/monte-christmas.html): Intervallo a cavallo di due anni da verificare.
 - [Empoli Città del Natale](https://www.sagretoscane.com/feste/fi/empoli/empoli-citta-del-natale.html): Intervallo a cavallo di due anni da verificare.
 - [Montalcino dal vivo – Natale 2026](https://www.sagretoscane.com/feste/si/montalcino/montalcino-natale-2022.html): Intervallo a cavallo di due anni da verificare.
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.
