@@ -39,4 +39,5 @@ Le schede ambigue nuove non entrano nel feed; per quelle già pubblicate resta l
 - [Montalcino dal vivo – Natale 2026](https://www.sagretoscane.com/feste/si/montalcino/montalcino-natale-2022.html): Intervallo a cavallo di due anni da verificare.
 - [Siena Incanta: il Natale si accende](https://www.sagretoscane.com/feste/si/siena/natale-a-siena.html): Intervallo a cavallo di due anni da verificare.
 - [Presepe Artistico](https://www.sagretoscane.com/feste/pi/san-miniato/presepe-artistico.html): Intervallo a cavallo di due anni da verificare.
+- [Accade d'inverno](https://www.sagretoscane.com/feste/si/san-gimignano/accade-d-inverno.html): Intervallo a cavallo di due anni da verificare.
 - [Festa Invernale](https://www.sagretoscane.com/feste/pi/pomarance/festa-invernale.html): Intervallo a cavallo di due anni da verificare.
